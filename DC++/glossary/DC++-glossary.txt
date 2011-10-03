@@ -1,0 +1,51 @@
+alias	назоўка
+antivirus	супрацьвірус	
+authentication	апазнавацца
+browse	зірнуць
+bug	хі́ба
+cid	азначальнік
+computer	асьветар
+core	аснова
+Download Queue	Чарга сьцягванага
+download	сьцягваць
+EiskaltDC++	EiskaltDC++	
+email	сецівапошта
+encoding	кадоўка
+Explorer	Прагляднік
+feed	стужка
+FlylinkDC++	FlylinkDC++
+fragmentation	урыўкавасьць
+frame	кадар
+handlers	апрацоўнікі
+highlight	падсьвечваць
+hub	асяродак
+internet	сеціва
+internet	словасьвет
+MiniUPNP	MiniUPNP	
+modem	злучар
+module	убудова
+monospaced	роўнашырокі
+notify	спавяшчаць
+offline	ня ў сетцы
+offline	па-за сеткаю	Offline
+online	у сетцы
+panels	панэлі
+password	гасло
+performance	выніковасьць
+popups	вынырцы
+popups	падказкі
+popup	вынырац
+public	адкрыты
+refresh	абнаўляць
+router	маршрутавальнік
+share	абагуленае
+share	абагуляць
+system files	сыстэмныя файлы
+tab	картка
+timestamp	часадзнака
+toolbar	паліца прыладаў
+widgets	ваконцы
+widget	ваконца
+wildcards	маскі
+wildcard	маска
+WinUPNP	WinUPNP

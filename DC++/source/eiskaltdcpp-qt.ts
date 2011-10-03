@@ -1,0 +1,1 @@
+/home/kliok/current/eiskaltdc/sources/eiskaltdcpp-qt/translations/be.ts

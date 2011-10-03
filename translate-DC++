@@ -1,0 +1,32 @@
+#!/bin/sh
+cd /home/kliok/Пераклады/DC++/DC++.OmegaT/
+
+./replace-in ./DC++/source/FlylinkDC++ > ./DC++/source/FlylinkDC++.xml
+./replace-in ./DC++/source/ApexDC++ > ./DC++/source/ApexDC++.xml
+./replace-in ./DC++/source/StrongDC++ > ./DC++/source/StrongDC++.xml
+ts2po ./DC++/source/eiskaltdcpp-qt.ts > ./DC++/source/eiskaltdcpp-qt.po
+
+#java -jar DC++.OmegaT/OmegaT.jar --config-dir=DC++.settings DC++
+omegat --config-dir=DC++.settings DC++
+
+cd DC++/glossary
+cp DC++-glossary.txt DC++-glossary.txt~
+sort DC++-glossary.txt~ | egrep -v ^$ > DC++-glossary.txt
+cd ../omegat
+cp ignored_words.txt ignored_words.txt~
+sort ignored_words.txt~ | egrep -v ^$ > ignored_words.txt
+cp learned_words.txt learned_words.txt~
+sort learned_words.txt~ | egrep -v ^$ > learned_words.txt
+
+date +%Y.%j > ../date.txt
+
+cd ../target
+../../replace-out FlylinkDC++.xml > FlylinkDC++.target
+../../replace-out ApexDC++.xml > ApexDC++.target
+../../replace-out StrongDC++.xml > StrongDC++.target
+cp FlylinkDC++.target FlylinkDC++.xml
+cp ApexDC++.target ApexDC++.xml
+cp StrongDC++.target StrongDC++.xml
+rm *.target
+
+po2ts eiskaltdcpp-qt.po > eiskaltdcpp-qt.ts

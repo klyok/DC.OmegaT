@@ -1,0 +1,6386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-03 10:28+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: ADLS#1
+msgctxt "ADLS#1"
+msgid "ADLSearch"
+msgstr "Самарушна шукаць у сьпісах"
+
+#: ADLS#2
+msgctxt "ADLS#2"
+msgid "Add new"
+msgstr "Дадаць"
+
+#: ADLS#3
+msgctxt "ADLS#3"
+msgid "Change"
+msgstr "Зьмяніць"
+
+#: ADLS#4
+msgctxt "ADLS#4"
+"ADLS#4"
+"ADLS#4"
+msgid "Delete"
+msgstr "Выкрасьліць"
+
+#: ADLS#5
+msgctxt "ADLS#5"
+msgid "Filename"
+msgstr "Назва файла"
+
+#: ADLS#6
+msgctxt "ADLS#6"
+msgid "Directory"
+msgstr "Каталёґ"
+
+#: ADLS#7
+msgid "Full Path"
+msgstr "Поўны шлях"
+
+#: ADLS#8
+msgctxt "ADLS#8"
+msgid "B"
+msgstr "Б"
+
+#: ADLS#9
+msgctxt "ADLS#9"
+msgid "KiB"
+msgstr "КіБ"
+
+#: ADLS#10
+msgctxt "ADLS#10"
+msgid "MiB"
+msgstr "МіБ"
+
+#: ADLS#11
+msgctxt "ADLS#11"
+msgid "GiB"
+msgstr "ГіБ"
+
+#: ADLSModel#1
+msgid "Checked"
+msgstr "Дзейнічае"
+
+#: ADLSModel#2
+msgid "Search String"
+msgstr "Шукаць радок"
+
+#: ADLSModel#3
+msgctxt "ADLSModel#3"
+msgid "Type source"
+msgstr "Від крыніцы"
+
+#: ADLSModel#4
+msgid "Name directory"
+msgstr "Назва каталёґа"
+
+#: ADLSModel#5
+msgid "Min. Size"
+msgstr "Найм. памер"
+
+#: ADLSModel#6
+msgid "Max. Size"
+msgstr "Найб. памер"
+
+#: ADLSModel#7
+msgid "Type Size"
+msgstr "Памернасьць"
+
+#: About#1
+msgid ""
+"Using:\n"
+"  eiskaltdcpp-qt <magnet link> <dchub://link> <adc(s)://link>\n"
+"  eiskaltdcpp-qt <Key>\n"
+"EiskaltDC++ is a cross-platform program that uses the Direct Connect and ADC "
+"protocol.\n"
+"\n"
+"Keys:\n"
+"  -h, --help\t Show this message\n"
+"  -v, --version\t Show version string"
+msgstr ""
+"Як карыстацца:\n"
+"  eiskaltdcpp-qt <маґніт-спасылка> <dchub://спасылка> <adc(s)://спасылка>\n"
+"  eiskaltdcpp-qt <ключ>\n"
+"EiskaltDC++ — гэта міжплятформавая праґрама, якая выкарыстоўвае пратаколы "
+"Direct Connect і ADC.\n"
+"\n"
+"Ключы:\n"
+"  -h, --help\t Паказвае гэтае паведамленьне\n"
+"  -v, --version\t Паказвае радок з вэрсіяй"
+
+#: ActionCustomizer#1
+msgid "Customize actions"
+msgstr "Наладзіць дзеяньні"
+
+#: ActionCustomizer#2
+msgid "-- Separator --"
+msgstr "— Аддзяляльнік —"
+
+#: AntiSpam#1
+msgid "Checking user %1 (message: %2, cid: %3)..."
+msgstr "Спраўджваецца карыстальнік %1 (паведамленьне: %2, cid: %3)…"
+
+#: AntiSpam#2
+msgid "%1: Moving user to GRAY."
+msgstr "%1 Перасоўваем карыстальніка ў шэры сьпіс."
+
+#: AntiSpam#3
+msgid "%1: Moving user to BLACK."
+msgstr "%1 Перасоўваем карыстальніка ў чорны сьпіс."
+
+#: AntiSpam#4
+msgid "%1: Sending \"Try again\" message."
+msgstr "%1: Дасылаем паведамленьне «Спрабуйце яшчэ»."
+
+#: AntiSpam#5
+msgid "Hi, this is AntiSpam bot. So question is \"%1\""
+msgstr "Вас вітае бот супраць лухты. Такім чынам, пытаньне наступнае: «%1»"
+
+#: CustomFontModel#1
+msgctxt "CustomFontModel#1"
+msgid "Description"
+msgstr "Апісаньне"
+
+#: CustomFontModel#2
+msgid "Font"
+msgstr "Шрыфт"
+
+#: CustomFontModel#3
+msgid "Application"
+msgstr "Праґрама"
+
+#: CustomFontModel#4
+msgid "Public Chat: Chat"
+msgstr "Агульная гамана: гамана"
+
+#: CustomFontModel#5
+msgid "Public Chat: Userlist"
+msgstr "Агульная гамана: сьпіс карыстальнікаў"
+
+#: CustomFontModel#6
+msgid "Private Chat"
+msgstr "Асабістая гамана"
+
+#: DialogScriptConsole#1
+msgctxt "DialogScriptConsole#1"
+"DialogScriptConsole#1"
+msgid "Dialog"
+msgstr ""
+
+#: DialogScriptConsole#2
+msgctxt "DialogScriptConsole#2"
+msgid "Start"
+msgstr "Пачаць"
+
+#: DialogScriptConsole#3
+msgctxt "DialogScriptConsole#3"
+msgid "Stop"
+msgstr "Спыніць"
+
+#: DownloadQueue#1
+msgctxt "DownloadQueue#1"
+msgid "Magnet"
+msgstr "Маґніт-спасылка"
+
+#: DownloadQueue#2
+msgctxt "DownloadQueue#2"
+msgid "Search for alternates"
+msgstr "Шукаць іншыя крыніцы"
+
+#: DownloadQueue#3
+msgctxt "DownloadQueue#3"
+msgid "Copy magnet"
+msgstr "Перапісаць маґніт-спасылку"
+
+#: DownloadQueue#4
+msgctxt "DownloadQueue#4"
+msgid "Copy web-magnet"
+msgstr "Перапісаць маґніт-спасылку для сеціва"
+
+#: DownloadQueue#5
+msgctxt "DownloadQueue#5"
+msgid "Properties of magnet"
+msgstr "Уласьцівасьці маґніт-спасылкі"
+
+#: DownloadQueue#6
+msgid "Rename/Move"
+msgstr "Пераназваць/Перасунуць"
+
+#: DownloadQueue#7
+msgid "Set priority"
+msgstr "Вызначыць пяршынства"
+
+#: DownloadQueue#8
+msgctxt "DownloadQueue#8"
+msgid "Paused"
+msgstr "Прыпынены"
+
+#: DownloadQueue#9
+msgctxt "DownloadQueue#9"
+msgid "Lowest"
+msgstr "Найніжэйшае"
+
+#: DownloadQueue#10
+msgctxt "DownloadQueue#10"
+msgid "Low"
+msgstr "Нізкае"
+
+#: DownloadQueue#11
+msgctxt "DownloadQueue#11"
+msgid "Normal"
+msgstr "Звычайнае"
+
+#: DownloadQueue#12
+msgctxt "DownloadQueue#12"
+msgid "High"
+msgstr "Высокае"
+
+#: DownloadQueue#13
+msgctxt "DownloadQueue#13"
+msgid "Highest"
+msgstr "Найвышэйшае"
+
+#: DownloadQueue#14
+msgctxt "DownloadQueue#14"
+msgid "Browse files"
+msgstr "Прагледзець файлы"
+
+#: DownloadQueue#15
+msgid "Send private message"
+msgstr "Даслаць асабістае паведамленьне"
+
+#: DownloadQueue#16
+msgid "Remove source"
+msgstr "Выкрасьліць крыніцу"
+
+#: DownloadQueue#17
+msgid "Remove user"
+msgstr "Выкрасьліць карыстальніка"
+
+#: DownloadQueue#18
+msgctxt "DownloadQueue#18"
+msgid "Remove"
+msgstr "Выкрасьліць"
+
+#: DownloadQueue#19
+msgid "No users..."
+msgstr "Няма карыстальнікаў…"
+
+#: DownloadQueue#20
+msgid "%1 of %2 user(s) online"
+msgstr "%1 з %2 карыстальнікаў далучаныя"
+
+#: DownloadQueue#21
+msgid "Running..."
+msgstr "Выконваецца…"
+
+#: DownloadQueue#22
+msgid "File not available"
+msgstr "Файл не даступны"
+
+#: DownloadQueue#23
+msgid "Passive user"
+msgstr "Нядзейны карыстальнік"
+
+#: DownloadQueue#24
+msgid "Checksum mismatch"
+msgstr "Неадпаведная кантрольная сума"
+
+#: DownloadQueue#25
+msgid "Full tree does not match TTH root"
+msgstr "Скарот (TTH) сьцягнутага не адпавядае скароту крыніцы"
+
+#: DownloadQueue#26
+msgid "Source too slow"
+msgstr "Запавольная крыніца"
+
+#: DownloadQueue#27
+msgid "Remote client does not fully support TTH - cannot download"
+msgstr "Нельга сьцягнуць: другі кліент ня цалкам падтрымвае скароты TTH"
+
+#: DownloadQueue#28
+msgctxt "DownloadQueue#28"
+msgid "No errors"
+msgstr "Няма памылак"
+
+#: DownloadQueue#29
+msgid "Choose filename"
+msgstr "Абярыце назву файла"
+
+#: DownloadQueue#30
+msgctxt "DownloadQueue#30"
+msgid "All files (*.*)"
+msgstr "Усе файлы (*.*)"
+
+#: DownloadQueue#31
+msgctxt "DownloadQueue#31"
+msgid "Download Queue"
+msgstr "Чарга сьцягваць файлы"
+
+#: DownloadQueueModel#1
+msgctxt "DownloadQueueModel#1"
+msgid "Name"
+msgstr "Назва"
+
+#: DownloadQueueModel#2
+msgctxt "DownloadQueueModel#2"
+msgid "Status"
+msgstr "Стан"
+
+#: DownloadQueueModel#3
+msgctxt "DownloadQueueModel#3"
+msgid "Size"
+msgstr "Памер"
+
+#: DownloadQueueModel#4
+msgid "Downloaded"
+msgstr "Сьцягнулі"
+
+#: DownloadQueueModel#5
+msgid "Priority"
+msgstr "Пяршынства"
+
+#: DownloadQueueModel#6
+msgctxt "DownloadQueueModel#6"
+msgid "User"
+msgstr "Карыстальнік"
+
+#: DownloadQueueModel#7
+msgctxt "DownloadQueueModel#7"
+msgid "Path"
+msgstr "Шлях"
+
+#: DownloadQueueModel#8
+msgctxt "DownloadQueueModel#8"
+msgid "Exact size"
+msgstr "Дакладны памер"
+
+#: DownloadQueueModel#9
+msgid "Errors"
+msgstr "Памылкі"
+
+#: DownloadQueueModel#10
+msgid "Added"
+msgstr "Дадалі"
+
+#: DownloadQueueModel#11
+msgctxt "DownloadQueueModel#11"
+msgid "TTH"
+msgstr "Скарот (TTH)"
+
+#: DownloadQueueModel#12
+msgctxt "DownloadQueueModel#12"
+msgid "Paused"
+msgstr "Прыпынены"
+
+#: DownloadQueueModel#13
+msgctxt "DownloadQueueModel#13"
+msgid "Lowest"
+msgstr "Найніжэйшае"
+
+#: DownloadQueueModel#14
+msgctxt "DownloadQueueModel#14"
+msgid "Low"
+msgstr "Нізкае"
+
+#: DownloadQueueModel#15
+msgctxt "DownloadQueueModel#15"
+msgid "High"
+msgstr "Высокае"
+
+#: DownloadQueueModel#16
+msgctxt "DownloadQueueModel#16"
+msgid "Highest"
+msgstr "Найвышэйшае"
+
+#: DownloadQueueModel#17
+msgctxt "DownloadQueueModel#17"
+msgid "Normal"
+msgstr "Звычайнае"
+
+#: DownloadQueueModel#18
+msgctxt "DownloadQueueModel#18"
+msgid "No errors"
+msgstr "Няма памылак"
+
+#: DownloadQueueModel#19
+msgid ""
+"<b>Added: </b> %1\n"
+"<b>Path: </b> %2\n"
+"<b>Errors: </b> %3\n"
+msgstr ""
+"<b>Дадалі: </b> %1\n"
+"<b>Шлях: </b> %2\n"
+"<b>Памылкі: </b> %3\n"
+
+#: EmoticonDialog#1
+msgid "Select emoticon"
+msgstr "Абраць пачуцьцезнак"
+
+#: FavoriteHubModel#1
+msgid "Autoconnect"
+msgstr "Злучацца па запуску"
+
+#: FavoriteHubModel#2
+msgctxt "FavoriteHubModel#2"
+msgid "Name"
+msgstr "Назва"
+
+#: FavoriteHubModel#3
+msgctxt "FavoriteHubModel#3"
+msgid "Description"
+msgstr "Апісаньне"
+
+#: FavoriteHubModel#4
+msgctxt "FavoriteHubModel#4"
+msgid "Address"
+msgstr "Адрас"
+
+#: FavoriteHubModel#5
+msgctxt "FavoriteHubModel#5"
+msgid "Nick"
+msgstr "Мянушка"
+
+#: FavoriteHubModel#6
+msgctxt "FavoriteHubModel#6"
+msgid "Password"
+msgstr "Гасло"
+
+#: FavoriteHubModel#7
+msgctxt "FavoriteHubModel#7"
+msgid "User description"
+msgstr "Апісаньне карыстальніка"
+
+#: FavoriteHubModel#8
+msgid "Remote encoding"
+msgstr "Знаказбор асяродку"
+
+#: FavoriteHubModel#9
+msgid "******"
+msgstr ""
+
+#: FavoriteHubs#1
+msgid "Favorite hubs"
+msgstr "Улюбёныя асяродкі"
+
+#: FavoriteHubs#2
+msgctxt "FavoriteHubs#2"
+"FavoriteHubs#2"
+msgid "System default"
+msgstr "Звычайны"
+
+#: FavoriteHubs#3
+msgctxt "FavoriteHubs#3"
+msgid "Add new"
+msgstr "Дадаць"
+
+#: FavoriteHubs#4
+msgctxt "FavoriteHubs#4"
+msgid "Change"
+msgstr "Зьмяніць"
+
+#: FavoriteHubs#5
+msgctxt "FavoriteHubs#5"
+msgid "Delete"
+msgstr "Сьцерці"
+
+#: FavoriteHubs#6
+msgctxt "FavoriteHubs#6"
+msgid "Connect"
+msgstr "Злучыцца"
+
+#: FavoriteUsers#1
+msgid "Online"
+msgstr "Далучаны"
+
+#: FavoriteUsers#2
+msgctxt "FavoriteUsers#2"
+msgid "Description"
+msgstr "Апісаньне"
+
+#: FavoriteUsers#3
+msgctxt "FavoriteUsers#3"
+msgid "Remove"
+msgstr "Выкрасьліць"
+
+#: FavoriteUsers#4
+msgid "Grant/Remove slot"
+msgstr "Даць/Забраць шчыліну"
+
+#: FavoriteUsers#5
+msgctxt "FavoriteUsers#5"
+msgid "Favourite users"
+msgstr "Улюбёнцы"
+
+#: FavoriteUsersModel#1
+msgctxt "FavoriteUsersModel#1"
+msgid "Nick"
+msgstr "Мянушка"
+
+#: FavoriteUsersModel#2
+msgctxt "FavoriteUsersModel#2"
+msgid "Hub"
+msgstr "Асяродак"
+
+#: FavoriteUsersModel#3
+msgid "Last seen"
+msgstr "Апошні раз бачылі"
+
+#: FavoriteUsersModel#4
+msgctxt "FavoriteUsersModel#4"
+msgid "Description"
+msgstr "Апісаньне"
+
+#: FileBrowserModel#1
+msgctxt "FileBrowserModel#1"
+msgid "Name"
+msgstr "Назва"
+
+#: FileBrowserModel#2
+msgctxt "FileBrowserModel#2"
+msgid "Size"
+msgstr "Памер"
+
+#: FileBrowserModel#3
+msgctxt "FileBrowserModel#3"
+msgid "Exact size"
+msgstr "Дакладны памер"
+
+#: FileBrowserModel#4
+msgctxt "FileBrowserModel#4"
+msgid "TTH"
+msgstr "Скарот (TTH)"
+
+#: FileBrowserModel#5
+msgid "%1 [%2 Gb]"
+msgstr "%1 [%2 Гб]"
+
+#: FileBrowserModel#6
+msgid "File marked as a duplicate of another file: %1"
+msgstr "Файл пазначылі як паўтор іншага файла: %1"
+
+#: FileBrowserModel#7
+msgctxt "FileBrowserModel#7"
+msgid "File already exists: %1"
+msgstr "Файл ужо існуе: %1"
+
+#: FileHasher#1
+msgctxt "FileHasher#1"
+msgid "Select file"
+msgstr "Абярыце файл"
+
+#: FileHasher#2
+msgctxt "FileHasher#2"
+msgid "All files (*.*)"
+msgstr "Усе файлы (*.*)"
+
+#: FinishedTransferProxy#1
+msgctxt "FinishedTransferProxy#1"
+msgid "Finished uploads"
+msgstr "Зацягнутае"
+
+#: FinishedTransferProxy#2
+msgctxt "FinishedTransferProxy#2"
+msgid "Finished downloads"
+msgstr "Сьцягнутае"
+
+#: FinishedTransfers#1
+msgid "Open file"
+msgstr "Адчыніць файл"
+
+#: FinishedTransfers#2
+msgctxt "FinishedTransfers#2"
+msgid "Open directory"
+msgstr "Адчыніць каталёґ"
+
+#. (obsolete)
+#: FinishedTransfers#3
+msgctxt "FinishedTransfers#3"
+msgid "Yes"
+msgstr "Так"
+
+#: FinishedTransfersModel#1
+msgctxt "FinishedTransfersModel#1"
+msgid "User"
+msgstr "Карыстальнік"
+
+#: FinishedTransfersModel#2
+msgctxt "FinishedTransfersModel#2"
+msgid "Files"
+msgstr "Файлы"
+
+#: FinishedTransfersModel#3
+msgid "Time"
+msgstr "Час"
+
+#: FinishedTransfersModel#4
+msgid "Transferred"
+msgstr "Перадалося"
+
+#: FinishedTransfersModel#5
+msgctxt "FinishedTransfersModel#5"
+msgid "Speed"
+msgstr "Хуткасьць"
+
+#: FinishedTransfersModel#6
+msgid "Elapsed time"
+msgstr "Мінула часу"
+
+#: FinishedTransfersModel#7
+msgid "Full"
+msgstr "Скончылі"
+
+#: FinishedTransfersModel#8
+msgctxt "FinishedTransfersModel#8"
+msgid "Filename"
+msgstr "Назва файла"
+
+#: FinishedTransfersModel#9
+msgctxt "FinishedTransfersModel#9"
+msgid "Path"
+msgstr "Шлях"
+
+#: FinishedTransfersModel#10
+msgid "Check sum"
+msgstr "Кантрольная сума"
+
+#: FinishedTransfersModel#11
+msgid "%1/s"
+msgstr "%1/с"
+
+#. (obsolete)
+#: FinishedTransfersModel#12
+msgctxt "FinishedTransfersModel#12"
+msgid "Yes"
+msgstr "Так"
+
+#. (obsolete)
+#: FinishedTransfersModel#13
+msgctxt "FinishedTransfersModel#13"
+msgid "No"
+msgstr "Не"
+
+#: FinishedTransfersModel#14
+msgid "Target"
+msgstr "Прызначэньне"
+
+#: HashProgress#1
+msgid "Resume"
+msgstr "Працягваць"
+
+#: HashProgress#2
+msgid "Pause"
+msgstr "Прыпыніць"
+
+#: HashProgress#3
+msgctxt "HashProgress#3"
+msgid "Start"
+msgstr "Пачаць"
+
+#: HashProgress#4
+msgid "-.-- files/h, %1 files left"
+msgstr "-.-- файлаў за гадзіну, засталося %1 файлаў"
+
+#: HashProgress#5
+msgid "Refreshing file list"
+msgstr "Дапаўняецца сьпіс файлаў"
+
+#: HashProgress#6
+msgid "-.-- B/s, %1 left"
+msgstr "-.-- Б/с, засталося %1"
+
+#: HashProgress#7
+msgid "-:--:--"
+msgstr ""
+
+#: HashProgress#8
+msgid "%1 files/h, %2 files left"
+msgstr "%1 файлаў за гадзіну, засталося %2 файлаў"
+
+#: HashProgress#9
+msgid "%1/s, %2 left, %3 shared"
+msgstr "%1/с; засталося %2, абагулілі %3"
+
+#: HashProgress#10
+msgid "%p% %1 left"
+msgstr "%p% %1 засталося"
+
+#: HashProgress#11
+msgid "Done"
+msgstr "Скончылі"
+
+#: HubFrame#1
+msgctxt "HubFrame#1"
+msgid "Copy"
+msgstr "Перапісаць у кішэню"
+
+#: HubFrame#2
+msgid "Search text"
+msgstr "Шукаць тэкст"
+
+#: HubFrame#3
+msgid "Copy nick"
+msgstr "Перапісаць мянушку"
+
+#: HubFrame#4
+msgid "Show in list"
+msgstr "Паказаць у сьпісе"
+
+#: HubFrame#5
+msgctxt "HubFrame#5"
+msgid "Browse files"
+msgstr "Прагледзець файлы"
+
+#: HubFrame#6
+msgctxt "HubFrame#6"
+msgid "Match Queue"
+msgstr "Узгадніць чаргу"
+
+#: HubFrame#7
+msgid "Private Message"
+msgstr "Асабістае паведамленьне"
+
+#: HubFrame#8
+msgid "Add to Favorites"
+msgstr "Дадаць да ўлюбёнцаў"
+
+#: HubFrame#9
+msgid "Remove from Favorites"
+msgstr "Выкрасьліць з улюбёнцаў"
+
+#: HubFrame#10
+msgctxt "HubFrame#10"
+msgid "Grant slot"
+msgstr "Даць шчыліну"
+
+#: HubFrame#11
+msgctxt "HubFrame#11"
+msgid "Remove from Queue"
+msgstr "Выкрасьліць з чаргі"
+
+#: HubFrame#12
+msgctxt "HubFrame#12"
+msgid "Clear chat"
+msgstr "Ачысьціць гаману"
+
+#: HubFrame#13
+msgid "Find in chat"
+msgstr "Шукаць у гамане"
+
+#: HubFrame#14
+msgid "Disable/Enable chat"
+msgstr "Забараніць або задзейнічаць гаману"
+
+#: HubFrame#15
+msgid "Select all"
+msgstr "Выбраць усё"
+
+#: HubFrame#16
+msgid "Zoom In"
+msgstr "Павялічыць"
+
+#: HubFrame#17
+msgid "Zoom Out"
+msgstr "Паменшыць"
+
+#: HubFrame#18
+msgctxt "HubFrame#18"
+msgid "Nick"
+msgstr "Мянушку"
+
+#: HubFrame#19
+msgctxt "HubFrame#19"
+msgid "IP"
+msgstr "Адрас IP"
+
+#: HubFrame#20
+msgctxt "HubFrame#20"
+msgid "Share"
+msgstr "Абагуленае"
+
+#: HubFrame#21
+msgctxt "HubFrame#21"
+msgid "Tag"
+msgstr "Бірку"
+
+#: HubFrame#22
+msgid "All"
+msgstr "Усё"
+
+#: HubFrame#23
+msgid "Hub menu"
+msgstr "Мэню асяродку"
+
+#: HubFrame#24
+msgid "Reconnect"
+msgstr "Нанова злучыцца"
+
+#: HubFrame#25
+msgid "Show widget"
+msgstr "Паказаць ваконца"
+
+#: HubFrame#26
+msgid "Hub IP"
+msgstr "Адрас IP асяродку"
+
+#: HubFrame#27
+msgid "Hub URL"
+msgstr "Спасылку URL асяродку"
+
+#: HubFrame#28
+msgid "Hub Title"
+msgstr "Загаловак асяродку"
+
+#: HubFrame#29
+msgctxt "HubFrame#29"
+msgid "Close"
+msgstr "Зачыніць"
+
+#: HubFrame#30
+msgid "Hub Menu"
+msgstr "Мэню асяродку"
+
+#: HubFrame#31
+msgid "Not connected"
+msgstr "Не злучыліся"
+
+#: HubFrame#32
+msgid "Hub role: Operator"
+msgstr "Роля на асяродку: апэратар"
+
+#: HubFrame#33
+msgid "Hub role: User"
+msgstr "Роля на асяродку: карыстальнік"
+
+#: HubFrame#34
+msgid ""
+"\n"
+"Favorite user"
+msgstr ""
+"\n"
+"Улюбёнец"
+
+#: HubFrame#35
+msgid "Away mode off"
+msgstr "Вярнуліся са стану «адышоў»"
+
+#: HubFrame#36
+msgid "Away mode on: "
+msgstr "Перайшлі ў стан «адышоў»: "
+
+#: HubFrame#37
+msgid "Aliases not found."
+msgstr "Назовак не знайшлі."
+
+#: HubFrame#38
+msgid "Alias removed."
+msgstr "Выкрасьлілі назоўку."
+
+#: HubFrame#39
+msgid "Invalid alias syntax."
+msgstr "Хібны сынтакс назоўкі."
+
+#: HubFrame#40
+msgid "Alias %1 => %2 has been added"
+msgstr "Дадалі назоўку %1 => %2"
+
+#: HubFrame#41
+msgid "Invalid command syntax."
+msgstr "Хібны сынтакс загаду."
+
+#: HubFrame#42
+msgid "List of keywords:\n"
+msgstr "Сьпіс ключавых словаў:\n"
+
+#: HubFrame#43
+msgid "ratio: %1 (uploads: %2, downloads: %3)"
+msgstr "суадносіны: %1 (зацягнулі %2, сьцягнулі %3)"
+
+#: HubFrame#44
+msgid "Aspell switched %1"
+msgstr "%1 Aspell"
+
+#: HubFrame#45
+msgid "on"
+msgstr "Задзейнічалі"
+
+#: HubFrame#46
+msgid "off"
+msgstr "Вымкнулі"
+
+#: HubFrame#47
+msgid "Chat has been cleared"
+msgstr "Ачысьцілі гаману"
+
+#: HubFrame#48
+msgid "/alias <ALIAS_NAME>::<COMMAND> - make alias /ALIAS_NAME to /COMMAND\n"
+msgstr "/alias <НАЗОЎКА>::<ЗАГАД> — стварыць назоўку /НАЗОЎКА да загаду /ЗАГАД\n"
+
+#: HubFrame#49
+msgid "/alias purge <ALIAS_NAME> - remove alias\n"
+msgstr "/alias purge <НАЗОЎКА> — выкрасьліць назоўку\n"
+
+#: HubFrame#50
+msgid "/alias list - list all aliases\n"
+msgstr "/alias list — пералічыць усе назоўкі\n"
+
+#: HubFrame#51
+msgid "/away <message> - set away-mode on/off\n"
+msgstr "/away <паведамленьне> — перайсьці ў стан «адышоў», ці вярнуцца\n"
+
+#: HubFrame#52
+msgid "/back - set away-mode off\n"
+msgstr "/back — вярнуцца са стану «адышоў»\n"
+
+#: HubFrame#53
+msgid "/browse <nick> - browse user files\n"
+msgstr "/browse <мянушка> — прагледзець файлы карыстальніка\n"
+
+#: HubFrame#54
+msgid "/clear - clear chat window\n"
+msgstr "/clear — ачысьціць ваконца гаманы\n"
+
+#: HubFrame#55
+msgid "/kword add <keyword> - add user-defined keyword\n"
+msgstr "/kword add <ключавое_слова> — дадаць вызначае карыстальнікам ключавое слова\n"
+
+#: HubFrame#56
+msgid "/kword purge <keyword> - remove user-defined keyword\n"
+msgstr "/kword purge <ключавое_слова> — выкрасьліць вызначанае карыстальнікам "
+"ключавое слова\n"
+
+#: HubFrame#57
+msgid "/kword list - list all keywords\n"
+msgstr "/kword list — пералічыць усе ключавыя словы\n"
+
+#: HubFrame#58
+msgid "/magnet - default action with magnet (0-ask, 1-search, 2-download)\n"
+msgstr "/magnet — прадвызначанае дзеяньне па маґніт-спасылцы (0 — запытацца, 1 — "
+"шукаць, 2 — сьцягнуць)\n"
+
+#: HubFrame#59
+msgid "/close - close this hub\n"
+msgstr "/close — зачыніць гэты асяродак\n"
+
+#: HubFrame#60
+msgid "/fav - add this hub to favorites\n"
+msgstr "/fav — дадаць гэты асяродак да ўлюбёных\n"
+
+#: HubFrame#61
+msgid "/grant <nick> - grant extra slot to user\n"
+msgstr "/grant <мянушка> — дадаць шчыліну карыстальніку\n"
+
+#: HubFrame#62
+msgid "/help, /?, /h - show this help\n"
+msgstr "/help, /?, /h — паказаць дапамогу (тое, што вы зараз чытаеце)\n"
+
+#: HubFrame#63
+msgid "/info <nick> - show info about user\n"
+msgstr "/info <мянушка> — паказаць зьвесткі пра карыстальніка\n"
+
+#: HubFrame#64
+msgid "/ratio [show] - show ratio [send in chat]\n"
+msgstr "/ratio [show] — паказаць суадносіны [паказаць усім у гамане]\n"
+
+#: HubFrame#65
+msgid "/me - say a third person\n"
+msgstr "/me — сказаць ад трэцяе асобы\n"
+
+#: HubFrame#66
+msgid "/pm <nick> - begin private chat with user\n"
+msgstr "/pm <мянушка> — пачаць гаманіць асабіста з карыстальнікам\n"
+
+#: HubFrame#67
+msgid "/sh <command> - start command and redirect output to the chat\n"
+msgstr "/sh <загад> — выканаць загад і накіраваць вынік у гаману\n"
+
+#: HubFrame#68
+msgid "/luafile <file> - load Lua file\n"
+msgstr "/luafile <файл> — прачыць файл Lua\n"
+
+#: HubFrame#69
+msgid "/lua <chunk> - execute Lua chunk\n"
+msgstr "/lua <скрыпт> — выканаць скрыпт Lua\n"
+
+#: HubFrame#70
+msgid "/aspell on/off - enable/disable spell checking\n"
+msgstr "/aspell on/off — спраўджваць (on) ці ня спраўджваць (off) правапіс\n"
+
+#: HubFrame#71
+msgid " joins the chat"
+msgstr " далучаецца да гаманы"
+
+#: HubFrame#72
+msgid "%1 become online"
+msgstr "%1 далучаецца"
+
+#: HubFrame#73
+msgid "User online."
+msgstr "Карыстальнік далучыўся."
+
+#: HubFrame#74
+msgid "User not found"
+msgstr "Не знайшлі карыстальніка"
+
+#: HubFrame#75
+msgid "Slot granted to "
+msgstr "Далі шчыліну карыстальніку "
+
+#: HubFrame#76
+msgid " has been added to favorites."
+msgstr " дадалі да ўлюбёнцаў."
+
+#: HubFrame#77
+msgid " has been removed from favorites."
+msgstr " выкрасьлілі з улюбёнцаў."
+
+#: HubFrame#78
+msgid "Favorite hub added."
+msgstr "Дадалі асяродак да ўлюбёных."
+
+#: HubFrame#79
+msgid "Favorite hub already exists."
+msgstr "Асяродак ужо ёсьць ва ўлюбёных."
+
+#: HubFrame#80
+msgid "User offline."
+msgstr "Карыстальнік адлучыўся."
+
+#: HubFrame#81
+msgid "Stored password sent..."
+msgstr "Даслалі захаванае гасло…"
+
+#: HubFrame#82
+msgctxt "HubFrame#82"
+msgid "Password"
+msgstr "Гасло"
+
+#: HubFrame#83
+msgid "Redirect request received to a hub that's already connected"
+msgstr "Атрымалі просьбу перанакіравацца да асяродку, зь якім ужо злучыліся"
+
+#: HubFrame#84
+msgid "Users count: %1 | Total share: %2"
+msgstr "Карыстальнікаў: %1 | Разам абагулілі: %2"
+
+#: HubFrame#85
+msgid "Suggestions"
+msgstr "Прапановы"
+
+#: HubFrame#86
+msgid "Add to dictionary"
+msgstr "Дадаць у слоўнік"
+
+#: HubFrame#87
+msgid "Copy data"
+msgstr "Перапісаць зьвесткі"
+
+#: HubFrame#88
+msgctxt "HubFrame#88"
+msgid "AntiSpam"
+msgstr "Супраць лухты"
+
+#: HubFrame#89
+msgid "Add to Black"
+msgstr "Дадаць у чорны сьпіс"
+
+#: HubFrame#90
+msgid "Add to White"
+msgstr "Дадаць у белы сьпіс"
+
+#: HubFrame#91
+msgid " left the chat"
+msgstr " выходзіць з гаманы"
+
+#: HubFrame#92
+msgid "Favorites"
+msgstr "Улюбёнцы"
+
+#: HubFrame#93
+msgid "%1 become offline"
+msgstr "%1 адлучаецца"
+
+#: HubFrame#94
+msgid "not shared"
+msgstr "не абагулілі"
+
+#: HubFrame#95
+msgid "[User went offline]"
+msgstr "[Карыстальнік адлучыўся]"
+
+#: HubFrame#96
+msgid "Invalid keywords"
+msgstr "Хібныя ключавыя словы"
+
+#: HubFrame#97
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: HubFrame#98
+msgid "Users count: %3/%1 | Total share: %2"
+msgstr "Карыстальнікаў: %3/%1 | Разам абагулілі: %2"
+
+#: HubFrame#99
+msgid "Connecting to %1"
+msgstr "Злучаемся з %1"
+
+#: HubFrame#100
+msgid "Connected to %1"
+msgstr "Злучыліся з %1"
+
+#: HubFrame#101
+msgid "Fail: %1..."
+msgstr "Не ўдалося: %1…"
+
+#: HubFrame#102
+msgid "Sorry, but nick \"%1\" is already taken by another user."
+msgstr "Выбачайце, але мянушку «%1» ўжо заняў іншы карыстальнік."
+
+#: HubFrame#103
+msgid "Search flood detected: %1"
+msgstr "Выявілі назолу ў пошуку: %1"
+
+#: HubFrame#104
+msgid "Chat disabled."
+msgstr "Гаману забаранілі."
+
+#: HubFrame#105
+msgid "Chat enabled."
+msgstr "Гаману задзейнічалі."
+
+#: HubFrame#106
+msgctxt "HubFrame#106"
+msgid "Chat cleared."
+msgstr "Гаману ачысьцілі."
+
+#: HubManager#1
+msgctxt "HubManager#1"
+msgid "Hub Manager"
+msgstr "Кіраўнік асяродкаў"
+
+#: IPFilter#1
+msgid "Nothing to export."
+msgstr "Няма што вымаць."
+
+#: IPFilter#2
+msgid "Unable to export settings."
+msgstr "Немагчыма выняць налады."
+
+#: IPFilter#3
+msgid "Nothing to import."
+msgstr "Няма што браць з файла."
+
+#: IPFilter#4
+msgid "Invalid signature."
+msgstr "Хібны подпіс."
+
+#: IPFilterFrame#1
+msgid "Change rule direction"
+msgstr "Зьмяніць кірунак правіла"
+
+#: IPFilterFrame#2
+msgid "Change IP/Mask"
+msgstr "Зьмяніць IP ці маску"
+
+#: IPFilterFrame#3
+msgid "Delete rule"
+msgstr "Выкрасьліць правіла"
+
+#: IPFilterFrame#4
+msgid "Enter new rule"
+msgstr "Упішыце новае правіла"
+
+#: IPFilterFrame#5
+msgid "Rule:"
+msgstr "Правіла:"
+
+#: IPFilterFrame#6
+msgid "Import list"
+msgstr "Узяць сьпіс з файла"
+
+#: IPFilterFrame#7
+msgid "Export list"
+msgstr "Выняць сьпіс"
+
+#: IPFilterFrame#8
+msgid "All Files (*)"
+msgstr "Усе файлы (*)"
+
+#: IPFilterModel#1
+msgid "IP/Mask"
+msgstr "IP/Маска"
+
+#: IPFilterModel#2
+msgctxt "IPFilterModel#2"
+msgid "Direction"
+msgstr "Кірунак"
+
+#: Magnet#1
+msgid "Run search alternatives manually."
+msgstr "Вы мусіце самастойна запусьціць пошук іншых крыніцаў."
+
+#: Magnet#2
+msgid "Download file via auto search alternatives"
+msgstr "Самарушна знайсьці крыніцы ды сьцягнуць файл"
+
+#: Magnet#3
+msgctxt "Magnet#3"
+msgid "Browse"
+msgstr "Прагледзець"
+
+#: Magnet#4
+msgctxt "Magnet#4"
+msgid "Error"
+msgstr "Памылка"
+
+#: Magnet#5
+msgid ""
+"Some error ocurred when starting download:\n"
+" %1"
+msgstr ""
+"Далі хібу, калі пачыналі сьцягваць:\n"
+" %1"
+
+#: Magnet#6
+msgctxt "Magnet#6"
+msgid "Select directory"
+msgstr "Абраць каталёґ"
+
+#: MainWindow#1
+msgid "Ready"
+msgstr "Гатовы"
+
+#: MainWindow#2
+msgid "Exit confirm"
+msgstr "Пацьвердзіць, што выходзім"
+
+#: MainWindow#3
+msgid "Exit program?"
+msgstr "Ці выйсьці з праґрамы?"
+
+#: MainWindow#4
+msgid "Ctrl+O"
+msgstr ""
+
+#: MainWindow#5
+msgid "Ctrl+L"
+msgstr ""
+
+#: MainWindow#6
+msgid "Ctrl+R"
+msgstr ""
+
+#: MainWindow#7
+msgid "Ctrl+H"
+msgstr ""
+
+#: MainWindow#8
+msgid "Ctrl+T"
+msgstr ""
+
+#: MainWindow#9
+msgid "Ctrl+D"
+msgstr ""
+
+#: MainWindow#10
+msgid "Ctrl+S"
+msgstr ""
+
+#: MainWindow#11
+msgid "Hide window"
+msgstr "Схаваць ваконца"
+
+#: MainWindow#12
+msgid "Show/hide find frame"
+msgstr "Паказаць або схаваць форму пошуку"
+
+#: MainWindow#13
+msgid "Hide free space bar"
+msgstr "Схаваць стужку вольнае прасторы"
+
+#: MainWindow#14
+msgid "Show free space bar"
+msgstr "Паказаць стужку вольнае прасторы"
+
+#: MainWindow#15
+msgid "Ctrl+Q"
+msgstr ""
+
+#: MainWindow#16
+msgid "Ctrl+F"
+msgstr ""
+
+#: MainWindow#17
+msgid "Next message"
+msgstr "Наступнае паведамленьне"
+
+#: MainWindow#18
+msgid "Previous message"
+msgstr "Папярэдняе паведамленьне"
+
+#: MainWindow#19
+msgid "Close current widget"
+msgstr "Зачыніць бягучае ваконца"
+
+#: MainWindow#20
+msgid "Toggle main menu"
+msgstr "Паказаць або схаваць галоўнае мэню"
+
+#: MainWindow#21
+msgid "Ctrl+PgDown"
+msgstr "Ctrl+PgDown"
+
+#: MainWindow#22
+msgid "Ctrl+PgUp"
+msgstr "Ctrl+PgUp"
+
+#: MainWindow#23
+msgid "Ctrl+Down"
+msgstr "Ctrl+Down"
+
+#: MainWindow#24
+msgid "Ctrl+Up"
+msgstr "Ctrl+Up"
+
+#: MainWindow#25
+msgid "Ctrl+W"
+msgstr "Ctrl+W"
+
+#: MainWindow#26
+msgid "Ctrl+M"
+msgstr "Ctrl+M"
+
+#: MainWindow#27
+msgid "Counts"
+msgstr "Лічыльнік"
+
+#: MainWindow#28
+msgid "Space free"
+msgstr "Вольная прастора"
+
+#: MainWindow#29
+msgid "&File"
+msgstr "&Файл"
+
+#: MainWindow#30
+msgctxt "MainWindow#30"
+msgid "Away message"
+msgstr "Прысутнасьць"
+
+#: MainWindow#31
+msgid "Copy window title"
+msgstr "Перапісаць загаловак вакна"
+
+#: MainWindow#32
+msgid "Open log file"
+msgstr "Адчыніць файл справаздачы"
+
+#: MainWindow#33
+msgid "Hashing progress"
+msgstr "Поступ стварэньня скаротаў"
+
+#: MainWindow#34
+msgid "Open filelist..."
+msgstr "Адчыніць сьпіс файлаў…"
+
+#: MainWindow#35
+msgid "Open own filelist"
+msgstr "Адчыніць уласны сьпіс файлаў"
+
+#: MainWindow#36
+msgid "Refresh share"
+msgstr "Дапоўніць абагуленае"
+
+#: MainWindow#37
+msgctxt "MainWindow#37"
+msgid "Hash progress"
+msgstr "Поступ стварэньня скаротаў"
+
+#: MainWindow#38
+msgid "Reconnect to hub"
+msgstr "Нанова злучыцца з асяродкам"
+
+#: MainWindow#39
+msgid "Transfers"
+msgstr "Перадаецца"
+
+#: MainWindow#40
+msgid "Download queue"
+msgstr "Чарга сьцягваць файлы"
+
+#: MainWindow#41
+msgctxt "MainWindow#41"
+msgid "Finished downloads"
+msgstr "Сьцягнутае"
+
+#: MainWindow#42
+msgctxt "MainWindow#42"
+msgid "Finished uploads"
+msgstr "Зацягнутае"
+
+#: MainWindow#43
+msgctxt "MainWindow#43"
+msgid "Search Spy"
+msgstr "Шпегаваць у шуканым"
+
+#: MainWindow#44
+msgid "AntiSpam module"
+msgstr "Убудова супраць лухты"
+
+#: MainWindow#45
+msgid "IPFilter module"
+msgstr "Убудова сіта IP"
+
+#: MainWindow#46
+msgid "Favourite hubs"
+msgstr "Улюбёныя асяродкі"
+
+#: MainWindow#47
+msgid "Public hubs"
+msgstr "Адкрытыя асяродкі"
+
+#: MainWindow#48
+msgctxt "MainWindow#48"
+msgid "Favourite users"
+msgstr "Улюбёнцы"
+
+#: MainWindow#49
+msgctxt "MainWindow#49"
+"MainWindow#49"
+msgid "Search"
+msgstr "Шукаць"
+
+#: MainWindow#50
+msgctxt "MainWindow#50"
+msgid "Quick connect"
+msgstr "Хутка злучыцца"
+
+#: MainWindow#51
+msgid "Ctrl+E"
+msgstr ""
+
+#: MainWindow#52
+msgid "Ctrl+N"
+msgstr ""
+
+#: MainWindow#53
+msgid "Ctrl+P"
+msgstr ""
+
+#: MainWindow#54
+msgid "Ctrl+U"
+msgstr ""
+
+#: MainWindow#55
+msgid "Hide last status message"
+msgstr "Схаваць апошняе апісаньне стану"
+
+#: MainWindow#56
+msgid "Hide users statistics"
+msgstr "Схаваць статыстыку карыстальнікаў"
+
+#: MainWindow#57
+msgid "Show users statistics"
+msgstr "Паказаць статыстыку карыстальнікаў"
+
+#: MainWindow#58
+msgid "Next widget"
+msgstr "Наступнае ваконца"
+
+#: MainWindow#59
+msgid "Previous widget"
+msgstr "Папярэдняе ваконца"
+
+#: MainWindow#60
+msgid "Open download directory"
+msgstr "Адчыніць каталёґ сьцягнутага"
+
+#: MainWindow#61
+msgid "Calculate file TTH"
+msgstr "Падлічыць скарот (TTH) файла"
+
+#: MainWindow#62
+msgid "Quit"
+msgstr "Выйсьці"
+
+#: MainWindow#63
+msgid "&Hubs"
+msgstr "&Асяродкі"
+
+#: MainWindow#64
+msgid "&Tools"
+msgstr "Пры&лады"
+
+#: MainWindow#65
+msgctxt "MainWindow#65"
+msgid "Hub Manager"
+msgstr "Кіраўнік асяродкаў"
+
+#: MainWindow#66
+msgctxt "MainWindow#66"
+msgid "On"
+msgstr "Адышоў"
+
+#: MainWindow#67
+msgid "Off"
+msgstr "Тут"
+
+#: MainWindow#68
+msgid "Away when not visible"
+msgstr "«Адышоў», калі ня бачна ваконца"
+
+#: MainWindow#69
+msgctxt "MainWindow#69"
+msgid "ADLSearch"
+msgstr "Самарушна шукаць у сьпісах"
+
+#: MainWindow#70
+msgid "Speed limit On/Off"
+msgstr "Абмяжоўваць хуткасьці"
+
+#: MainWindow#71
+msgid "Scripts Manager"
+msgstr "Кіраўнік скрыптоў"
+
+#: MainWindow#72
+msgctxt "MainWindow#72"
+msgid "Script Console"
+msgstr "Кансоль скрыптоў"
+
+#: MainWindow#73
+msgctxt "MainWindow#73"
+msgid "Clear chat"
+msgstr "Ачысьціць гаману"
+
+#: MainWindow#74
+msgid "Disable/enable chat"
+msgstr "Задзейнічаць або абязьдзейніць гаману"
+
+#: MainWindow#75
+msgid "&Widgets"
+msgstr "&Ваконцы"
+
+#: MainWindow#76
+msgid "&Panels"
+msgstr "&Паліцы"
+
+#: MainWindow#77
+msgid "Widgets panel"
+msgstr "Паліца ваконцаў"
+
+#: MainWindow#78
+msgid "Widgets side dock"
+msgstr "Бакавая паліца ваконцаў"
+
+#: MainWindow#79
+msgid "Tools panel"
+msgstr "Паліца прыладаў"
+
+#: MainWindow#80
+msgid "Fast search panel"
+msgstr "Паліца шпаркага пошуку"
+
+#: MainWindow#81
+msgid "&Help"
+msgstr "&Дапамога"
+
+#: MainWindow#82
+msgid "Homepage"
+msgstr "Хатняя бачына"
+
+#: MainWindow#83
+msgid "Report a Bug"
+msgstr "Паведаміць пра хібу"
+
+#: MainWindow#84
+msgid "Wiki of project"
+msgstr "Wiki праекту"
+
+#: MainWindow#85
+msgctxt "MainWindow#85"
+msgid "About EiskaltDC++"
+msgstr "Пра EiskaltDC++"
+
+#: MainWindow#86
+msgid "About Qt"
+msgstr "Пра Qt"
+
+#: MainWindow#87
+msgid "Main layout"
+msgstr "Галоўнае разьмешчаньне"
+
+#: MainWindow#88
+msgid "Actions"
+msgstr "Дзеяньні"
+
+#: MainWindow#89
+msgid "Enter user nick"
+msgstr "Упішыце новую мянушку"
+
+#: MainWindow#90
+msgctxt "MainWindow#90"
+msgid "Nick"
+msgstr "Мянушка"
+
+#: MainWindow#91
+msgctxt "MainWindow#91"
+msgid "User"
+msgstr "Карыстальнік"
+
+#: MainWindow#92
+msgid "Would you like to change other settings?"
+msgstr "Ці хочаце вы зьмяніць іншыя налады?"
+
+#: MainWindow#93
+msgid "Ctrl+I"
+msgstr "Ctrl+I"
+
+#: MainWindow#94
+msgid "Ctrl+Alt+H"
+msgstr "Ctrl+Alt+H"
+
+#: MainWindow#95
+msgid "Download/Upload speed"
+msgstr "Хуткасьць сьцягваць | Хуткасьць зацягваць"
+
+#: MainWindow#96
+msgid "Downloaded/Uploaded"
+msgstr "Сьцягнулі | Зацягнулі"
+
+#: MainWindow#97
+msgid "Open magnet link"
+msgstr "Адчыніць маґніт-спасылку"
+
+#: MainWindow#98
+msgctxt "MainWindow#98"
+msgid "Preferences"
+msgstr "Перавагі"
+
+#: MainWindow#99
+msgid "Source (git)"
+msgstr "Крынічнікі (git)"
+
+#: MainWindow#100
+msgid "Changelog (git)"
+msgstr "Гісторыя зьмяненьняў (git)"
+
+#: MainWindow#101
+msgid "%1/s / %2/s"
+msgstr "%1/с | %2/с"
+
+#: MainWindow#102
+msgid "%1 / %2"
+msgstr "%1 | %2"
+
+#: MainWindow#103
+msgctxt "MainWindow#103"
+msgid "/s"
+msgstr "/с"
+
+#: MainWindow#104
+msgid "Free %1"
+msgstr "Вольных %1"
+
+#: MainWindow#105
+msgid "Free %1 of %2"
+msgstr "Вольных %1 з %2"
+
+#: MainWindow#106
+msgid "List update"
+msgstr "Дапаўняецца сьпіс"
+
+#: MainWindow#107
+msgctxt "MainWindow#107"
+msgid "Paused"
+msgstr "Прыпынілі"
+
+#: MainWindow#108
+msgid "%p%"
+msgstr "%p%"
+
+#: MainWindow#109
+msgid "http://github.com/negativ/eiskaltdcpp/raw/master/ChangeLog.txt"
+msgstr ""
+
+#: MainWindow#110
+msgid "<br/>&nbsp;<u>Slovak translation</u><br/>"
+msgstr "<br/>&nbsp;<u>Пераклаў у славацкую</u><br/>"
+
+#: MainWindow#111
+msgid ""
+"<br/>&nbsp;Martin "
+"Durisin<br/>&nbsp;&lt;martin.durisin@gmail.com&gt;<br/>&nbsp;(for 2.1.0 and "
+"later)<br/>"
+msgstr ""
+"<br/>&nbsp;Martin "
+"Durisin<br/>&nbsp;&lt;martin.durisin@gmail.com&gt;<br/>&nbsp;(ад вэрсіі "
+"2.1.0)<br/>"
+
+#: MainWindow#112
+msgid "<br/>&nbsp;<u>Czech translation</u><br/>"
+msgstr "<br/>&nbsp;<u>Пераклаў у чэскую</u><br/>"
+
+#: MainWindow#113
+msgid ""
+"<br/>&nbsp;Uhlik<br/>&nbsp;&lt;uhlikx@seznam.cz&gt;<br/>&nbsp;(for 2.2.0 and "
+"later)<br/>"
+msgstr ""
+"<br/>&nbsp;Uhlik<br/>&nbsp;&lt;uhlikx@seznam.cz&gt;<br/>&nbsp;(ад вэрсіі "
+"2.2.0)<br/>"
+
+#: MainWindow#114
+msgctxt "MainWindow#114"
+msgid "Show close buttons"
+msgstr "Паказваць гузікі «зачыніць»"
+
+#: MainWindow#115
+msgctxt "MainWindow#115"
+msgid "Download Queue"
+msgstr "Чарга сьцягваць файлы"
+
+#: MainWindow#116
+msgid "All downloads complete"
+msgstr "Сьцягнулі ўсё"
+
+#: MainWindow#117
+msgid "Choose file to open"
+msgstr "Абярыце, які файл адчыняць"
+
+#: MainWindow#118
+msgid "Ctrl+Shift+U"
+msgstr "Ctrl+Shift+U"
+
+#: MainWindow#119
+msgctxt "MainWindow#119"
+msgid "Queued Users"
+msgstr "Чарга карыстальнікаў"
+
+#: MainWindow#120
+msgid "Delayed"
+msgstr "Затрымалі"
+
+#: MainWindow#121
+msgid "Modern XML Filelists"
+msgstr "Сучасныя XML сьпісы файлаў"
+
+#: MainWindow#122
+msgid "Modern XML Filelists uncompressed"
+msgstr "Сучасныя XML сьпісы файлаў (нясьціснутыя)"
+
+#: MainWindow#123
+msgid "All files"
+msgstr "Усе файлы"
+
+#: MainWindow#124
+msgid "Unable to load file list: Invalid file list name"
+msgstr "Не магу прачытаць сьпіс файлаў: хібная назва сьпісу файлаў"
+
+#: MainWindow#125
+msgid "Menu"
+msgstr "Мэню"
+
+#: MainWindow#126
+msgid ""
+"Unable to open %1 port. Searching or file transfers will not work correctly "
+"until you change settings or turn off any application that might be using "
+"that port."
+msgstr ""
+"Не магу адчыніць порт %1. Каб належным чынам працаваў пошук і перадаваліся "
+"файлы, вы мусіце зьмяніць налады, ці вымкнуць праґраму, якая можа "
+"выкарыстоўваць гэты порт."
+
+#: MainWindow#127
+msgid "Log files (*.log);;All files (*.*)"
+msgstr "Файлы справаздачы (*.log);;Усе файлы (*.*)"
+
+#: MainWindow#128
+msgid "Enter magnet link:"
+msgstr "Упішыце маґніт-спасылку:"
+
+#: MainWindow#129
+msgid "Button style"
+msgstr "Выгляд гузікаў"
+
+#: MainWindow#130
+msgid "Icons only"
+msgstr "Толькі значкі"
+
+#: MainWindow#131
+msgid "Text only"
+msgstr "Толькі тэкст"
+
+#: MainWindow#132
+msgid "Text beside icons"
+msgstr "Тэкст збоку ад значкаў"
+
+#: MainWindow#133
+msgid "Text under icons"
+msgstr "Тэкст пад значкамі"
+
+#: MainWindow#134
+msgid "Customize"
+msgstr "Наставіць"
+
+#: MainWindow#135
+msgid ""
+"EiskaltDC++ is a graphical client for Direct Connect and ADC "
+"protocols.<br/><br/>DC++ core version: %1 (modified)<br/><br/>Home page: <a h"
+"ref=\"http://code.google.com/p/eiskaltdc/\">http://code.google.com/p/eiskaltdc"
+"/</a><br/><br/>Total up: <b>%2</b><br/>Total down: <b>%3</b><br/>Ratio: <b>%"
+"4</b>"
+msgstr ""
+"EiskaltDC++ — ґрафічны кліент да пратаколаў Direct Connect і "
+"ADC.<br/><br/>Вэрсія асновы DC++: %1 (зьмененая).<br/><br/>Хатняя бачына: <a "
+"href=\"http://code.google.com/p/eiskaltdc/\">http://code.google.com/p/eiskalt"
+"dc/</a><br/><br/>Разам зацягнулі: <b>%2</b><br/>Разам сьцягнулі: <b>%"
+"3</b><br/>Суадносіны: <b>%4</b>"
+
+#: MainWindow#136
+msgid ""
+"Please use <a href=\"http://code.google.com/p/eiskaltdc/issues/list\">http://c"
+"ode.google.com/p/eiskaltdc/issues/list</a> to report bugs.<br/>"
+msgstr ""
+"Калі ласка, паведамляйце пра хібы тут: <a href=\"http://code.google.com/p/eis"
+"kaltdc/issues/list\">http://code.google.com/p/eiskaltdc/issues/list</a>.<br/>"
+
+#: MainWindow#137
+msgid "<br/><b>Developers</b><br/>"
+msgstr "<br/><b>Распрацоўнікі</b><br/>"
+
+#: MainWindow#138
+msgid ""
+"<br/>&nbsp;Andrey "
+"Karlov<br/>&nbsp;&lt;dein.negativ@gmail.com&gt;<br/>&nbsp;(main developer "
+"0.4.10 and later)<br/>"
+msgstr ""
+"<br/>&nbsp;Андрэй Карлаў  (Andrey "
+"Karlov)<br/>&nbsp;&lt;dein.negativ@gmail.com&gt;<br/>&nbsp;(галоўны "
+"распрацоўнік ад вэрсіі 0.4.10)<br/>"
+
+#: MainWindow#139
+msgid ""
+"<br/>&nbsp;Boris Pek  aka  "
+"Tehnick<br/>&nbsp;&lt;tehnick-8@mail.ru&gt;<br/>&nbsp;(maintainer and "
+"developer 1.89.0 and later)<br/>"
+msgstr ""
+"<br/>&nbsp;Boris Pek  aka  "
+"Tehnick<br/>&nbsp;&lt;tehnick-8@mail.ru&gt;<br/>&nbsp;(суправаджальнік і "
+"распрацоўнік ад вэрсіі 1.89.0)<br/>"
+
+#: MainWindow#140
+msgid ""
+"<br/>&nbsp;Eugene Petrov<br/>&nbsp;&lt;dhamp@ya.ru&gt;<br/>&nbsp;(maintainer "
+"and developer 0.4.10 and later)<br/>"
+msgstr ""
+"<br/>&nbsp;Яўген Пятроў  (Eugene "
+"Petrov)<br/>&nbsp;&lt;dhamp@ya.ru&gt;<br/>&nbsp;(суправаджальнік і "
+"распрацоўнік ад вэрсіі 0.4.10)<br/>"
+
+#: MainWindow#141
+msgid ""
+"<br/>&nbsp;Alexandr "
+"Tkachev<br/>&nbsp;&lt;tka4ev@gmail.com&gt;<br/>&nbsp;(developer 2.0.3 and "
+"later)<br/>"
+msgstr ""
+"<br/>&nbsp;Alexandr "
+"Tkachev<br/>&nbsp;&lt;tka4ev@gmail.com&gt;<br/>&nbsp;(распрацоўнік ад вэрсіі "
+"2.0.3)<br/>"
+
+#: MainWindow#142
+msgid "<br/><b>Logo and Splash Screen Logo</b><br/>"
+msgstr "<br/><b>Знак і знак на шыльдзе</b><br/>"
+
+#: MainWindow#143
+msgid ""
+"<br/>&nbsp;Uladzimir "
+"Bely<br/>&nbsp;&lt;wiselord1983@gmail.com&gt;<br/>&nbsp;(version 0.4.10 and "
+"later)<br/>"
+msgstr ""
+"<br/>&nbsp;Уладзімір Белы  (Uladzimir "
+"Bely)<br/>&nbsp;&lt;wiselord1983@gmail.com&gt;<br/>&nbsp;(ад вэрсіі "
+"0.4.10)<br/>"
+
+#: MainWindow#144
+msgid "<b>Translators</b><br/>"
+msgstr "<b>Перакладчыкі</b><br/>"
+
+#: MainWindow#145
+msgid "<br/>&nbsp;<u>Russian translation</u><br/>"
+msgstr "<br/>&nbsp;<u>Пераклаў у расейскую</u><br/>"
+
+#: MainWindow#146
+msgid ""
+"<br/>&nbsp;Uladzimir "
+"Bely<br/>&nbsp;&lt;wiselord1983@gmail.com&gt;<br/>&nbsp;(for 0.4.10 and "
+"later)<br/>"
+msgstr ""
+"<br/>&nbsp;Уладзімір Белы  (Uladzimir "
+"Bely)<br/>&nbsp;&lt;wiselord1983@gmail.com&gt;<br/>&nbsp;(ад вэрсіі "
+"0.4.10)<br/>"
+
+#: MainWindow#147
+msgid ""
+"<br/>&nbsp;Boris Pek  aka  "
+"Tehnick<br/>&nbsp;&lt;tehnick-8@mail.ru&gt;<br/>&nbsp;(for 2.1.0 and "
+"later)<br/>"
+msgstr ""
+"<br/>&nbsp;Boris Pek  aka  "
+"Tehnick<br/>&nbsp;&lt;tehnick-8@mail.ru&gt;<br/>&nbsp;(ад вэрсіі 2.1.0)<br/>"
+
+#: MainWindow#148
+msgid "<br/>&nbsp;<u>Belarusian translation</u><br/>"
+msgstr "<br/>&nbsp;<u>Пераклаў у беларускую</u><br/>"
+
+#: MainWindow#149
+msgid ""
+"<br/>&nbsp;Paval Shalamitski  aka  "
+"Klyok<br/>&nbsp;&lt;i.kliok@gmail.com&gt;<br/>&nbsp;(for 1.0.40 and "
+"later)<br/>"
+msgstr ""
+"<br/>&nbsp;Павал Шаламіцкі  aka  Klyok  (Paval "
+"Shalamitski)<br/>&nbsp;&lt;i.kliok@gmail.com&gt;<br/>&nbsp;(ад вэрсіі "
+"1.0.40)<br/>"
+
+#: MainWindow#150
+msgid "<br/>&nbsp;<u>Hungarian translation</u><br/>"
+msgstr "<br/>&nbsp;<u>Пераклаў у вугорскую</u><br/>"
+
+#: MainWindow#151
+msgid ""
+"<br/>&nbsp;Akos Berki  aka  "
+"sumo<br/>&nbsp;&lt;husumo@gmail.com&gt;<br/>&nbsp;(for 2.0.1 and later)<br/>"
+msgstr ""
+"<br/>&nbsp;Akos Berki  aka  "
+"sumo<br/>&nbsp;&lt;husumo@gmail.com&gt;<br/>&nbsp;(ад вэрсіі 2.0.1)<br/>"
+
+#: MainWindow#152
+msgid "<br/>&nbsp;<u>French translation</u><br/>"
+msgstr "<br/>&nbsp;<u>Пераклаў у францускую</u><br/>"
+
+#: MainWindow#153
+msgid ""
+"<br/>&nbsp;Alexandre Wallimann  aka  "
+"Ale<br/>&nbsp;&lt;alexandre.wallimann@gmail.com&gt;<br/>&nbsp;(for 2.0.2 and "
+"later)<br/>"
+msgstr ""
+"<br/>&nbsp;Alexandre Wallimann  aka  "
+"Ale<br/>&nbsp;&lt;alexandre.wallimann@gmail.com&gt;<br/>&nbsp;(ад вэрсіі "
+"2.0.2)<br/>"
+
+#: MainWindow#154
+msgid "<br/>&nbsp;<u>Polish translation</u><br/>"
+msgstr "<br/>&nbsp;<u>Пераклаў у польскую</u><br/>"
+
+#: MainWindow#155
+msgid "<br/>&nbsp;Arahael<br/>&nbsp;(for 2.0.2 and later)<br/>"
+msgstr "<br/>&nbsp;Arahael<br/>&nbsp;(ад вэрсіі 2.0.2)<br/>"
+
+#: MainWindow#156
+msgid "<br/>&nbsp;<u>Ukrainian translation</u><br/>"
+msgstr "<br/>&nbsp;<u>Пераклаў ува ўкраінскую</u><br/>"
+
+#: MainWindow#157
+msgid ""
+"<br/>&nbsp;Dmytro "
+"Demenko<br/>&nbsp;&lt;dmytro.demenko@gmail.com&gt;<br/>&nbsp;(for 2.0.3 and "
+"later)<br/>"
+msgstr ""
+"<br/>&nbsp;Dmytro "
+"Demenko<br/>&nbsp;&lt;dmytro.demenko@gmail.com&gt;<br/>&nbsp;(ад вэрсіі "
+"2.0.3)<br/>"
+
+#: MainWindow#158
+msgid "<br/>&nbsp;<u>Serbian translation</u><br/>"
+msgstr "<br/>&nbsp;<u>Пераклаў у сэрбскую</u><br/>"
+
+#: MainWindow#159
+msgid ""
+"<br/>&nbsp;Miroslav "
+"Petrovic<br/>&nbsp;&lt;miroslav031@gmail.com&gt;<br/>&nbsp;(for 2.0.3 and "
+"later)<br/>"
+msgstr ""
+"<br/>&nbsp;Miroslav "
+"Petrovic<br/>&nbsp;&lt;miroslav031@gmail.com&gt;<br/>&nbsp;(ад вэрсіі "
+"2.0.3)<br/>"
+
+#: MainWindow#160
+msgid "<br/>&nbsp;<u>Spanish translation</u><br/>"
+msgstr "<br/>&nbsp;<u>Пераклаў у гішпанскую</u><br/>"
+
+#: MainWindow#161
+msgid ""
+"<br/>&nbsp;Gustavo Alvarez aka "
+"sL1pKn07<br/>&nbsp;&lt;sl1pkn07@gmail.com&gt;<br/>&nbsp;(for 2.1.0 and "
+"later)<br/>"
+msgstr ""
+"<br/>&nbsp;Gustavo Alvarez aka "
+"sL1pKn07<br/>&nbsp;&lt;sl1pkn07@gmail.com&gt;<br/>&nbsp;(ад вэрсіі "
+"2.1.0)<br/>"
+
+#: MainWindow#162
+msgid "<br/>&nbsp;<u>Bulgarian translation</u><br/>"
+msgstr "<br/>&nbsp;<u>Пераклаў у баўгарскую</u><br/>"
+
+#: MainWindow#163
+msgid ""
+"<br/>&nbsp;Rusi Dimitrov aka "
+"PsyTrip<br/>&nbsp;&lt;dimitrov.rusi@gmail.com&gt;<br/>&nbsp;(for 2.1.0 and "
+"later)<br/>"
+msgstr ""
+"<br/>&nbsp;Rusi Dimitrov aka "
+"PsyTrip<br/>&nbsp;&lt;dimitrov.rusi@gmail.com&gt;<br/>&nbsp;(ад вэрсіі "
+"2.1.0)<br/>"
+
+#: MainWindow#164
+msgid "<br/>&nbsp;<u>German translation</u><br/>"
+msgstr "<br/>&nbsp;<u>Пераклаў у нямецкую</u><br/>"
+
+#: MainWindow#165
+msgid ""
+"<br/>&nbsp;Chris Leick<br/>&nbsp;&lt;c.leick@vollbio.de&gt;<br/>&nbsp;(for "
+"2.2.3 and later)<br/>"
+msgstr ""
+"<br/>&nbsp;Chris Leick<br/>&nbsp;&lt;c.leick@vollbio.de&gt;<br/>&nbsp;(ад "
+"вэрсіі 2.2.3)<br/>"
+
+#: MainWindow#166
+msgid "Close all"
+msgstr "Зачыніць усе"
+
+#: MainWindow#167
+msgctxt "MainWindow#167"
+msgid "Close"
+msgstr "Зачыніць"
+
+#: MainWindow#168
+msgid "Show last status message"
+msgstr "Паказаць апошняе апісаньне стану"
+
+#: MainWindow#169
+msgid "Find/Filter"
+msgstr "Шукаць/Прасеяць"
+
+#: MainWindow#170
+msgid "Connectivity Manager: Warning"
+msgstr "Кіраўнік злучэньняў: перасьцярога"
+
+#: MultiLineToolBar#1
+msgctxt "MultiLineToolBar#1"
+msgid "Show close buttons"
+msgstr "Паказваць гузікі «зачыніць»"
+
+#: Notification#1
+msgid "Additional"
+msgstr "Дадаткова"
+
+#: Notification#2
+msgid "Supress sound notifications"
+msgstr "Прыпыніць апавяшчаць гукамі"
+
+#: Notification#3
+msgid "Supress text notifications"
+msgstr "Прыпыніць апавяшчаць тэкстам"
+
+#: Notification#4
+msgid "Show/Hide window"
+msgstr "Паказаць або схаваць ваконца"
+
+#: Notification#5
+msgid "Exit"
+msgstr "Выйсьці"
+
+#: Notification#6
+msgid ""
+"<b>Speed</b><br/>Download: <font_color=\"green\">%1</font> Upload: "
+"<font_color=\"red\">%2</font><br/><b>Statistics</b><br/>Downloaded: "
+"<font_color=\"green\">%3</font> Uploaded: <font_color=\"red\">%4</font>"
+msgstr ""
+"<b>Хуткасьць:</b><br/>сьцягваць — <font_color=\"green\">%1</font>, зацягваць — "
+"<font_color=\"red\">%2</font>.<br/><b>Статыстыка:</b><br/>сьцягнулі "
+"<font_color=\"green\">%3</font>, зацягнулі <font_color=\"red\">%4</font>."
+
+#: Notification#7
+msgid ""
+"Speed\n"
+"Download: %1 Upload: %2\n"
+"Statistics\n"
+"Downloaded: %3 Uploaded: %4"
+msgstr ""
+"Хуткасьць:\n"
+"сьцягваць — %1, зацягваць — %2.\n"
+"Статыстыка:\n"
+"сьцягнулі %3, зацягнулі %4."
+
+#: PMWindow#1
+msgctxt "PMWindow#1"
+"PMWindow#1"
+msgid "Private message"
+msgstr "Асабістае паведамленьне"
+
+#: PMWindow#2
+msgctxt "PMWindow#2"
+msgid "Close"
+msgstr "Зачыніць"
+
+#: PMWindow#3
+msgid "%1 on hub %2"
+msgstr "%1 на асяродку %2"
+
+#: PMWindow#4
+msgctxt "PMWindow#4"
+msgid "Chat cleared."
+msgstr "Гаману ачысьцілі."
+
+#: PMWindow#5
+msgid "User went offline"
+msgstr "Карыстальнік адлучыўся"
+
+#: PublicHubModel#1
+msgctxt "PublicHubModel#1"
+msgid "Name"
+msgstr "Назва"
+
+#: PublicHubModel#2
+msgctxt "PublicHubModel#2"
+msgid "Description"
+msgstr "Апісаньне"
+
+#: PublicHubModel#3
+msgctxt "PublicHubModel#3"
+msgid "Users"
+msgstr "Карыстальнікі"
+
+#: PublicHubModel#4
+msgctxt "PublicHubModel#4"
+msgid "Address"
+msgstr "Адрас"
+
+#: PublicHubModel#5
+msgid "Country"
+msgstr "Краіна"
+
+#: PublicHubModel#6
+msgid "Shared"
+msgstr "Абагуленае"
+
+#: PublicHubModel#7
+msgid "Min share"
+msgstr "Найменшае абагуленае"
+
+#: PublicHubModel#8
+msgid "Min slots"
+msgstr "Найменей шчылінаў"
+
+#: PublicHubModel#9
+msgid "Max hubs"
+msgstr "Найболей асяродкаў"
+
+#: PublicHubModel#10
+msgid "Max users"
+msgstr "Найболей карыстальнікаў"
+
+#: PublicHubModel#11
+msgctxt "PublicHubModel#11"
+msgid "Reliability"
+msgstr "Надзейнасьць"
+
+#: PublicHubModel#12
+msgid "Rating"
+msgstr "Ацэнка"
+
+#: PublicHubs#1
+msgid "Downloading public hub list..."
+msgstr "Сьцягваецца сьпіс адкрытых асяродкаў…"
+
+#: PublicHubs#2
+msgctxt "PublicHubs#2"
+msgid "Connect"
+msgstr "Злучыцца"
+
+#: PublicHubs#3
+msgctxt "PublicHubs#3"
+msgid "Add to favorites"
+msgstr "Дадаць да ўлюбёных"
+
+#: PublicHubs#4
+msgid "Copy &address to clipboard"
+msgstr "Перапісаць &адрас у кішэню"
+
+#: PublicHubs#5
+msgid "Downloading public hub list... (%1)"
+msgstr "Сьцягваецца сьпіс адкрытых асяродкаў… (%1)"
+
+#: PublicHubs#6
+msgid "Download failed: %1"
+msgstr "Не ўдалося сьцягнуць: %1"
+
+#: PublicHubs#7
+msgid "Hub list downloaded... (%1 %2) "
+msgstr "Сьцягнулі сьпіс асяродкаў… (%1 %2) "
+
+#: PublicHubs#8
+msgid "from Coral"
+msgstr "з Каралу (Coral)"
+
+#: PublicHubs#9
+msgid "Hub list loaded from cache..."
+msgstr "Прачыталі з запасьніку сьпіс асяродкаў…"
+
+#: PublicHubs#10
+msgid "Cached hub list is corrupted or unsupported"
+msgstr "Прачытаны з запасьніку сьпіс асяродкаў пашкоджаны або не падтрымваецца"
+
+#: PublicHubs#11
+msgid "Downloaded hub list is corrupted or unsupported (%1)"
+msgstr "Сьцягнуты сьпіс асяродкаў пашкоджаны або не падтрымваецца (%1)"
+
+#: PublicHubs#12
+msgctxt "PublicHubs#12"
+msgid "Public Hubs"
+msgstr "Адкрытыя асяродкі"
+
+#: PublicHubsList#1
+msgid "Public hub"
+msgstr "Адкрыты асяродак"
+
+#: PublicHubsList#2
+msgid "Link"
+msgstr "Спасылка"
+
+#: QObject#1
+msgid "Loading: "
+msgstr "Чытаецца: "
+
+#: QObject#2
+msgid "UserList icons has been loaded"
+msgstr "Прачыталі значкі сьпісу карыстальнікаў"
+
+#: QObject#3
+msgid "Application icons has been loaded"
+msgstr "Прачыталі значкі праґрамы"
+
+#: QObject#4
+msgid "Shutting down libdcpp..."
+msgstr "Спыняецца libdcpp…"
+
+#: QObject#5
+msgid "Quit..."
+msgstr "Спыняем…"
+
+#: QObject#6
+msgid "Cannot handle SIGPIPE"
+msgstr "Не магу апрацаваць SIGPIPE"
+
+#: QObject#7
+msgid "Signal handlers installed."
+msgstr "Апрацоўнікі сыгналаў усталяваныя."
+
+#: QueuedUsers#1
+msgctxt "QueuedUsers#1"
+msgid "Grant slot"
+msgstr "Даць шчыліну"
+
+#: QueuedUsers#2
+msgctxt "QueuedUsers#2"
+msgid "Queued Users"
+msgstr "Чарга карыстальнікаў"
+
+#: QueuedUsersModel#1
+msgctxt "QueuedUsersModel#1"
+msgid "User"
+msgstr "Карыстальнік"
+
+#: QueuedUsersModel#2
+msgctxt "QueuedUsersModel#2"
+msgid "File"
+msgstr "Файл"
+
+#: ScriptConsole#1
+msgctxt "ScriptConsole#1"
+msgid "Script Console"
+msgstr "Кансоль скрыптоў"
+
+#: ScriptManagerDialog#1
+msgid "Script Manager"
+msgstr "Кіраўнік скрыптоў"
+
+#: SearchBlackListDelegate#1
+msgctxt "SearchBlackListDelegate#1"
+msgid "Filename"
+msgstr "Назва файла"
+
+#: SearchBlackListDelegate#2
+msgctxt "SearchBlackListDelegate#2"
+msgid "TTH"
+msgstr "Скарот (TTH)"
+
+#: SearchBlackListDialog#1
+msgctxt "SearchBlackListDialog#1"
+msgid "Add new"
+msgstr "Дадаць"
+
+#: SearchBlackListDialog#2
+msgctxt "SearchBlackListDialog#2"
+msgid "Remove"
+msgstr "Выкрасьліць"
+
+#: SearchBlackListModel#1
+msgctxt "SearchBlackListModel#1"
+msgid "Filename"
+msgstr "Назва файла"
+
+#: SearchBlackListModel#2
+msgctxt "SearchBlackListModel#2"
+msgid "TTH"
+msgstr "Скарот (TTH)"
+
+#: SearchBlackListModel#3
+msgctxt "SearchBlackListModel#3"
+msgid "Key"
+msgstr "Адказ"
+
+#: SearchBlackListModel#4
+msgctxt "SearchBlackListModel#4"
+msgid "Type"
+msgstr "Від"
+
+#: SearchBlackListModel#5
+msgid "Set text..."
+msgstr "Вызначце тэкст…"
+
+#: SearchFrame#1
+msgctxt "SearchFrame#1"
+msgid "Download"
+msgstr "Сьцягнуць"
+
+#: SearchFrame#2
+msgid "Download Whole Directory"
+msgstr "Сьцягнуць увесь каталёґ"
+
+#: SearchFrame#3
+msgctxt "SearchFrame#3"
+msgid "Magnet"
+msgstr "Маґніт-спасылка"
+
+#: SearchFrame#4
+msgctxt "SearchFrame#4"
+msgid "Download to..."
+msgstr "Сьцягнуць у…"
+
+#: SearchFrame#5
+msgid "Download Whole Directory to..."
+msgstr "Сьцягнуць увесь каталёґ у…"
+
+#: SearchFrame#6
+msgid "Search TTH"
+msgstr "Шукаць скарот (TTH)"
+
+#: SearchFrame#7
+msgctxt "SearchFrame#7"
+msgid "Copy magnet"
+msgstr "Перапісаць маґніт-спасылку"
+
+#: SearchFrame#8
+msgctxt "SearchFrame#8"
+msgid "Copy web-magnet"
+msgstr "Перапісаць маґніт-спасылку для сеціва"
+
+#: SearchFrame#9
+msgctxt "SearchFrame#9"
+msgid "Properties of magnet"
+msgstr "Уласьцівасьці маґніт-спасылкі"
+
+#: SearchFrame#10
+msgctxt "SearchFrame#10"
+msgid "Browse files"
+msgstr "Прагледзець файлы"
+
+#: SearchFrame#11
+msgctxt "SearchFrame#11"
+msgid "Match Queue"
+msgstr "Узгадніць чаргу"
+
+#: SearchFrame#12
+msgctxt "SearchFrame#12"
+msgid "Send Private Message"
+msgstr "Даслаць асабістае паведамленьне"
+
+#: SearchFrame#13
+msgctxt "SearchFrame#13"
+msgid "Add to favorites"
+msgstr "Дадаць да ўлюбёных"
+
+#: SearchFrame#14
+msgctxt "SearchFrame#14"
+msgid "Grant extra slot"
+msgstr "Даць дадатковую шчыліну"
+
+#: SearchFrame#15
+msgctxt "SearchFrame#15"
+msgid "Remove from Queue"
+msgstr "Выкрасьліць з чаргі"
+
+#: SearchFrame#16
+msgctxt "SearchFrame#16"
+msgid "Remove"
+msgstr "Выкрасьліць"
+
+#: SearchFrame#17
+msgid "Blacklist..."
+msgstr "Чорны сьпіс…"
+
+#: SearchFrame#18
+msgctxt "SearchFrame#18"
+msgid "Blacklist"
+msgstr "Чорны сьпіс"
+
+#: SearchFrame#19
+msgid "Add to Blacklist"
+msgstr "Дадаць у чорны сьпіс"
+
+#: SearchFrame#20
+msgctxt "SearchFrame#20"
+msgid "Browse"
+msgstr "Прагледзець"
+
+#: SearchFrame#21
+msgid "Search window"
+msgstr "Ваконца шукаць файлы"
+
+#: SearchFrame#22
+msgctxt "SearchFrame#22"
+msgid "Close"
+msgstr "Зачыніць"
+
+#. (obsolete)
+#: SearchFrame#23
+msgid "Searching too soon, next search in %1 second"
+msgstr "Занадта часта шукаем, наступны раз паспрабуем праз %1 сэкундаў"
+
+#: SearchFrame#24
+msgctxt "SearchFrame#24"
+msgid "Search - %1"
+msgstr "Шукаем — %1"
+
+#. (obsolete)
+#: SearchFrame#25
+msgid "Ready to search..."
+msgstr "Можна шукаць…"
+
+#: SearchFrame#26
+msgctxt "SearchFrame#26"
+msgid "Select directory"
+msgstr "Абраць каталёґ"
+
+#: SearchFrame#27
+msgid "<b>No results</b>"
+msgstr "<b>Вынікаў няма</b>"
+
+#: SearchFrame#28
+msgid "Found: <b>%1</b>  Dropped: <b>%2</b>"
+msgstr "Знайшлі: <b>%1</b>  Адкінулі: <b>%2</b>"
+
+#: SearchFrame#29
+msgctxt "SearchFrame#29"
+msgid "Form"
+msgstr ""
+
+#: SearchFrame#30
+msgctxt "SearchFrame#30"
+msgid "Search"
+msgstr "Знайсьці"
+
+#: SearchFrame#31
+msgid "Search for"
+msgstr "Шукаць"
+
+#. (obsolete)
+#: SearchFrame#32
+msgid "Any"
+msgstr "Хоць-які"
+
+#. (obsolete)
+#: SearchFrame#33
+msgid "Audio"
+msgstr "Аўдыё"
+
+#. (obsolete)
+#: SearchFrame#34
+msgid "Compressed"
+msgstr "Сьціснуты"
+
+#. (obsolete)
+#: SearchFrame#35
+msgid "Document"
+msgstr "Дакумэнт"
+
+#. (obsolete)
+#: SearchFrame#36
+msgid "Executable"
+msgstr "Выканальны"
+
+#. (obsolete)
+#: SearchFrame#37
+msgid "Picture"
+msgstr "Малюнак"
+
+#. (obsolete)
+#: SearchFrame#38
+msgid "Video"
+msgstr "Відэа"
+
+#. (obsolete)
+#: SearchFrame#39
+msgctxt "SearchFrame#39"
+msgid "Directory"
+msgstr "Каталёґ"
+
+#. (obsolete)
+#: SearchFrame#40
+msgctxt "SearchFrame#40"
+msgid "TTH"
+msgstr "Скарот (TTH)"
+
+#: SearchFrame#41
+msgctxt "SearchFrame#41"
+msgid "Clear"
+msgstr "Ачысьціць"
+
+#: SearchFrame#42
+msgid "Show/Hide side panel"
+msgstr "Бакавая паліца"
+
+#. (obsolete)
+#: SearchFrame#43
+msgid "CD Image"
+msgstr "Адбітак CD"
+
+#: SearchFrame#44
+msgctxt "SearchFrame#44"
+msgid "Hubs"
+msgstr "Асяродкі"
+
+#: SearchFrame#45
+msgid "Only users with free slots"
+msgstr "Толькі ў тых, хто мае вольныя шчыліны"
+
+#: SearchFrame#46
+msgctxt "SearchFrame#46"
+msgid "Size"
+msgstr "Памер"
+
+#: SearchFrame#47
+msgctxt "SearchFrame#47"
+msgid "B"
+msgstr "Б"
+
+#: SearchFrame#48
+msgctxt "SearchFrame#48"
+msgid "KiB"
+msgstr "КіБ"
+
+#: SearchFrame#49
+msgctxt "SearchFrame#49"
+msgid "MiB"
+msgstr "МіБ"
+
+#: SearchFrame#50
+msgctxt "SearchFrame#50"
+msgid "GiB"
+msgstr "ГіБ"
+
+#: SearchFrame#51
+msgctxt "SearchFrame#51"
+msgid "Normal"
+msgstr "Звычайны"
+
+#: SearchFrame#52
+msgid "At least"
+msgstr "Ня меней за"
+
+#: SearchFrame#53
+msgid "At most"
+msgstr "Ня болей за"
+
+#: SearchFrame#54
+msgid "Already shared files"
+msgstr "Файлы, што ўжо маем абагуленымі"
+
+#: SearchFrame#55
+msgctxt "SearchFrame#55"
+msgid "Hide"
+msgstr "Схаваць"
+
+#: SearchFrame#56
+msgid "Highlight"
+msgstr "Падсьвечваць"
+
+#: SearchFrame#57
+msgid "Do nothing"
+msgstr "Нічога не рабіць"
+
+#: SearchFrame#58
+#, fuzzy
+msgctxt "SearchFrame#58"
+msgid "Stop"
+msgstr "Спыніць"
+
+#: SearchFrame#59
+msgid "Don't hide this panel when search"
+msgstr "Не хаваць гэтую паліцу, калі шукаем"
+
+#: SearchModel#1
+msgctxt "SearchModel#1"
+msgid "Count"
+msgstr "Колькасьць"
+
+#: SearchModel#2
+msgctxt "SearchModel#2"
+msgid "File"
+msgstr "Файл"
+
+#: SearchModel#3
+msgid "Ext"
+msgstr "Пашырэньне"
+
+#: SearchModel#4
+msgctxt "SearchModel#4"
+msgid "Size"
+msgstr "Памер"
+
+#: SearchModel#5
+msgctxt "SearchModel#5"
+msgid "Exact size"
+msgstr "Дакладны памер"
+
+#: SearchModel#6
+msgctxt "SearchModel#6"
+msgid "TTH"
+msgstr "Скарот (TTH)"
+
+#: SearchModel#7
+msgctxt "SearchModel#7"
+msgid "Path"
+msgstr "Шлях"
+
+#: SearchModel#8
+msgctxt "SearchModel#8"
+msgid "Nick"
+msgstr "Мянушка"
+
+#: SearchModel#9
+msgid "Free slots"
+msgstr "Вольных шчылінаў"
+
+#: SearchModel#10
+msgid "Total slots"
+msgstr "Разам шчылінаў"
+
+#: SearchModel#11
+msgctxt "SearchModel#11"
+msgid "IP"
+msgstr "Адрас IP"
+
+#: SearchModel#12
+msgctxt "SearchModel#12"
+msgid "Hub"
+msgstr "Асяродак"
+
+#: SearchModel#13
+msgctxt "SearchModel#13"
+msgid "Host"
+msgstr "Вузел"
+
+#: SearchModel#14
+msgctxt "SearchModel#14"
+msgid "File already exists: %1"
+msgstr "Файл ужо існуе: %1"
+
+#: Settings#1
+msgctxt "Settings#1"
+msgid "Preferences"
+msgstr "Перавагі"
+
+#: Settings#2
+msgid "Personal"
+msgstr "Асабістыя"
+
+#: Settings#3
+msgctxt "Settings#3"
+msgid "Connection"
+msgstr "Злучэньне"
+
+#: Settings#4
+msgctxt "Settings#4"
+"Settings#4"
+msgid "Downloads"
+msgstr "Сьцягванае"
+
+#: Settings#5
+msgid "Sharing"
+msgstr "Абагуленае"
+
+#: Settings#6
+msgid "GUI"
+msgstr "Інтэрфэйс"
+
+#: Settings#7
+msgid "Notifications"
+msgstr "Апавяшчэньні"
+
+#: Settings#8
+msgid "Logs"
+msgstr "Справаздачы"
+
+#: Settings#9
+msgid "User Commands"
+msgstr "Загады карыстальніка"
+
+#: Settings#10
+msgid "Shortcuts"
+msgstr "Выклічнікі"
+
+#: SettingsConnection#1
+msgid "No valid SOCKS5 server IP found!"
+msgstr "Не знайшлі дапушчальнага IP паслужніка SOCKS5!"
+
+#: SettingsConnection#2
+msgid "Program need root privileges to open ports less than 1024"
+msgstr ""
+"Каб адчыніць порты, меншыя за 1024, праґраме патрабуюцца прывілеі спраўніка "
+"(root)"
+
+#: SettingsConnection#3
+msgid "Warning"
+msgstr "Перасьцярога"
+
+#: SettingsDownloads#1
+msgctxt "SettingsDownloads#1"
+msgid "Select directory"
+msgstr "Абраць каталёґ"
+
+#: SettingsDownloads#2
+msgid "New"
+msgstr "Новая"
+
+#: SettingsDownloads#3
+msgctxt "SettingsDownloads#3"
+msgid "Delete"
+msgstr "Сьцерці"
+
+#: SettingsDownloads#4
+msgid "Enter alias for directory"
+msgstr "Упішыце назоўку каталёґа"
+
+#: SettingsDownloads#5
+msgctxt "SettingsDownloads#5"
+msgid "Alias"
+msgstr "Назоўка"
+
+#: SettingsGUI#1
+msgid "Default (need to restart)"
+msgstr "Звычайнае (трэба запусьціць нанова)"
+
+#: SettingsGUI#2
+msgid "English"
+msgstr "Ангельская"
+
+#: SettingsGUI#3
+msgid "Russian"
+msgstr "Расейская"
+
+#: SettingsGUI#4
+msgid "Belarusian"
+msgstr "Беларуская"
+
+#: SettingsGUI#5
+msgid "Hungarian"
+msgstr "Вугорская"
+
+#: SettingsGUI#6
+msgid "French"
+msgstr "Француская"
+
+#: SettingsGUI#7
+msgid "Polish"
+msgstr "Польская"
+
+#: SettingsGUI#8
+msgid "Serbian"
+msgstr "Сэрбская"
+
+#: SettingsGUI#9
+msgid "Ukrainian"
+msgstr "Украінская"
+
+#: SettingsGUI#10
+msgid "Spanish"
+msgstr "Гішпанская"
+
+#: SettingsGUI#11
+msgid "Bulgarian"
+msgstr "Баўгарская"
+
+#: SettingsGUI#12
+msgid "Slovak"
+msgstr "Славацкая"
+
+#: SettingsGUI#13
+msgid "Czech"
+msgstr "Чэская"
+
+#: SettingsGUI#14
+msgid "German"
+msgstr "Нямецкая"
+
+#: SettingsGUI#15
+msgid "Local user"
+msgstr "Мясцовы карыстальнік"
+
+#: SettingsGUI#16
+msgid "Operator"
+msgstr "Апэратар"
+
+#: SettingsGUI#17
+msgid "Bot"
+msgstr "Бот"
+
+#: SettingsGUI#18
+msgid "Private: local user"
+msgstr "Асабістае: мясцовы карыстальнік"
+
+#: SettingsGUI#19
+msgid "Private: user"
+msgstr "Асабістае: карыстальнік"
+
+#: SettingsGUI#20
+msgid "Chat: Say nick"
+msgstr "Гамана: сказалі мянушку"
+
+#: SettingsGUI#21
+msgctxt "SettingsGUI#21"
+msgid "Status"
+msgstr "Стан"
+
+#: SettingsGUI#22
+msgctxt "SettingsGUI#22"
+msgid "User"
+msgstr "Карыстальнік"
+
+#: SettingsGUI#23
+msgid "Favorite User"
+msgstr "Улюбёнец"
+
+#: SettingsGUI#24
+msgid "Time stamp"
+msgstr "Часадзнака"
+
+#: SettingsGUI#25
+msgid "Message"
+msgstr "Паведамленьне"
+
+#: SettingsGUI#26
+msgid "Select translation"
+msgstr "Абярыце пераклад"
+
+#: SettingsGUI#27
+msgid "Translation (*.qm)"
+msgstr "Пераклад (*.qm)"
+
+#: SettingsLog#1
+msgctxt "SettingsLog#1"
+msgid "Choose the directory"
+msgstr "Абярыце каталёґ"
+
+#: SettingsNotification#1
+msgctxt "SettingsNotification#1"
+msgid "Select file"
+msgstr "Абярыце файл"
+
+#: SettingsNotification#2
+msgctxt "SettingsNotification#2"
+msgid "All files (*.*)"
+msgstr "Усе файлы (*.*)"
+
+#: SettingsPersonal#1
+msgctxt "SettingsPersonal#1"
+msgid "System default"
+msgstr "Звычайны ў сыстэме"
+
+#: SettingsSharing#1
+msgctxt "SettingsSharing#1"
+msgid "Total shared: %1"
+msgstr "Разам абагулілі: %1"
+
+#: SettingsSharing#2
+msgctxt "SettingsSharing#2"
+msgid "Select directory"
+msgstr "Абраць каталёґ"
+
+#: SettingsSharing#3
+msgctxt "SettingsSharing#3"
+msgid "Name"
+msgstr "Назва"
+
+#: SettingsSharing#4
+msgctxt "SettingsSharing#4"
+msgid "Add"
+msgstr "Дадаць"
+
+#: SettingsSharing#5
+msgctxt "SettingsSharing#5"
+msgid "Remove"
+msgstr "Выкрасьліць"
+
+#: SettingsSharing#6
+msgid "Add item"
+msgstr "Дадаць"
+
+#: SettingsSharing#7
+msgid "Enter text:"
+msgstr "Упішыце тэкст:"
+
+#: SettingsSharing#8
+msgctxt "SettingsSharing#8"
+msgid "Choose the directory"
+msgstr "Абярыце каталёґ"
+
+#: SettingsSharing#9
+msgid "Rename"
+msgstr "Даць новую назву"
+
+#: SettingsSharing#10
+msgctxt "SettingsSharing#10"
+msgid "Error"
+msgstr "Памылка"
+
+#: SettingsSharing#11
+msgid "Enter new name"
+msgstr "Упішыце новую назву"
+
+#: ShareBrowser#1
+msgctxt "ShareBrowser#1"
+msgid "Download"
+msgstr "Сьцягнуць"
+
+#: ShareBrowser#2
+msgctxt "ShareBrowser#2"
+msgid "Download to..."
+msgstr "Сьцягнуць у…"
+
+#: ShareBrowser#3
+msgctxt "ShareBrowser#3"
+msgid "Search for alternates"
+msgstr "Шукаць іншыя крыніцы"
+
+#: ShareBrowser#4
+msgctxt "ShareBrowser#4"
+msgid "Copy magnet"
+msgstr "Перапісаць маґніт-спасылку"
+
+#: ShareBrowser#5
+msgctxt "ShareBrowser#5"
+msgid "Copy web-magnet"
+msgstr "Перапісаць маґніт-спасылку для сеціва"
+
+#: ShareBrowser#6
+msgctxt "ShareBrowser#6"
+msgid "Properties of magnet"
+msgstr "Уласьцівасьці маґніт-спасылкі"
+
+#: ShareBrowser#7
+msgctxt "ShareBrowser#7"
+msgid "Add to favorites"
+msgstr "Дадаць да ўлюбёнцаў"
+
+#: ShareBrowser#8
+msgid "Add restriction"
+msgstr "Дадаць абмежаваньне"
+
+#: ShareBrowser#9
+msgid "Remove restriction"
+msgstr "Выкрасьліць абмежаваньне"
+
+#: ShareBrowser#10
+msgctxt "ShareBrowser#10"
+msgid "Open directory"
+msgstr "Адчыніць каталёґ"
+
+#: ShareBrowser#11
+msgctxt "ShareBrowser#11"
+msgid "Browse"
+msgstr "Прагледзець"
+
+#: ShareBrowser#12
+msgid "Own files"
+msgstr "Уласныя файлы"
+
+#: ShareBrowser#13
+msgid "Listing: "
+msgstr "Сьпіс файлаў: "
+
+#: ShareBrowser#14
+msgid "Total share size: %1;  Files: %2"
+msgstr "Агульны памер абагуленага: %1;  Файлаў: %2"
+
+#: ShareBrowser#15
+msgid "Enter restriction size (in GB)"
+msgstr "Упішыце памер абмежаваньня (у ГБ)"
+
+#: ShareBrowser#16
+msgctxt "ShareBrowser#16"
+msgid "Filebrowser"
+msgstr "Аглядальнік файлаў"
+
+#: ShareBrowser#17
+msgid "Restrictions"
+msgstr "Абмежаваньні"
+
+#: ShareBrowser#18
+msgctxt "ShareBrowser#18"
+msgid "Magnet"
+msgstr "Маґніт-спасылка"
+
+#: ShareBrowser#19
+msgctxt "ShareBrowser#19"
+msgid "Close"
+msgstr "Зачыніць"
+
+#: ShareBrowser#20
+msgid "Total size: %1"
+msgstr "Агульны памер: %1"
+
+#: ShareBrowser#21
+msgid "; Selected: %1"
+msgstr "; Абраныя: %1"
+
+#: ShareBrowser#22
+msgctxt "ShareBrowser#22"
+msgid "Select directory"
+msgstr "Абярыце каталёґ"
+
+#: ShareBrowserSearch#1
+msgctxt "ShareBrowserSearch#1"
+msgid "Search - %1"
+msgstr "Шукаем — %1"
+
+#: ShareDirModel#1
+msgctxt "ShareDirModel#1"
+msgid "Error"
+msgstr "Памылка"
+
+#: ShellCommandRunner#1
+msgid "Command produced no visible output."
+msgstr "Загад ня даў бачнага выніку."
+
+#: ShellCommandRunner#2
+msgid "Process exited with status"
+msgstr "Працэс скончыўся са станам"
+
+#: ShellCommandRunner#3
+msgid "Process was killed or crashed."
+msgstr "Працэс забілі або ён аварыйна скончыўся."
+
+#: ShellCommandRunner#4
+msgid "Process still running after 2 minutes, killing process..."
+msgstr "Працэс працягвае працаваць ужо 2 хвіліны — забіваем яго…"
+
+#: ShortcutGetter#1
+msgid "Modify shortcut"
+msgstr "Зьмяніць выклічнік"
+
+#: ShortcutGetter#2
+msgid "Press the key combination you want to assign"
+msgstr "Націсьніце спалучэньне клявішаў, якое вы хочаце прызначыць"
+
+#: ShortcutGetter#3
+msgctxt "ShortcutGetter#3"
+msgid "Clear"
+msgstr "Ачысьціць"
+
+#: ShortcutGetter#4
+msgid "Capture"
+msgstr "Захапіць"
+
+#: ShortcutGetter#5
+msgid "Capture keystrokes"
+msgstr "Захапіць націсканьне клявішаў"
+
+#: ShortcutsModel#1
+msgid "Action"
+msgstr "Дзеяньне"
+
+#: ShortcutsModel#2
+msgid "Hotkey"
+msgstr "Выклічнік"
+
+#: SideBarModel#1
+msgctxt "SideBarModel#1"
+msgid "Hubs"
+msgstr "Асяродкі"
+
+#: SideBarModel#2
+msgid "Private Messages"
+msgstr "Асабістыя паведамленьні"
+
+#: SideBarModel#3
+msgctxt "SideBarModel#3"
+msgid "Search"
+msgstr "Шукаць"
+
+#: SideBarModel#4
+msgid "Share Browsers"
+msgstr "Аглядальнікі абагуленага"
+
+#: SideBarModel#5
+msgctxt "SideBarModel#5"
+msgid "ADLSearch"
+msgstr "Самарушна шукаць у сьпісах"
+
+#: SideBarModel#6
+msgctxt "SideBarModel#6"
+msgid "Download Queue"
+msgstr "Чарга сьцягваць файлы"
+
+#: SideBarModel#7
+msgctxt "SideBarModel#7"
+msgid "Queued Users"
+msgstr "Чарга карыстальнікаў"
+
+#: SideBarModel#8
+msgid "Finished Uploads"
+msgstr "Зацягнутае"
+
+#: SideBarModel#9
+msgctxt "SideBarModel#9"
+msgid "Finished Downloads"
+msgstr "Сьцягнутае"
+
+#: SideBarModel#10
+msgid "Favorite Hubs"
+msgstr "Улюбёныя асяродкі"
+
+#: SideBarModel#11
+msgid "Favorite Users"
+msgstr "Улюбёнцы"
+
+#: SideBarModel#12
+msgctxt "SideBarModel#12"
+msgid "Public Hubs"
+msgstr "Адкрытыя асяродкі"
+
+#: SideBarModel#13
+msgid "Spy"
+msgstr "Шпег"
+
+#: SideBarModel#14
+msgid "Other Widgets"
+msgstr "Іншыя ваконцы"
+
+#: SideBarModel#15
+msgid "Widgets"
+msgstr "Ваконцы"
+
+#: SpyFrame#1
+msgctxt "SpyFrame#1"
+msgid "Stop"
+msgstr "Спыніць"
+
+#: SpyFrame#2
+msgctxt "SpyFrame#2"
+msgid "Search Spy"
+msgstr "Шпегаваць у шуканым"
+
+#: SpyFrame#3
+msgid ""
+"Search Spy is now running.\n"
+"It will continue to work when the widget is hidden.\n"
+"Do you want to stop it?\n"
+msgstr ""
+"Зараз шпегуем у шуканым.\n"
+"Калі схаваць гэтае ваконца, шпегаваць у шуканым ня спынім.\n"
+"Ці хочаце вы спыніць шпегаваць?\n"
+
+#: SpyFrame#4
+msgctxt "SpyFrame#4"
+msgid "Start"
+msgstr "Пачаць"
+
+#: SpyFrame#5
+msgctxt "SpyFrame#5"
+msgid "Search"
+msgstr "Шукаць"
+
+#: SpyModel#1
+msgctxt "SpyModel#1"
+msgid "Count"
+msgstr "Колькасьць"
+
+#: SpyModel#2
+msgctxt "SpyModel#2"
+msgid "Search string"
+msgstr "Радок, які шукаецца"
+
+#: TabFrame#1
+msgctxt "TabFrame#1"
+msgid "Close"
+msgstr "Зачыніць"
+
+#: ToolBar#1
+msgctxt "ToolBar#1"
+msgid "Show close buttons"
+msgstr "Паказваць гузікі «зачыніць»"
+
+#: TransferView#1
+msgctxt "TransferView#1"
+msgid "Browse files"
+msgstr "Прагледзець файлы"
+
+#: TransferView#2
+msgid "Search Alternates"
+msgstr "Шукаць іншыя крыніцы"
+
+#: TransferView#3
+msgctxt "TransferView#3"
+msgid "Match Queue"
+msgstr "Узгадніць чаргу"
+
+#: TransferView#4
+msgctxt "TransferView#4"
+msgid "Send Private Message"
+msgstr "Даслаць асабістае паведамленьне"
+
+#: TransferView#5
+msgctxt "TransferView#5"
+msgid "Add to favorites"
+msgstr "Дадаць да ўлюбёнцаў"
+
+#: TransferView#6
+msgctxt "TransferView#6"
+msgid "Grant extra slot"
+msgstr "Даць дадатковую шчыліну"
+
+#: TransferView#7
+msgctxt "TransferView#7"
+msgid "Copy"
+msgstr "Перапісаць у кішэню"
+
+#: TransferView#8
+msgctxt "TransferView#8"
+msgid "Users"
+msgstr "Карыстальнікі"
+
+#: TransferView#9
+msgctxt "TransferView#9"
+msgid "Speed"
+msgstr "Хуткасьць"
+
+#: TransferView#10
+msgid "Statistic"
+msgstr "Статыстыка"
+
+#: TransferView#11
+msgctxt "TransferView#11"
+msgid "Size"
+msgstr "Памер"
+
+#: TransferView#12
+msgctxt "TransferView#12"
+msgid "Time left"
+msgstr "Засталося"
+
+#: TransferView#13
+msgctxt "TransferView#13"
+msgid "Filename"
+msgstr "Назва файла"
+
+#: TransferView#14
+msgctxt "TransferView#14"
+msgid "Host"
+msgstr "Вузел"
+
+#: TransferView#15
+msgctxt "TransferView#15"
+msgid "IP"
+msgstr "Адрас IP"
+
+#: TransferView#16
+msgctxt "TransferView#16"
+msgid "Encryption"
+msgstr "Шыфраваньне"
+
+#: TransferView#17
+msgctxt "TransferView#17"
+msgid "Magnet"
+msgstr "Маґніт-спасылка"
+
+#: TransferView#18
+msgid "Remove Source"
+msgstr "Выкрасьліць крыніцу"
+
+#: TransferView#19
+msgid "Force attempt"
+msgstr "Прымусіць паспрабаваць"
+
+#: TransferView#20
+msgid "Close connection(s)"
+msgstr "Зачыніць злучэньне(і)"
+
+#: TransferView#21
+msgid "Download complete"
+msgstr "Скончылі сьцягваць"
+
+#: TransferView#22
+msgctxt "TransferView#22"
+msgid "File list"
+msgstr "Сьпіс файлаў"
+
+#: TransferView#23
+msgctxt "TransferView#23"
+msgid "TTH: "
+msgstr "Скарот (TTH): "
+
+#. (obsolete)
+#: TransferView#24
+msgid "Transfer View"
+msgstr "Сьпіс перадаванага"
+
+#. (obsolete)
+#: TransferView#25
+msgid "You cannot search alternates for uploads!"
+msgstr "Нельга шукаць іншыя крыніцы на файлы, якія <i>зацягваюцца</i>!"
+
+#: TransferView#26
+msgid "Requesting"
+msgstr "Запытваемся"
+
+#: TransferView#27
+msgid "Download starting..."
+msgstr "Пачынаем сьцягваць…"
+
+#: TransferView#28
+msgid "[S]"
+msgstr ""
+
+#: TransferView#29
+msgid "[U]"
+msgstr ""
+
+#: TransferView#30
+msgid "[T]"
+msgstr ""
+
+#: TransferView#31
+msgid "[Z]"
+msgstr ""
+
+#: TransferView#32
+msgid "Downloaded %1"
+msgstr "Сьцягнулі %1"
+
+#: TransferView#33
+msgid " (%1%)"
+msgstr ""
+
+#: TransferView#34
+msgid "Connecting..."
+msgstr "Злучаемся…"
+
+#: TransferView#35
+msgid "Connected"
+msgstr "Злучыліся"
+
+#: TransferView#36
+msgid "Connecting"
+msgstr "Злучаемся"
+
+#: TransferView#37
+msgid "No download slots"
+msgstr "Няма шчылінаў сьцягваць"
+
+#: TransferView#38
+msgid "Waiting to retry"
+msgstr "Чакаем паспрабаваць зноўку"
+
+#: TransferView#39
+msgid "Upload starting..."
+msgstr "Пачынаем зацягваць…"
+
+#: TransferView#40
+msgid " Uploaded %1 (%2%) "
+msgstr " Зацягнулі %1 (%2%) "
+
+#: TransferView#41
+msgid "Upload complete"
+msgstr "Скончылі зацягваць"
+
+#: TransferView#42
+msgid "Upload failed"
+msgstr "Не ўдалося зацягнуць"
+
+#: TransferViewModel#1
+msgctxt "TransferViewModel#1"
+msgid "Users"
+msgstr "Карыстальнікі"
+
+#: TransferViewModel#2
+msgctxt "TransferViewModel#2"
+msgid "Speed"
+msgstr "Хуткасьць"
+
+#: TransferViewModel#3
+msgctxt "TransferViewModel#3"
+msgid "Status"
+msgstr "Стан"
+
+#: TransferViewModel#4
+msgctxt "TransferViewModel#4"
+msgid "Size"
+msgstr "Памер"
+
+#: TransferViewModel#5
+msgctxt "TransferViewModel#5"
+msgid "Time left"
+msgstr "Засталося"
+
+#: TransferViewModel#6
+msgid "File name"
+msgstr "Назва файла"
+
+#: TransferViewModel#7
+msgctxt "TransferViewModel#7"
+msgid "Host"
+msgstr "Вузел"
+
+#: TransferViewModel#8
+msgctxt "TransferViewModel#8"
+msgid "IP"
+msgstr "Адрас IP"
+
+#: TransferViewModel#9
+msgctxt "TransferViewModel#9"
+msgid "Encryption"
+msgstr "Шыфраваньне"
+
+#: TransferViewModel#10
+msgctxt "TransferViewModel#10"
+msgid "/s"
+msgstr "/с"
+
+#: TransferViewModel#11
+msgctxt "TransferViewModel#11"
+msgid "File list"
+msgstr "Сьпіс файлаў"
+
+#: TransferViewModel#12
+msgid "Downloaded "
+msgstr "Сьцягнулі "
+
+#: TransferViewModel#13
+msgid "Waiting for slot "
+msgstr "Чакаем на шчыліну "
+
+#: TransferViewModel#14
+msgid " from %1/%2 user(s)"
+msgstr " ад %1/%2 карыстальніка(аў)"
+
+#: TransferViewModel#15
+msgctxt "TransferViewModel#15"
+msgid "TTH: "
+msgstr "Скарот (TTH): "
+
+#: TransferViewModel#16
+msgid "Finished"
+msgstr "Скончылі"
+
+#: UCModel#1
+msgctxt "UCModel#1"
+msgid "Name"
+msgstr "Назва"
+
+#: UCModel#2
+msgctxt "UCModel#2"
+msgid "Command"
+msgstr "Загад"
+
+#: UCModel#3
+msgctxt "UCModel#3"
+msgid "Hub"
+msgstr "Асяродак"
+
+#: UCModel#4
+msgctxt "UCModel#4"
+msgid "Separator"
+msgstr "Аддзяляльнік"
+
+#: UIADLS#1
+msgctxt "UIADLS#1"
+msgid "Form"
+msgstr ""
+
+#: UIADLS#2
+msgctxt "UIADLS#2"
+msgid "Add new"
+msgstr "Дадаць"
+
+#: UIADLS#3
+msgctxt "UIADLS#3"
+msgid "Change"
+msgstr "Зьмяніць"
+
+#: UIADLS#4
+msgctxt "UIADLS#4"
+msgid "Delete"
+msgstr "Выкрасьліць"
+
+#: UIADLS#5
+msgid "Move up"
+msgstr "Пасунуць угору"
+
+#: UIADLS#6
+msgid "Move down"
+msgstr "Пасунуць долу"
+
+#: UIADLSEditor#1
+msgctxt "UIADLSEditor#1"
+msgid "Dialog"
+msgstr "Самарушна шукаць у сьпісах файлаў"
+
+#: UIADLSEditor#2
+msgctxt "UIADLSEditor#2"
+msgid "Favorite hub name."
+msgstr "Назва ўлюбёнага асяродку."
+
+#: UIADLSEditor#3
+msgctxt "UIADLSEditor#3"
+msgid "Type source"
+msgstr "Від крыніцы"
+
+#: UIADLSEditor#4
+msgctxt "UIADLSEditor#4"
+msgid "Filename"
+msgstr "Назва файла"
+
+#: UIADLSEditor#5
+msgctxt "UIADLSEditor#5"
+msgid "Directory"
+msgstr "Каталёґ"
+
+#: UIADLSEditor#6
+msgctxt "UIADLSEditor#6"
+msgid "Search string"
+msgstr "Шукаць радок"
+
+#: UIADLSEditor#7
+msgid "Full path"
+msgstr "Поўны шлях"
+
+#: UIADLSEditor#8
+msgid "Min/Max Size"
+msgstr "Найменшы ды найбольшы памер"
+
+#: UIADLSEditor#9
+msgctxt "UIADLSEditor#9"
+msgid "B"
+msgstr "Б"
+
+#: UIADLSEditor#10
+msgctxt "UIADLSEditor#10"
+msgid "KiB"
+msgstr "КіБ"
+
+#: UIADLSEditor#11
+msgctxt "UIADLSEditor#11"
+msgid "MiB"
+msgstr "МіБ"
+
+#: UIADLSEditor#12
+msgctxt "UIADLSEditor#12"
+msgid "GiB"
+msgstr "ГіБ"
+
+#: UIADLSEditor#13
+msgctxt "UIADLSEditor#13"
+msgid "On"
+msgstr "Задзейнічаць"
+
+#: UIADLSEditor#14
+msgctxt "UIADLSEditor#14"
+msgid "Download"
+msgstr "Сьцягнуць"
+
+#: UIAbout#1
+msgctxt "UIAbout#1"
+msgid "About EiskaltDC++"
+msgstr "Пра EiskaltDC++"
+
+#: UIAbout#2
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">EiskaltDC++</span></p></body></html>"
+msgstr ""
+
+#: UIAbout#3
+msgid "About program"
+msgstr "Пра праґраму"
+
+#: UIAbout#4
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p></body></html>"
+
+#: UIAbout#5
+msgid "Authors"
+msgstr "Аўтары"
+
+#: UIAbout#6
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:12px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Courier New,courier';\">Copyright (c) 2009-2010  Andrey Karlov "
+"&lt;dein.negativ@gmail.com&gt;</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Courier New,courier';\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Courier New,courier';\">This program is free software: you can "
+"redistribute it and/or modify it under the terms of the GNU General Public "
+"License as published by the Free Software Foundation, either version 3 of "
+"the License, or(at your option) any later version.</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Courier New,courier';\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Courier New,courier';\">This program is distributed in the hope that "
+"it will be useful, but WITHOUT ANY WARRANTY; without even the implied "
+"warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the "
+"GNU General Public License for more details.</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Courier New,courier';\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Courier New,courier';\">You should have received a copy of the GNU "
+"General Public License along with this program.  If not, see &lt;</span><a "
+"href=\"http://www.gnu.org/licenses/\"><span style=\" text-decoration: "
+"underline; color:#296fbe;\">http://www.gnu.org/licenses/</span></a><span "
+"style=\" font-family:'Courier New,courier';\">&gt;.</span></p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:12px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Courier New,courier';\">Аўтарскае права (c) 2009–2010  Андрэй Карлаў "
+"&lt;dein.negativ@gmail.com&gt;</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Courier New,courier';\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Courier New,courier';\">Гэтая праґрама адносіцца да вольнага "
+"праґрамнага забесьпячэньня: вы можаце распаўсюджваць і (ці) зьмяняць яе на "
+"ўмовах трэцяе ці (на ваш выбар) пазьнейшае вэрсіі ліцэнзіі GNU General "
+"Public License, якую апублікавала Free Software Foundation.</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Courier New,courier';\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Courier New,courier';\">Гэтая праґрама распаўсюждваецца з надзеяй, "
+"што яна будзе карыснаю, але БЕЗ АНІЯКІХ ПАРУК; нават без парукі мець "
+"КАМЭРЦЫЙНУЮ ВАРТАСЬЦЬ ці БЫЦЬ ПРЫДАТНАЮ ДА НЕЙКАЕ МЭТЫ. За падрабязнасьцямі "
+"зьвяртайцеся да тэксту GNU General Public License.</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Courier New,courier';\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"family:'Courier New,courier';\">Вы мусілі атрымаць асобнік GNU General Public "
+"License разам з гэтаю праґрамаю. Калі гэтага не адбылося, зірніце "
+"&lt;</span><a href=\"http://www.gnu.org/licenses/\"><span style=\" text-"
+"decoration: underline; "
+"color:#296fbe;\">http://www.gnu.org/licenses/</span></a><span style=\" font-"
+"family:'Courier New,courier';\">&gt;.</span></p></body></html>"
+
+#: UIAbout#7
+msgid "Translation"
+msgstr "Пераклад"
+
+#: UIAbout#8
+msgid "License"
+msgstr "Ліцэнзія"
+
+#: UIActionCustomizer#1
+msgctxt "UIActionCustomizer#1"
+msgid "Dialog"
+msgstr ""
+
+#: UIActionCustomizer#2
+msgid ">>"
+msgstr ">>"
+
+#: UIActionCustomizer#3
+msgid "<<"
+msgstr "<<"
+
+#: UIActionCustomizer#4
+msgctxt "UIActionCustomizer#4"
+msgid "Up"
+msgstr "Угору"
+
+#: UIActionCustomizer#5
+msgctxt "UIActionCustomizer#5"
+msgid "Down"
+msgstr "Да-долу"
+
+#: UIAntiSpam#1
+msgid "AntiSpam configuration"
+msgstr "Настаўленьні супраць лухты"
+
+#: UIAntiSpam#2
+msgctxt "UIAntiSpam#2"
+msgid "AntiSpam"
+msgstr "Супраць лухты"
+
+#: UIAntiSpam#3
+msgid "Phrase"
+msgstr "Пытаньне"
+
+#: UIAntiSpam#4
+msgctxt "UIAntiSpam#4"
+msgid "Key"
+msgstr "Адказ"
+
+#: UIAntiSpam#5
+msgid "Attempts"
+msgstr "Спробы"
+
+#: UIAntiSpam#6
+msgid "Enable AntiSpam"
+msgstr "Задзейнічаць сыстэму супраць лухты"
+
+#: UIAntiSpam#7
+msgctxt "UIAntiSpam#7"
+msgid "OK"
+msgstr "Добра"
+
+#: UIAntiSpam#8
+msgid "Work as filter"
+msgstr "Працаваць як сіта"
+
+#: UIAntiSpam#9
+msgid "Black list"
+msgstr "Чорны сьпіс"
+
+#: UIAntiSpam#10
+msgid "+"
+msgstr ""
+
+#: UIAntiSpam#11
+msgid "-"
+msgstr ""
+
+#: UIAntiSpam#12
+msgid "C"
+msgstr ""
+
+#: UIAntiSpam#13
+msgctxt "UIAntiSpam#13"
+msgid "Users"
+msgstr "Карыстальнікі"
+
+#: UIAntiSpam#14
+msgid "Gray List"
+msgstr "Шэры сьпіс"
+
+#: UIAntiSpam#15
+msgid "White list"
+msgstr "Белы сьпіс"
+
+#: UIAntiSpam#16
+msgid "Move user to \"White\" list"
+msgstr "Перанесьці карыстальніка ў «белы» сьпіс"
+
+#: UIAntiSpam#17
+msgid ">>>"
+msgstr ""
+
+#: UIAntiSpam#18
+msgid "Move user to \"Gray\" list"
+msgstr "Перанесьці карыстальніка ў «шэры» сьпіс"
+
+#: UIAntiSpam#19
+msgid "<<<"
+msgstr ""
+
+#: UIAntiSpam#20
+msgid "Move user to \"Black\" list"
+msgstr "Перанесьці карыстальніка ў «чорны» сьпіс"
+
+#: UIAntiSpam#21
+msgid "Filter Operators"
+msgstr "Прасейваць апэратараў"
+
+#: UIDownloadQueue#1
+msgctxt "UIDownloadQueue#1"
+msgid "Form"
+msgstr ""
+
+#: UIDownloadQueue#2
+msgid "Expand all"
+msgstr "Разгарнуць усё"
+
+#: UIDownloadQueue#3
+msgid "Collapse all"
+msgstr "Згарнуць усё"
+
+#: UIFavoriteHubEditor#1
+msgctxt "UIFavoriteHubEditor#1"
+msgid "Dialog"
+msgstr "Уласьцівасьці асяродку"
+
+#: UIFavoriteHubEditor#2
+msgctxt "UIFavoriteHubEditor#2"
+msgid "Hub"
+msgstr "Асяродак"
+
+#: UIFavoriteHubEditor#3
+msgid "Autoconnect on startup"
+msgstr "Самарушна злучацца па запуску"
+
+#: UIFavoriteHubEditor#4
+msgctxt "UIFavoriteHubEditor#4"
+msgid "Favorite hub name."
+msgstr "Назва ўлюбёнага асяродку."
+
+#: UIFavoriteHubEditor#5
+msgid "IP address or DNS name of hub."
+msgstr "Адрас IP або назва DNS асяродку."
+
+#: UIFavoriteHubEditor#6
+msgid "This description will show in the user list."
+msgstr "Гэтае апісаньне будзе паказвацца ў сьпісе карыстальнікаў."
+
+#: UIFavoriteHubEditor#7
+msgctxt "UIFavoriteHubEditor#7"
+msgid "Name"
+msgstr "Назва"
+
+#: UIFavoriteHubEditor#8
+msgctxt "UIFavoriteHubEditor#8"
+msgid "Address"
+msgstr "Адрас"
+
+#: UIFavoriteHubEditor#9
+msgctxt "UIFavoriteHubEditor#9"
+msgid "Description"
+msgstr "Апісаньне"
+
+#: UIFavoriteHubEditor#10
+msgid "Encoding"
+msgstr "Знаказбор"
+
+#: UIFavoriteHubEditor#11
+msgid "Client ID"
+msgstr "ID кліента"
+
+#: UIFavoriteHubEditor#12
+msgid "External IP"
+msgstr "Вонкавая IP"
+
+#: UIFavoriteHubEditor#13
+msgctxt "UIFavoriteHubEditor#13"
+msgid "000.000.000.000; "
+msgstr ""
+
+#: UIFavoriteHubEditor#14
+msgid "Auto update from Internet"
+msgstr "Самарушна абнаўляць са словасьвету"
+
+#: UIFavoriteHubEditor#15
+msgid "Minimum search interval (seconds)"
+msgstr "Найменшы прамежак між спробамі шукаць (сэк.)"
+
+#: UIFavoriteHubEditor#16
+msgid "Disable chat"
+msgstr "Забараніць гаману"
+
+#: UIFavoriteHubEditor#17
+msgid "Default"
+msgstr "Прадвызначаны"
+
+#: UIFavoriteHubEditor#18
+msgid "Active"
+msgstr "Дзейны"
+
+#: UIFavoriteHubEditor#19
+msgid "Passive"
+msgstr "Нядзейны"
+
+#: UIFavoriteHubEditor#20
+msgid "Mode"
+msgstr "Спосаб злучацца"
+
+#. (obsolete)
+#: UIFavoriteHubEditor#21
+msgid "Minimum search interval"
+msgstr "Найменшы прамежак між спробамі шукаць"
+
+#: UIFavoriteHubEditor#22
+msgid "Identification"
+msgstr "Атаясьненьне"
+
+#: UIFavoriteHubEditor#23
+msgid "This nickname, or handle, will identify you when you join a hub."
+msgstr "Гэтая мянушка будзе атаясьняць вас, калі вы далучаецеся да асяродку."
+
+#: UIFavoriteHubEditor#24
+msgid "If hub requires password, define it here."
+msgstr "Калі асяродак патрабуе гасло, вызначце яго тут."
+
+#: UIFavoriteHubEditor#25
+msgctxt "UIFavoriteHubEditor#25"
+msgid "Nick"
+msgstr "Мянушка"
+
+#: UIFavoriteHubEditor#26
+msgctxt "UIFavoriteHubEditor#26"
+msgid "User description"
+msgstr "Апісаньне карыстальніка"
+
+#: UIFavoriteHubEditor#27
+msgctxt "UIFavoriteHubEditor#27"
+msgid "Password"
+msgstr "Гасло"
+
+#: UIFavoriteHubs#1
+msgctxt "UIFavoriteHubs#1"
+msgid "Form"
+msgstr ""
+
+#: UIFavoriteHubs#2
+msgctxt "UIFavoriteHubs#2"
+msgid "Add new"
+msgstr "Дадаць"
+
+#: UIFavoriteHubs#3
+msgctxt "UIFavoriteHubs#3"
+msgid "Change"
+msgstr "Зьмяніць"
+
+#: UIFavoriteHubs#4
+msgctxt "UIFavoriteHubs#4"
+msgid "Delete"
+msgstr "Выкрасьліць"
+
+#: UIFavoriteHubs#5
+msgctxt "UIFavoriteHubs#5"
+msgid "Connect"
+msgstr "Злучыцца"
+
+#: UIFavoriteUsers#1
+msgctxt "UIFavoriteUsers#1"
+msgid "Form"
+msgstr ""
+
+#: UIFavoriteUsers#2
+msgid "Auto grant slot to all users"
+msgstr "Самарушна даваць шчыліну ўсім карыстальнікам"
+
+#: UIFileHasher#1
+msgid "TTH Calculator"
+msgstr "Падлічыць скарот (TTH)"
+
+#: UIFileHasher#2
+msgid "..."
+msgstr "…"
+
+#: UIFileHasher#3
+msgid "Compute"
+msgstr "Падлічыць"
+
+#: UIFileHasher#4
+msgid "Get magnet"
+msgstr "Атрымаць маґніт-спасылку"
+
+#: UIFileHasher#5
+msgctxt "UIFileHasher#5"
+msgid "Close"
+msgstr "Зачыніць"
+
+#: UIFinishedTransfers#1
+msgctxt "UIFinishedTransfers#1"
+msgid "Form"
+msgstr ""
+
+#: UIFinishedTransfers#2
+msgctxt "UIFinishedTransfers#2"
+msgid "Files"
+msgstr "Файлы"
+
+#: UIFinishedTransfers#3
+msgctxt "UIFinishedTransfers#3"
+msgid "Users"
+msgstr "Карыстальнікі"
+
+#: UIFinishedTransfers#4
+msgid "Show"
+msgstr "Паказаць"
+
+#: UIFinishedTransfers#5
+msgid "Show only completely finished transfers"
+msgstr "Паказваць толькі тое, што ўжо скончылі перадаваць"
+
+#: UIFinishedTransfers#6
+msgid "Full only"
+msgstr "Толькі скончанае"
+
+#: UIFinishedTransfers#7
+msgctxt "UIFinishedTransfers#7"
+msgid "Clear"
+msgstr "Ачысьціць"
+
+#: UIHashDialog#1
+msgctxt "UIHashDialog#1"
+msgid "Hash progress"
+msgstr "Поступ стварэньня скаротаў"
+
+#: UIHashDialog#2
+msgctxt "UIHashDialog#2"
+msgid "Hide"
+msgstr "Схаваць"
+
+#: UIHashDialog#3
+msgctxt "UIHashDialog#3"
+msgid "Start"
+msgstr "Пачаць"
+
+#: UIHashDialog#4
+msgid "Close on finish"
+msgstr "Зачыніць, як скончыцца"
+
+#: UIHubFrame#1
+msgctxt "UIHubFrame#1"
+msgid "Form"
+msgstr ""
+
+#: UIHubFrame#2
+msgid "Find: "
+msgstr "Знайсьці: "
+
+#: UIHubFrame#3
+msgctxt "UIHubFrame#3"
+msgid "Previous (Shift+F3)"
+msgstr "Папярэдняе (Shift+F3)"
+
+#: UIHubFrame#4
+msgctxt "UIHubFrame#4"
+msgid "<"
+msgstr ""
+
+#: UIHubFrame#5
+msgid "Shift+F3"
+msgstr ""
+
+#: UIHubFrame#6
+msgctxt "UIHubFrame#6"
+msgid "Next (F3)"
+msgstr "Наступнае (F3)"
+
+#: UIHubFrame#7
+msgctxt "UIHubFrame#7"
+msgid ">"
+msgstr ""
+
+#: UIHubFrame#8
+msgid "F3"
+msgstr ""
+
+#: UIHubFrame#9
+msgctxt "UIHubFrame#9"
+msgid "Highlight all"
+msgstr "Падсьвечваць усе"
+
+#: UIHubFrame#10
+msgctxt "UIHubFrame#10"
+msgid "A"
+msgstr ""
+
+#: UIHubFrame#11
+msgctxt "UIHubFrame#11"
+msgid "Hide find frame (Ctrl+F)"
+msgstr "Схаваць форму пошуку (Ctrl+F)"
+
+#: UIHubFrame#12
+msgid "Last status message on hub"
+msgstr "Апошняе апісаньне стану на асяродку"
+
+#: UIHubManager#1
+msgctxt "UIHubManager#1"
+msgid "Form"
+msgstr ""
+
+#: UIHubManager#2
+msgctxt "UIHubManager#2"
+msgid "Hub"
+msgstr "Асяродак"
+
+#: UIHubManager#3
+msgid "URL"
+msgstr "Спасылка"
+
+#: UIHubManager#4
+msgctxt "UIHubManager#4"
+msgid "Users"
+msgstr "Карыстальнікаў"
+
+#: UIHubManager#5
+msgctxt "UIHubManager#5"
+msgid "Share"
+msgstr "Абагуленае"
+
+#: UIIPFilter#1
+msgid "IP Filter"
+msgstr "Сіта IP"
+
+#: UIIPFilter#2
+msgctxt "UIIPFilter#2"
+msgid "OK"
+msgstr "Добра"
+
+#: UIIPFilter#3
+msgctxt "UIIPFilter#3"
+msgid "Add"
+msgstr "Дадаць"
+
+#: UIIPFilter#4
+msgid "Export"
+msgstr "Выняць"
+
+#: UIIPFilter#5
+msgid "Import"
+msgstr "Узяць з файла"
+
+#: UIIPFilter#6
+msgid "UP"
+msgstr "Угору"
+
+#: UIIPFilter#7
+msgid "DOWN"
+msgstr "Да-долу"
+
+#: UIIPFilter#8
+msgctxt "UIIPFilter#8"
+msgid "Direction"
+msgstr "Кірунак"
+
+#: UIIPFilter#9
+msgid "BOTH"
+msgstr "Абодва"
+
+#: UIIPFilter#10
+msgid "IN"
+msgstr "Уваходны"
+
+#: UIIPFilter#11
+msgid "OUT"
+msgstr "Выходны"
+
+#: UIIPFilter#12
+msgid "Enable IPFilter"
+msgstr "Задзейнічаць Сіта IP"
+
+#: UIMagnet#1
+msgctxt "UIMagnet#1"
+msgid "Form"
+msgstr ""
+
+#: UIMagnet#2
+msgctxt "UIMagnet#2"
+msgid "TTH"
+msgstr "Скарот (TTH)"
+
+#: UIMagnet#3
+msgctxt "UIMagnet#3"
+msgid "Filename"
+msgstr "Назва файла"
+
+#: UIMagnet#4
+msgid "Filepath"
+msgstr "Шлях да файла"
+
+#: UIMagnet#5
+msgctxt "UIMagnet#5"
+msgid "Size"
+msgstr "Памер"
+
+#: UIMagnet#6
+msgid "Opens search dialog and searches file."
+msgstr "Адчыняе ваконца пошуку ды пачынае шукаць файл."
+
+#: UIMagnet#7
+msgctxt "UIMagnet#7"
+msgid "Search"
+msgstr "Шукаць"
+
+#: UIMagnet#8
+msgid ""
+"Adds magnet to download queue. If autosearch for alternatives is enabled\n"
+"in options, file will be downloaded without opening search dialog."
+msgstr ""
+"Дадае спасылку ў чаргу сьцягваць. Калі вы дазволілі самарушна шукаць\n"
+"крыніцы ў можнасьцях, ваконца пошуку ня будзе адчыняцца, а будзе\n"
+"адразу спрабаваць сьцягвацца файл."
+
+#: UIMagnet#9
+msgid "Add to queue"
+msgstr "Дадаць у чаргу"
+
+#: UIMagnet#10
+msgctxt "UIMagnet#10"
+msgid "Cancel"
+msgstr "Скасаваць"
+
+#: UIMagnet#11
+msgid "Remember my choice"
+msgstr "Запомніць, што я абраў"
+
+#: UIPrivateMessage#1
+msgctxt "UIPrivateMessage#1"
+msgid "Form"
+msgstr ""
+
+#: UIPrivateMessage#2
+msgid "Find:"
+msgstr "Знайсьці:"
+
+#: UIPrivateMessage#3
+msgctxt "UIPrivateMessage#3"
+msgid "Previous (Shift+F3)"
+msgstr "Папярэдняе (Shift+F3)"
+
+#: UIPrivateMessage#4
+msgctxt "UIPrivateMessage#4"
+msgid "<"
+msgstr "<"
+
+#: UIPrivateMessage#5
+msgctxt "UIPrivateMessage#5"
+msgid "Next (F3)"
+msgstr "Наступнае (F3)"
+
+#: UIPrivateMessage#6
+msgctxt "UIPrivateMessage#6"
+msgid ">"
+msgstr ">"
+
+#: UIPrivateMessage#7
+msgctxt "UIPrivateMessage#7"
+msgid "Hide find frame (Ctrl+F)"
+msgstr "Схаваць форму пошуку (Ctrl+F)"
+
+#: UIPrivateMessage#8
+msgctxt "UIPrivateMessage#8"
+msgid "Highlight all"
+msgstr "Падсьвяціць усе"
+
+#: UIPrivateMessage#9
+msgctxt "UIPrivateMessage#9"
+msgid "A"
+msgstr "Усё"
+
+#: UIPrivateMessage#10
+msgid "Go to hub"
+msgstr "Ісьці да асяродку"
+
+#: UIPrivateMessage#11
+msgid "User share"
+msgstr "Абагуленае карыстальнікам"
+
+#: UIPublicHubs#1
+msgctxt "UIPublicHubs#1"
+msgid "Form"
+msgstr ""
+
+#: UIPublicHubsList#1
+msgctxt "UIPublicHubsList#1"
+msgid "Dialog"
+msgstr "Сьпіс адкрытых асяродкаў"
+
+#: UIPublicHubsList#2
+msgctxt "UIPublicHubsList#2"
+msgid "Up"
+msgstr "Угору"
+
+#: UIPublicHubsList#3
+msgctxt "UIPublicHubsList#3"
+msgid "Down"
+msgstr "Да-долу"
+
+#: UIPublicHubsList#4
+msgctxt "UIPublicHubsList#4"
+msgid "Add"
+msgstr "Дадаць"
+
+#: UIPublicHubsList#5
+msgctxt "UIPublicHubsList#5"
+msgid "Remove"
+msgstr "Выкрасьліць"
+
+#: UIPublicHubsList#6
+msgctxt "UIPublicHubsList#6"
+msgid "Edit"
+msgstr "Зьмяніць"
+
+#: UIQueuedUsers#1
+msgctxt "UIQueuedUsers#1"
+msgid "Form"
+msgstr ""
+
+#: UIQuickConnect#1
+msgctxt "UIQuickConnect#1"
+msgid "Quick connect"
+msgstr "Хутка злучыцца"
+
+#: UIQuickConnect#2
+msgid "IP address of DNS name of hub you want to connect."
+msgstr "Адрас IP ці назва DNS асяродку, зь якім вы хочаце злучыцца."
+
+#: UIScriptManager#1
+msgctxt "UIScriptManager#1"
+msgid "Dialog"
+msgstr ""
+
+#: UISearchBlacklistDialog#1
+msgctxt "UISearchBlacklistDialog#1"
+msgid "Blacklist"
+msgstr "Чорны сьпіс"
+
+#: UISearchBlacklistDialog#2
+msgctxt "UISearchBlacklistDialog#2"
+msgid "Cancel"
+msgstr "Скасаваць"
+
+#: UISearchBlacklistDialog#3
+msgctxt "UISearchBlacklistDialog#3"
+msgid "OK"
+msgstr "Добра"
+
+#: UISettings#1
+msgid "Settings"
+msgstr "Налады"
+
+#: UISettingsConnection#1
+msgctxt "UISettingsConnection#1"
+msgid "Form"
+msgstr ""
+
+#: UISettingsConnection#2
+msgctxt "UISettingsConnection#2"
+msgid "Connection"
+msgstr "Злучэньне"
+
+#: UISettingsConnection#3
+msgid "Firewall with port forwarding"
+msgstr "Сетказаслона зь перасыланьнем портаў"
+
+#: UISettingsConnection#4
+msgid "Active mode"
+msgstr "Дзейны спосаб"
+
+#: UISettingsConnection#5
+msgid "Passive mode"
+msgstr "Нядзейны спосаб"
+
+#: UISettingsConnection#6
+msgid "Firewall with UPnP"
+msgstr "Сетказаслона з UPnP"
+
+#: UISettingsConnection#7
+msgid "External/WAN IP:"
+msgstr "Вонкавая/WAN IP:"
+
+#: UISettingsConnection#8
+msgctxt "UISettingsConnection#8"
+msgid "000.000.000.000; "
+msgstr ""
+
+#: UISettingsConnection#9
+msgid "TCP port"
+msgstr "Порт TCP"
+
+#: UISettingsConnection#10
+msgid "UDP port"
+msgstr "Порт UDP"
+
+#: UISettingsConnection#11
+msgid "TLS port"
+msgstr "Порт TLS"
+
+#: UISettingsConnection#12
+msgid "Don't allow Hub/UPnP to override"
+msgstr "Не дазваляць асяродку/UPnP замяняць"
+
+#: UISettingsConnection#13
+msgid "Outgoing connections"
+msgstr "Выходныя злучэньні"
+
+#: UISettingsConnection#14
+msgid "Direct connection"
+msgstr "Простае злучэньне"
+
+#: UISettingsConnection#15
+msgid ""
+"Select this mode if your computer is connected directly to the internet.\n"
+"Do not select this mode if you have a router or any external firewall.\n"
+"If your computer is not behind a router all you have to do is to choose\n"
+"this option and usually you don't need to alter anything more in the\n"
+"connection settings.\n"
+"However, if you have a software firewall installed, you may need further "
+"configuration in the firewall to allow Internet access for EiskaltDC++."
+msgstr ""
+"Абярыце гэты спосаб, калі ваш асьветар наўпрост злучаецца са словасьветам.\n"
+"Не абірайце гэты спосаб, калі вы маеце маршрутавальнік або нейкую вонкавую\n"
+"сетказаслону.\n"
+"Калі ваш асьветар ня месьціцца за сетказаслонаю, усё, што вы мусіце зрабіць "
+"—\n"
+"гэта абраць гэтую можнасьць: звычайна вам не спатрэбіцца зьмяняць нешта яшчэ\n"
+"ў наладах злучэньня.\n"
+"Але калі вы маеце ўсталяванаю праґрамную сетказаслону, вам можа спатрэбіцца\n"
+"дадаткова наставіць сетказаслону, каб дазволіць EiskaltDC++ мець доступ у "
+"словасьвет."
+
+#: UISettingsConnection#16
+msgid "Auto detect connection"
+msgstr "Самарушна вызначаць злучэньне"
+
+#: UISettingsConnection#17
+msgid "Incoming connections"
+msgstr "Уваходныя злучэньні"
+
+#: UISettingsConnection#18
+msgid ""
+"Select this mode if you are behind a firewall (router), and will set up\n"
+"the TCP, UDP and TLS port forwarding on your own.\n"
+"You will need to specify the external IP address of your router using\n"
+"the setting below if you want downloads to work properly.\n"
+"Use this mode only if the previous ones are not options for you."
+msgstr ""
+"Калі вы месьціцеся за сетказаслонаю (маршрутавальнікам), абярыце гэты спосаб\n"
+"і вызначце самастойна порты TCP, UDP і TLS, якія будуць перасылацца.\n"
+"А каб мець магчымасьць без перашкод сьцягваць файлы, вы мусіце таксама\n"
+"вызначыць вонкавы адрас IP вашага маршрутавальніку з дапамогаю\n"
+"наладаў, якія вы можаце пабачыць праваруч.\n"
+"\n"
+"Карыстайцеся гэтым спосабам толькі калі папярэднія вам не пасуюць."
+
+#: UISettingsConnection#19
+msgid ""
+"Select this mode if none of the previous modes apply. In this mode,\n"
+"EiskaltDC++ will not try to make inbound connections, only outbound ones.\n"
+"This mode carries some serious limitations:\n"
+"  * only 5 results per user will be returned in response to searches;\n"
+"  * you will not be able to download from other passive users;\n"
+"  * you may won't be able to search and/or download on certain hubs."
+msgstr ""
+"Абярыце гэты спосаб, калі аніводны з папярэдніх вам не пасуе.\n"
+"Калі EiskaltDC++ злучаецца нядзейным спосабам, ён не спрабуе\n"
+"ствараць выходныя злучэньні, а толькі прымае ўваходныя.\n"
+"Гэты спосаб мае істотныя абмежаваньні:\n"
+" — ад кожнага карыстальніка вяртаецца толькі пяць адказаў на запыт пошуку;\n"
+" — вы ня зможаце сьцягваць у іншых нядзейных карыстальнікаў;\n"
+" — на пэўных асяродках вы ўвогуле ня зможаце шукаць і (або) сьцягваць файлы."
+
+#: UISettingsConnection#20
+msgid ""
+"Select this mode if you are behind a firewall/router that supports\n"
+"the UPnP standard for program auto-configuration.\n"
+"Most routers do support UPnP but you may need to enable it\n"
+"in the router's configuration page.\n"
+"This way EiskaltDC++ will automatically open the ports it needs\n"
+"and obtain your external IP address as well."
+msgstr ""
+"Абярыце гэты спосаб, калі вы месьціцеся за сетказаслонаю\n"
+"або маршрутавальнікам, які падтрымвае стандарт UPnP\n"
+"самарушна настаўляць праґраму.\n"
+"Большасьць маршрутавальнікаў падтрымваюць UPnP, але вам\n"
+"можа спатрэбіцца задзейнічаць гэта на бачыне настаўленьняў\n"
+"маршрутавальніку.\n"
+"Такім чынам EiskaltDC++ будзе самарушна адчыняць порты,\n"
+"у якіх маецца патрэба, і таксама атрымваць ваш вонкавы адрас IP."
+
+#. (obsolete)
+#: UISettingsConnection#21
+msgid "Bind Address:"
+msgstr "Прывязаць адрэсу:"
+
+#: UISettingsConnection#22
+msgid ""
+"Select this mode if you can make unrestricted outbound connections.\n"
+"This includes connecting to any IP address on any port.\n"
+"Choose this option if unsure."
+msgstr ""
+"Абярыце гэты спосаб, калі вы можаце неабмежавана ствараць выходныя\n"
+"злучэньні: злучацца з хоць-якім адрасам IP на хоць-якім порце.\n"
+"Аддайце перавагу гэтаму спосабу, калі вы ня маеце ўпэўненасьці, што абраць."
+
+#: UISettingsConnection#23
+msgid ""
+"Select this mode if you want to make outbound connections through\n"
+"a SOCKS proxy. The caveats for Passive mode also apply here.\n"
+"SOCKS5 proxies are not the same as HTTP proxies.\n"
+"DC++'s SOCKS5 support does not include GSSAPI."
+msgstr ""
+"Абярыце гэты спосаб, калі хочаце ствараць выходныя злучэньні\n"
+"праз пасродак SOCKS. Абмежаваньні нядзейнага спосабу будуць\n"
+"дзейнічаць і тут таксама.\n"
+"Пасродкі SOCKS5 — гэта ня тое самае, што пасродкі HTTP.\n"
+"Падтрымка SOCKS5 пратаколам DC++ не ўлучае падтрымкі GSSAPI."
+
+#: UISettingsConnection#24
+msgid "SOCKS5"
+msgstr ""
+
+#: UISettingsConnection#25
+msgctxt "UISettingsConnection#25"
+msgid "IP"
+msgstr "Адрас IP"
+
+#: UISettingsConnection#26
+msgctxt "UISettingsConnection#26"
+msgid "User"
+msgstr "Карыстальнік"
+
+#: UISettingsConnection#27
+msgctxt "UISettingsConnection#27"
+msgid "Password"
+msgstr "Гасло"
+
+#: UISettingsConnection#28
+msgid "Port"
+msgstr "Порт"
+
+#: UISettingsConnection#29
+msgid "00000; "
+msgstr ""
+
+#: UISettingsConnection#30
+msgid "Use to resolve hostnames"
+msgstr "Высьвятляць назвы вузлоў праз гэты пасродак"
+
+#: UISettingsConnection#31
+msgid "When enabled can hang program on exit."
+msgstr "Калі задзейнічаць, праґрама можа «завіснуць» па выхадзе."
+
+#: UISettingsConnection#32
+msgid "Automatically update external IP (restart required)"
+msgstr "Самарушна абнаўляць вонкавы IP (трэба запусьціць нанова)"
+
+#: UISettingsConnection#33
+msgid "DynDNS Address:"
+msgstr "Адрас DynDNS:"
+
+#: UISettingsConnection#34
+msgid "Bind to address"
+msgstr "Прывязаць да адрасу"
+
+#: UISettingsConnection#35
+msgid "Bind to interface"
+msgstr "Прывязаць да інтэрфэйсу"
+
+#: UISettingsConnection#36
+msgctxt "UISettingsConnection#36"
+msgid "Limits"
+msgstr "Абмежаваньні"
+
+#: UISettingsConnection#37
+msgid "Enable Throttle"
+msgstr "Абмяжоўваць хуткасьці"
+
+#: UISettingsConnection#38
+msgid "Alternate speed limit at time from "
+msgstr "Іншае абмежваньне ў час ад"
+
+#: UISettingsConnection#39
+msgid "Slots"
+msgstr "Шчыліны"
+
+#: UISettingsConnection#40
+msgctxt "UISettingsConnection#40"
+msgid "Advanced"
+msgstr "Адмысловыя"
+
+#: UISettingsConnection#41
+msgid "Reconnect to hub (seconds)"
+msgstr "Нанова злучацца з асяродкам праз (сэк.)"
+
+#: UISettingsConnection#42
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Set the Type-Of-Service "
+"(TOS) field that is sent with every <a "
+"href=\"http://en.wikipedia.org/wiki/IP_packet\"><span style=\" text-decoration: "
+"underline; color:#0057ae;\">IP packet</span></a> originating from this "
+"socket. It is used to prioritize packets on the network. TOS is a byte. "
+"There are some standard TOS flags defined: </p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\"> - &quot;Low delay&quot;</span> to minimize delays for "
+"interactive traffic</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\"> - &quot;Throughput&quot;</span> to optimize throughput</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\"> - &quot;Reliability&quot;</span> to optimize for "
+"reliability</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\"> - &quot;Minimal cost&quot;</span> should be used for "
+"&quot;filler data&quot; where slow transmission doesn't matter</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">At most one of these TOS "
+"values can be specified. Linux sends <span style=\" font-"
+"weight:600;\">&quot;Low delay&quot;</span> datagrams first by default, but "
+"the exact behaviour depends on the configured queueing discipline.<span "
+"style=\" font-weight:600;\"> Warning! This option needs superuser "
+"privileges!</span></p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Вызначае «від службы» (анг. "
+"«Type-Of-Service», «ToS») — значэньне, якое адсылаецца з кожным <a "
+"href=\"http://be-x-old.wikipedia.org/wiki/IP\"><span style=\" text-decoration: "
+"underline; color:#0057ae;\">пакетам IP</span></a> ад пэўнага гнязда. "
+"Ужываецца каб упарадкаваць па пяршынстве пакеты ў сеціве. «Від службы» "
+"запісваецца байтам. Вось некалькі звычайных відаў службы:</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\"> — «малая затрымка»</span> памяншае затрымкі для хутчэйшага "
+"ўзаемадзеяньня;</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\"> — «прадукцыйнасьць»</span> паляпшае прадукцыйнасьць;</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\"> — «надзейнасьць»</span> паляпшае надзейнасьць;</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\"> — «нізкі кошт»</span> мусіць ужывацца там, дзе хуткасьць "
+"перадаваньня (якая будзе нізкаю) ня мае значэньня.</p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">Трэба абраць прынамсі адзін "
+"з гэтых пунктаў. Звычайна Linux адсылае спачатку значэньне <span style=\" "
+"font-weight:600;\">«малая затрымка»</span>, але дакладныя паводзіны залежаць "
+"ад настаўленага парадку чаргі.<span style=\" font-weight:600;\"> Увага! Гэтая "
+"можнасьць патрабуе прывілеяў спраўніка!</span></p></body></html>"
+
+#: UISettingsConnection#43
+msgctxt "UISettingsConnection#43"
+msgid "No"
+msgstr "Няма"
+
+#: UISettingsConnection#44
+msgid "Low delay"
+msgstr "Малая затрымка"
+
+#: UISettingsConnection#45
+msgid "Throughput"
+msgstr "Прадукцыйнасьць"
+
+#: UISettingsConnection#46
+msgctxt "UISettingsConnection#46"
+msgid "Reliability"
+msgstr "Надзейнасьць"
+
+#: UISettingsConnection#47
+msgid "Minimal cost"
+msgstr "Нізкі кошт"
+
+#: UISettingsConnection#48
+msgid "Enable DHT"
+msgstr "Задзейнічаць DHT"
+
+#: UISettingsConnection#49
+msgid "DHT port"
+msgstr "Порт DHT"
+
+#: UISettingsConnection#50
+msgid "Type-of-Service (ToS)"
+msgstr "Від службы (ToS)"
+
+#. (obsolete)
+#: UISettingsConnection#51
+msgid "Reconnect to hub(seconds)"
+msgstr "Нанова злучацца з асяродкам праз (у сэкундах)"
+
+#: UISettingsConnection#52
+msgctxt "UISettingsConnection#52"
+msgid "Download"
+msgstr "Сьцягваць"
+
+#: UISettingsConnection#53
+msgid "KiB/s"
+msgstr "КіБ/с"
+
+#: UISettingsConnection#54
+msgctxt "UISettingsConnection#54"
+msgid "Upload"
+msgstr "Зацягваць"
+
+#: UISettingsConnection#55
+msgid "to"
+msgstr "да"
+
+#: UISettingsConnection#56
+msgid "hour(s)"
+msgstr "гадзіны"
+
+#: UISettingsDownloads#1
+msgctxt "UISettingsDownloads#1"
+msgid "Form"
+msgstr ""
+
+#: UISettingsDownloads#2
+msgctxt "UISettingsDownloads#2"
+msgid "Downloads"
+msgstr "Сьцягваць"
+
+#: UISettingsDownloads#3
+msgid "Directories"
+msgstr "Каталёґі"
+
+#: UISettingsDownloads#4
+msgid "Download directory"
+msgstr "Каталёґ, у які сьцягваць"
+
+#: UISettingsDownloads#5
+msgid "Use unfinished downloads directory"
+msgstr "Выкарыстоўваць асобны каталёґ на яшчэ ня цалкам сьцягнутае"
+
+#: UISettingsDownloads#6
+msgctxt "UISettingsDownloads#6"
+msgid "Limits"
+msgstr "Абмежаваньні"
+
+#: UISettingsDownloads#7
+msgid "Maximum simultaneous downloads (0 = infinite)"
+msgstr "Найбольшая колькасьць адначасовых сьцягваньняў (0 = не абмяжоўваць)"
+
+#: UISettingsDownloads#8
+msgid "No new downloads if speed exceeds (KiB/s, 0 = infinite)"
+msgstr ""
+"Не пачынаць сьцягваць новае, калі хуткасьць перавышае (КіБ/с, 0 = "
+"бясконцасьць)"
+
+#: UISettingsDownloads#9
+msgid "Note: Because of changing download speeds, this is not 100% accurate"
+msgstr "<b>Уважце:</b> хуткасьць зьмяняецца, таму дакладнасьць меней за 100%"
+
+#: UISettingsDownloads#10
+msgid "Public Hub lists"
+msgstr "Сьпісы адкрытых асяродкаў"
+
+#: UISettingsDownloads#11
+msgid "Http proxy (hub list only)"
+msgstr "Пасродак http (толькі на сьпіс асяродкаў)"
+
+#: UISettingsDownloads#12
+msgid "Configure Public Hub Lists"
+msgstr "Наставіць сьпісы"
+
+#: UISettingsDownloads#13
+msgid "Download to"
+msgstr "Сьцягваць у"
+
+#: UISettingsDownloads#14
+msgctxt "UISettingsDownloads#14"
+msgid "Path"
+msgstr "Шлях"
+
+#: UISettingsDownloads#15
+msgctxt "UISettingsDownloads#15"
+msgid "Alias"
+msgstr "Назоўка"
+
+#: UISettingsDownloads#16
+msgid "Queue"
+msgstr "Чарга"
+
+#: UISettingsDownloads#17
+msgid "Auto-priority settings"
+msgstr "Налады самарушнага пяршынства"
+
+#: UISettingsDownloads#18
+msgid "Highest priority max size (KiB)"
+msgstr "Найвышэйшае: памер у КіБ <"
+
+#: UISettingsDownloads#19
+msgid "High priority max size (KiB)"
+msgstr "Высокае: памер у КіБ <"
+
+#: UISettingsDownloads#20
+msgid "Normal priority max size (KiB)"
+msgstr "Звычайнае: памер у КіБ <"
+
+#: UISettingsDownloads#21
+msgid "Low priority max size (KiB)"
+msgstr "Нізкае: памер у КіБ <"
+
+#: UISettingsDownloads#22
+msgid "Auto-drop settings"
+msgstr "Налады самарушна адкідаць крыніцы"
+
+#: UISettingsDownloads#23
+msgid "Check every x second(s) if the source is slow. (default: 10 s)"
+msgstr ""
+"Спраўджваць, ці крыніца павольная, кожныя <i>x</i> сэкундаў.\n"
+"(Прадвызначана: 10 с.)"
+
+#: UISettingsDownloads#24
+msgid "Segment size (in MB, 0 = auto segment size)"
+msgstr "Памер часткі (у МБ, 0 = вызначаецца самарушна)"
+
+#: UISettingsDownloads#25
+msgid ""
+"This is another method of limiting simultaneous downloads,\n"
+"designed to prevent new downloads if your existing downloads\n"
+"exceed a specific threshold. It's measured in kibibytes per second,\n"
+"and a value of zero will disable this limit."
+msgstr ""
+"Гэта іншы спосаб абмяжоўваць колькасьць файлаў, якія адначасова\n"
+"сьцягваюцца: калі бягучая хуткасьць сьцягваць перавышае вызначаны парог\n"
+"(вымяраецца ў кібібайтах за сэкунду), новае сьцягвацца ня будзе.\n"
+"Калі значэньне парога пакінуць роўным нулю, абмежаваньне дзейнічаць ня "
+"будзе."
+
+#: UISettingsDownloads#26
+msgid ""
+"This limits the number of simultaneous downloads.\n"
+"A value of 0 means no limit."
+msgstr ""
+"Гэта абмяжоўвае колькасьць файлаў, якія адначасова сьцягваюцца.\n"
+"Калі пакінуць гэтае значэньне роўным нулю, абмежаваньне дзейнічаць ня будзе."
+
+#: UISettingsDownloads#27
+msgid ""
+"This HTTP proxy will only be used to request\n"
+"the Public Hub List specified above.\n"
+"It's not used for uploads, downloads, or connecting to a hub."
+msgstr ""
+"Гэты пасродак HTTP будзе ўжывацца толькі каб запытвацца\n"
+"на сьпісы адкрытых асяродкаў, якія вызначаюцца праваруч.\n"
+"Гэты пасродак ня будзе выкарыстоўвацца, каб сьцягваць і\n"
+"зацягваць файлы або злучацца з асяродкам."
+
+#: UISettingsDownloads#28
+msgid ""
+"Files with the same or under the entered size\n"
+"will be set to Highest as priority. (default: 64 KiB)"
+msgstr ""
+"Файлы, памер якіх роўны ці меншы за гэтае значэньне,\n"
+"будуць мець найвышэйшае пяршынства.\n"
+"(Прадвызначана: 64 КіБ.)"
+
+#: UISettingsDownloads#29
+msgid ""
+"Files with the same or under the entered size, but above Highest\n"
+"prio max size, will be set to High as priority. (default: 0 KiB)"
+msgstr ""
+"Файлы, памер якіх роўны ці меншы за гэтае значэньне,\n"
+"але большы за памер для найвышэйшага пяршынства,\n"
+"будуць мець высокае пяршынства.\n"
+"(Прадвызначана: 0 КіБ.)"
+
+#: UISettingsDownloads#30
+msgid ""
+"Files with the same or under the entered size, but above Highest and\n"
+"High prio max size, will be set to Normal as priority. (default: 0 KiB)"
+msgstr ""
+"Файлы, памер якіх роўны ці меншы за гэтае значэньне,\n"
+"але большы за памер для найвышэйшага і высокага пяршынства,\n"
+"будуць мець звычайнае пяршынства.\n"
+"(Прадвызначана: 0 КіБ.)"
+
+#: UISettingsDownloads#31
+msgid ""
+"Files with the same or under the entered size, but above Highest, High\n"
+"and Normal prio max size, will be set to Low as priority. (default: 0 KiB)"
+msgstr ""
+"Файлы, памер якіх роўны ці меншы за гэтае значэньне,\n"
+"але большы за памер для найвышэйшага, высокага ды звычайнага\n"
+"пяршынства, будуць мець нізкае пяршынства.\n"
+"(Прадвызначана: 0 КіБ.)"
+
+#: UISettingsDownloads#32
+msgid ""
+"If the download speed of a file is below the entered value,\n"
+"the source will be dropped. (default: 1024 B/s)"
+msgstr ""
+"Калі хуткасьць сьцягваць файл зь нейкае крыніцы будзе\n"
+"меншаю за гэтае значэньне, такую крыніцу адкінем.\n"
+"(Прадвызначана: 1024 Б/с.)"
+
+#: UISettingsDownloads#33
+msgid ""
+"Amount of time (in seconds) that has to pass since the download\n"
+"started before a source can be dropped. (default: 15 s)"
+msgstr ""
+"Адтэрміноўка: час (у сэкундах), які мусіць мінуць (пасьля таго,\n"
+"як пачалі сьцягваць) перад тым, як адкінем крыніцу.\n"
+"(Прадвызначана: 15 с.)"
+
+#: UISettingsDownloads#34
+msgid ""
+"Minimum amount of sources before any sources\n"
+"will be dropped. (default: 1)"
+msgstr ""
+"Найменшая колькасьць крыніцаў, у якой ужо можна было\n"
+"адкінуць хоць адну крыніцу.\n"
+"(Прадвызначана: 1.)"
+
+#: UISettingsDownloads#35
+msgid ""
+"Minimum filesize before sources will be dropped (in KiB). (default: 0 KiB)"
+msgstr ""
+"Найменшы памер файла, каб можна было\n"
+"адкінуць хоць адну крыніцу.\n"
+"(Прадвызначана: 0.)"
+
+#: UISettingsDownloads#36
+msgid "Drop sources below (B/s)"
+msgstr "Адкідаць павольнейшыя за (Б/c)"
+
+#: UISettingsDownloads#37
+msgid "Check every (s)"
+msgstr "Спраўджваць кожныя (с)"
+
+#: UISettingsDownloads#38
+msgid "Min. elapsed (s)"
+msgstr "Часу мінула ня меней за (с)"
+
+#: UISettingsDownloads#39
+msgid "Max inactivity (s)"
+msgstr "Бязьдзейнічае болей за (с)"
+
+#: UISettingsDownloads#40
+msgid "Min sources online"
+msgstr "Далучаных крыніцаў болей за"
+
+#: UISettingsDownloads#41
+msgid "Min filesize (KiB)"
+msgstr "Найменшы памер файла (КіБ)"
+
+#: UISettingsDownloads#42
+msgid "Other options"
+msgstr "Іншыя можнасьці"
+
+#: UISettingsDownloads#43
+msgid "Set lowest priority for newly added files larger than low priority size"
+msgstr ""
+"Калі дадаецца файл, большы за памер для нізкага пяршынства, надаваць яму "
+"найніжэйшае пяршынства"
+
+#: UISettingsDownloads#44
+msgid ""
+"With this enabled, files that are larger than Low prio max size\n"
+"are set to Lowest as priority.\n"
+"If disabled, the files will be set to Normal as priority."
+msgstr ""
+"Калі гэта задзейнічаць, файлы, што маюць памер, большы за памер\n"
+"для нізкага пяршынства, будуць мець найніжэйшае пяршынства.\n"
+"Калі гэта не задзейнічаць, яны будуць мець звычайнае пяршынства."
+
+#: UISettingsDownloads#45
+msgid ""
+"This option removes the slow sources for all queue items (except file "
+"lists).\n"
+"To enable autodrop, turn on either \"Autodrop slow sources for all queue "
+"items\"\n"
+"or \"Remove slow file lists\" (or both of them)."
+msgstr ""
+"Гэтая можнасьць выкрасьляе ўсе павольныя крыніцы з усіх пунктаў чаргі\n"
+"(акрамя сьпісаў файлаў).\n"
+"Каб крыніцы самарушна адкідаліся, задзейнічайце або «Самарушна адкідаць\n"
+"павольныя крыніцы ва ўсіх пунктах чаргі», або «Выкрасьляць павольныя сьпісы "
+"файлаў»\n"
+"(ці абедзьве гэтыя можнасьці)."
+
+#: UISettingsDownloads#46
+msgid ""
+"With this option enabled, sources will only be disconnected\n"
+"but not removed from the queue."
+msgstr ""
+"Калі задзейнічаць гэтую можнасьць, будзем толькі адлучацца\n"
+"ад крыніцаў, а не выкрасьляць іх з чаргі."
+
+#: UISettingsDownloads#47
+msgid ""
+"Every few minutes, the client will search for files in your\n"
+"Download Queue to find more download locations (more users/sources).\n"
+"The autosearch will find exact matches by searching via hash.\n"
+"The drawback is that it may won't find much more sources\n"
+"and will prevent manual searches on hubs where\n"
+"a predefined search interval rule is in effect."
+msgstr ""
+"Кожныя некалькі хвілінаў кліент шукацьме файлы, што стаяць у вашае\n"
+"чарзе сьцягваць, каб выявіць новыя мейсцы, адкуль можна сьцягнуць\n"
+"(болей карыстальнікаў, болей крыніцаў).\n"
+"Файлы самарушна шукаюцца па дакладным супадзеньні скароту (TTH).\n"
+"Амоўны бок — тое, што можа не знайсьціся нашмат болей крыніцаў,\n"
+"а толькі створацца перашкоды карыстальніку самастойна шукаць\n"
+"файлы на асяродках, на якіх абмяжоўваецца прамежак між пошукамі."
+
+#: UISettingsDownloads#48
+msgid ""
+"Enable to automatically download a user's list and match them\n"
+"as sources for files in your Download Queue when they've been\n"
+"discovered as a source for one of the files you're downloading.\n"
+"If you download files in sets, that user is probably a source\n"
+"for many more files you're downloading. Enable if unsure.\n"
+"The drawbacks are that it might add slower sources, possibly\n"
+"increasing the time needed to complete a download,\n"
+"and that you'll download a lot of file lists."
+msgstr ""
+"Дазволіць самарушна сьцягваць сьпіс файлаў карыстальніка\n"
+"ды параўноўваць яго з вашаю чаргою сьцягваць файлы,\n"
+"каб вызначыць, ці можа гэты карыстальнік быць крыніцаю\n"
+"іншых файлаў з вашае чаргі.\n"
+"Калі вы сьцягваеце нейкі набор файлаў, карыстальнік можа быць\n"
+"крыніцаю шмат якіх іншых файлаў, якія вы сьцягваеце.\n"
+"Задзейнічайце гэта, калі ня маеце ўпэўненасьці.\n"
+"Адмоўны бок: могуць дадавацца павольныя крыніцы, якія павялічаць\n"
+"агульны час, за які сьцягнуцца файлы. Да таго ж, вы будзеце\n"
+"сьцягваць шмат сьпісаў файлаў."
+
+#: UISettingsDownloads#49
+msgid ""
+"When this option is enabled, any zero byte files you\n"
+"try to download will be silently skipped.\n"
+"Sometimes empty files contain information through their naming.\n"
+"However every file, even an empty one, will consume some drive space."
+msgstr ""
+"Калі задзейнічаць гэтую можнасьць, усе файлы, што маюць нулявы памер,\n"
+"будуць незаўважна прапускацца.\n"
+"Часам пустыя файлы зьмяшчаюць каштоўныя зьвесткі ў сваіх назвах.\n"
+"Тым ня менш, кожны файл, нават пусты, займае нейкую прастору на дыску."
+
+#: UISettingsDownloads#50
+msgid ""
+"This option will stop you from downloading files\n"
+"which already exist in one of your shared directories."
+msgstr ""
+"Гэтая можнасьць спыніць сьцягваць файлы, што ўжо\n"
+"маюцца ў адным з каталёґаў, якія вы абагулілі."
+
+#: UISettingsDownloads#51
+msgid ""
+"This option will stop you from downloading files\n"
+"which already exist in your queue."
+msgstr ""
+"Гэтая можнасьць спыніць сьцягваць файлы, які ўжо\n"
+"маюцца ў чарзе."
+
+#: UISettingsDownloads#52
+msgid ""
+"Enable this option if you want to keep downloaded filelists \n"
+"in the download queue after they have been finished.\n"
+"After downloaded the queue items will have 'Finished' status\n"
+"and you can delete these finished entries anytime later.\n"
+"Note that if you physically move/delete your downloaded files from\n"
+"their target location, it won't result automatic deletion of\n"
+"the corresponding finished entries from the queue.\n"
+"If you disable this function, it won't remove existing finished items\n"
+"from the queue either, you must do that manually."
+msgstr ""
+"Задзейнічайце гэтую можнасьць, калі вы хочаце пакідаць у чарзе\n"
+"ўжо сьцягнутыя сьпісы файлаў.\n"
+"Сьцягнутыя пункты чаргі перайдуць у стан «Скончылі», а вы зможаце\n"
+"выкрасьліць гэтыя пункты калі пажадаеце.\n"
+"Уважце, што калі вы фізычна перасунеце зь мейсца прызначэньня\n"
+"ці зьнішчыце сьцягнутыя файлы, адпаведныя пункты ў чарзе\n"
+"застануцца й ня будуць самарушна выкрасьляцца.\n"
+"Калі абязьдзейніць гэтую можнасьць, ужо існыя скончаныя пункты\n"
+"усё роўна ня выкрасьляцца з чаргі: вы мусіце зрабіць гэта самастойна."
+
+#: UISettingsDownloads#53
+msgid "Keep downloaded files"
+msgstr "Захоўваць сьцягнутыя файлы"
+
+#: UISettingsDownloads#54
+msgid ""
+"Enable this option if you want to keep downloaded files and folders\n"
+"in the download queue after they have been finished.\n"
+"After downloaded the queue items will have 'Finished' status\n"
+"and you can delete these finished entries anytime later.\n"
+"Using this function you can keep track of what files are already\n"
+"downloaded right there in the download queue without the need\n"
+"of checking the Finished Downloads window.\n"
+"Note that if you physically move/delete your downloaded files from\n"
+"their target location, it won't result automatic deletion of\n"
+"the corresponding finished entries from the queue.\n"
+"If you disable this function, it won't remove existing finished items\n"
+"from the queue either, you must do that manually."
+msgstr ""
+"Задзейнічайце гэтую можнасьць, калі вы хочаце пакідаць у чарзе\n"
+"ўжо сьцягнутыя файлы ды каталёґі.\n"
+"Сьцягнутыя пункты чаргі перайдуць у стан «Скончылі», а вы зможаце\n"
+"выкрасьліць гэтыя пункты калі пажадаеце.\n"
+"Дзякуючы гэтае можнасьці вы можаце адразу ў чарзе сачыць,\n"
+"якія файлы ўжо сьцягнуліся — і ня трэба будзе кожнага разу\n"
+"адчыняць дзеля гэтага ваконца «Сьцягнутае».\n"
+"Уважце, што калі вы фізычна перасунеце зь мейсца прызначэньня\n"
+"ці зьнішчыце сьцягнутыя файлы, адпаведныя сьпісы ў чарзе\n"
+"застануцца й ня будуць самарушна выкрасьляцца.\n"
+"Калі абязьдзейніць гэтую можнасьць, ужо існыя скончаныя пункты\n"
+"усё роўна ня выкрасьляцца з чаргі: вы мусіце зрабіць гэта самастойна."
+
+#: UISettingsDownloads#55
+msgid "Auto-drop slow sources for all queue items (except filelists)"
+msgstr ""
+"Самарушна адкідаць павольныя крыніцы ва ўсіх пунктах чаргі (апроч сьпісаў "
+"файлаў)"
+
+#: UISettingsDownloads#56
+msgid ""
+"This is the maximal time since the last chunk of data for\n"
+"the file was received. It is meant to improve speed measurement\n"
+"accuracy and to prevent dropping sources that are going to be\n"
+"disconnected only because of their current inactivity. (default: 10 s)"
+msgstr ""
+"Найбольшы час, які мінуў пасьля таго, як атрымалі апошні\n"
+"кавалак файла. Гэта трэба, каб павялічыць дакладнасьць,\n"
+"зь якою вымяраецца хуткасьць, і каб не адкідаць крыніцы\n"
+"толькі таму, яны бязьдзейнічаюць.\n"
+"(Прадвызначана: 10 с.)"
+
+#: UISettingsDownloads#57
+msgid "Remove slow filelists"
+msgstr "Выкрасьляць павольныя сьпісы файлаў"
+
+#: UISettingsDownloads#58
+msgid ""
+"With this option enabled, EiskaltDC++ will delete a file list whose speed\n"
+"was recognized as too slow.\n"
+"To enable autodrop, turn on either \"Autodrop slow sources for all queue "
+"items\"\n"
+"or \"Remove slow file lists\" (or both of them)."
+msgstr ""
+"Калі задзейнічаць гэтую можнасьць, EiskaltDC++ будзе выкрасьляць\n"
+"тыя сьпісы файлаў, што сьцягваюцца з хуткасьцю, якая прызнаецца\n"
+"запавольнаю.\n"
+"Каб крыніцы самарушна адкідаліся, задзейнічайце або «Самарушна адкідаць\n"
+"павольныя крыніцы ва ўсіх пунктах чаргі», або «Выкрасьляць павольныя\n"
+"сьпісы файлаў» (ці абедзьве гэтыя можнасьці)."
+
+#: UISettingsDownloads#59
+msgid "Don't remove the source when auto-dropping, only disconnect"
+msgstr "Не выкрасьляць крыніцу, калі самарушна адкідаем — толькі адлучацца"
+
+#: UISettingsDownloads#60
+msgid "Automatically search for alternative download locations"
+msgstr "Самарушна шукаць іншыя крыніцы"
+
+#: UISettingsDownloads#61
+msgid "Automatically match queue for auto search hits"
+msgstr "Самарушна ўзгадняць чаргу, калі што патрапіцца ў самарушным пошуку"
+
+#: UISettingsDownloads#62
+msgid "Keep downloaded filelists"
+msgstr "Захоўваць сьцягнутыя сьпісы файлаў"
+
+#: UISettingsDownloads#63
+msgid "Interval for auto search alternates (minutes)"
+msgstr "Прамежак між спробамі шукаць іншыя крыніцы (у хвілінах)"
+
+#: UISettingsDownloads#64
+msgid "Skip zero-byte files"
+msgstr "Прапускаць файлы нулявога памеру"
+
+#: UISettingsDownloads#65
+msgid "Don't download files already in share"
+msgstr "Ня сьцягваць файлы, што ўжо маюцца ў абагуленым"
+
+#: UISettingsDownloads#66
+msgid "Don't download files already in the queue"
+msgstr "Ня сьцягваць файлы, што ўжо стаяць у чарзе"
+
+#: UISettingsDownloads#67
+msgid "SFV Check"
+msgstr "Спраўджваць SFV"
+
+#: UISettingsDownloads#68
+msgid "Compressed transfers"
+msgstr "Сьціскаць перадаванае"
+
+#: UISettingsDownloads#69
+msgid "Segmented downloads"
+msgstr "Сьцягваць па частках"
+
+#: UISettingsDownloads#70
+msgctxt "UISettingsDownloads#70"
+msgid "Advanced"
+msgstr "Адмысловыя"
+
+#: UISettingsGUI#1
+msgctxt "UISettingsGUI#1"
+msgid "Form"
+msgstr ""
+
+#: UISettingsGUI#2
+msgctxt "UISettingsGUI#2"
+msgid "Basic"
+msgstr "Галоўныя"
+
+#: UISettingsGUI#3
+msgid "Language file"
+msgstr "Файл мовы"
+
+#: UISettingsGUI#4
+msgid "Theme"
+msgstr "Аздабленьне"
+
+#: UISettingsGUI#5
+msgid "Apply"
+msgstr "Ужыць"
+
+#: UISettingsGUI#6
+msgid "Application font"
+msgstr "Шрыфт праґрамы"
+
+#: UISettingsGUI#7
+msgctxt "UISettingsGUI#7"
+msgid "Change"
+msgstr "Зьмяніць"
+
+#: UISettingsGUI#8
+msgid "Remember window position on exit"
+msgstr "Памятаць, як было па выхадзе"
+
+#: UISettingsGUI#9
+msgid "Always hide window to system tray at startup"
+msgstr "Заўжды хаваць у сыстэмны латок па запуску"
+
+#: UISettingsGUI#10
+msgid "Always show window at startup"
+msgstr "Заўжды паказваць вакно па запуску"
+
+#: UISettingsGUI#11
+msgid "(need restart)"
+msgstr "(трэба запусьціць нанова)"
+
+#: UISettingsGUI#12
+msgid "User theme"
+msgstr "Набор значак карыстальнікаў"
+
+#: UISettingsGUI#13
+msgid "Icon theme"
+msgstr "Набор агульных значкаў"
+
+#: UISettingsGUI#14
+msgid "Emoticon theme"
+msgstr "Набор пачуцьцезнакаў"
+
+#: UISettingsGUI#15
+msgid "Use default ToolBar (need restart)"
+msgstr "Ужываць звычайную паліцу ваконцаў (трэба запусьціць нанова)"
+
+#: UISettingsGUI#16
+msgid "Use multi-line ToolBar (need restart)"
+msgstr "Ужываць шматрадковую паліцу ваконцаў (трэба запусьціць нанова)"
+
+#: UISettingsGUI#17
+msgid "Use SideBar instead of ToolBar (need restart)"
+msgstr "Ужываць бакавую паліцу замест паліцы ваконцаў (трэба запусьціць нанова)"
+
+#: UISettingsGUI#18
+msgctxt "UISettingsGUI#18"
+msgid "Chat"
+msgstr "Гамана"
+
+#: UISettingsGUI#19
+msgid ""
+"If checked, you'll see emoticons even in the middle of words.\n"
+"If unchecked, you'll see emoticons only if they are isolated\n"
+"from other words by spaces."
+msgstr ""
+"Калі адзначыць гэты пункт, вы будзеце бачыць пачуцьцезнакі\n"
+"нат усярэдзіне словаў.\n"
+"Калі не адзначаць гэты пункт, вы пабачыце пачуцьцезнакі толькі\n"
+"тады, калі яны будуць адасабляцца ад іншых словаў прагаламі."
+
+#: UISettingsGUI#20
+msgid "Show joins only for favorite users"
+msgstr "Паказваць, толькі калі далучыўся ці адлучыўся ўлюбёнец"
+
+#: UISettingsGUI#21
+msgid ""
+"Depending on hub configuration: information about\n"
+"them is usually available only to operators"
+msgstr ""
+"Залежыць ад настаўленьняў асяродку: звычайна\n"
+"зьвесткі пра адрасы IP могуць бачыць толькі апэратары."
+
+#: UISettingsGUI#22
+msgid "Show ip-addresses of users in chat"
+msgstr "Паказваць адрасы IP ў гамане"
+
+#: UISettingsGUI#23
+msgid "Highlight favorite users in user list"
+msgstr "Вылучаць улюбёнцаў у сьпісе карыстальнікаў"
+
+#: UISettingsGUI#24
+msgid "Filter kick-messages from the chat"
+msgstr "Не паказваць высьпяткі ў гамане"
+
+#: UISettingsGUI#25
+msgid "Use Ctrl+Enter to send messages"
+msgstr "Адсылаць паведамленьні спалучэньнем «Ctrl+Enter»"
+
+#: UISettingsGUI#26
+msgid "Chat (extended)"
+msgstr "Гамана (дадатковыя)"
+
+#: UISettingsGUI#27
+msgid "Double click action"
+msgstr "Падвойны пстрык"
+
+#: UISettingsGUI#28
+msgid "Insert nick into input widget"
+msgstr "Устаўляе мянушку ў поле ўводу"
+
+#: UISettingsGUI#29
+msgid "Get file list"
+msgstr "Сьцягвае сьпіс файлаў"
+
+#: UISettingsGUI#30
+msgctxt "UISettingsGUI#30"
+msgid "Private message"
+msgstr "Дасылае асабістае паведамленьне"
+
+#: UISettingsGUI#31
+msgid "Middle click action"
+msgstr "Пстрык сярэдняю кнопкаю"
+
+#: UISettingsGUI#32
+msgid "Show country of users in chat"
+msgstr "Паказваць у гамане краіну карыстальнікаў"
+
+#: UISettingsGUI#33
+msgid "show kibibyte (KiB) or kilobyte (KB), etc."
+msgstr "Паказваць кібібайты (КіБ) ці кілябайты (КБ) ды інш."
+
+#: UISettingsGUI#34
+msgid "Try to use system icons (need restart)"
+msgstr "Спрабаваць ужываць сыстэмныя значкі (трэба запусьціць нанова)"
+
+#: UISettingsGUI#35
+msgid "Do not change focus on new incoming private messages"
+msgstr "Не пераходзіць да новых асабістых паведамленьняў"
+
+#: UISettingsGUI#36
+msgid "Use emoticons panel"
+msgstr "Выкарыстоўваць паліцу пачуцьцезнакаў"
+
+#: UISettingsGUI#37
+msgid "Autohide emoticons panel"
+msgstr "Самарушна хаваць паліцу пачуцьцезнакаў"
+
+#: UISettingsGUI#38
+msgid "Redirect new personal messages to the main chat"
+msgstr "Накіроўваць новыя асабістыя паведамленьні ў галоўную гаману"
+
+#: UISettingsGUI#39
+msgid "Don't show icons in menus (need restart)"
+msgstr "Не паказваць значкі ў мэню (трэба запусьціць нанова)"
+
+#: UISettingsGUI#40
+msgid "Use separator for unread messages in the chat"
+msgstr "Аддзяляць непрачытаныя паведамленьні ў гамане"
+
+#: UISettingsGUI#41
+msgid "Application unit base"
+msgstr "Аснова сыстэмы адзінак у праґраме"
+
+#: UISettingsGUI#42
+msgid "1024"
+msgstr "1024"
+
+#: UISettingsGUI#43
+msgid "1000"
+msgstr "1000"
+
+#: UISettingsGUI#44
+msgid "Timestamp"
+msgstr "Часадзнака"
+
+#: UISettingsGUI#45
+msgid "hh:mm:ss"
+msgstr "hh:mm:ss"
+
+#: UISettingsGUI#46
+msgid "Default action with magnet"
+msgstr "Што рабіць з маґніт-спасылкаю"
+
+#: UISettingsGUI#47
+msgid "Ask"
+msgstr "Запытацца, што рабіць"
+
+#: UISettingsGUI#48
+msgctxt "UISettingsGUI#48"
+msgid "Search"
+msgstr "Знайсьці спасылку"
+
+#: UISettingsGUI#49
+msgctxt "UISettingsGUI#49"
+msgid "Download"
+msgstr "Сьцягнуць"
+
+#: UISettingsGUI#50
+msgid "Remember outgoing messages (0 = don't remember)"
+msgstr "Памятаць выходныя паведамленьні (0 = ня памятаць)"
+
+#: UISettingsGUI#51
+msgid "Separator in chat"
+msgstr "Аддзяляльнік у гамане"
+
+#: UISettingsGUI#52
+msgid ":"
+msgstr ":"
+
+#: UISettingsGUI#53
+msgid ","
+msgstr ","
+
+#: UISettingsGUI#54
+msgid "Parse BBCode"
+msgstr "Разьбіраць BBCode"
+
+#: UISettingsGUI#55
+msgid "Colors"
+msgstr "Колеры"
+
+#: UISettingsGUI#56
+msgid "Text colors in chat"
+msgstr "Колеры тэксту ў гамане"
+
+#: UISettingsGUI#57
+msgid "Highlighting of search results in the chat"
+msgstr "Падсьвятляць вынікі пошуку ў гамане"
+
+#: UISettingsGUI#58
+msgid "Color"
+msgstr "Колер"
+
+#: UISettingsGUI#59
+msgid "Transparency"
+msgstr "Празрыстацьць"
+
+#: UISettingsGUI#60
+msgid "Highlighting of already shared files"
+msgstr "Падсьвятляць файлы, што ўжо маем абагуленымі"
+
+#: UISettingsGUI#61
+msgid "Transfer colors"
+msgstr "Колеры перадаванага"
+
+#: UISettingsGUI#62
+msgctxt "UISettingsGUI#62"
+msgid "Upload"
+msgstr "Зацягванае"
+
+#: UISettingsGUI#63
+msgid "Reset"
+msgstr "Узнавіць"
+
+#: UISettingsGUI#64
+msgid "Change background color in the chat"
+msgstr "Зьмяніць колер тла гаманы"
+
+#: UISettingsGUI#65
+msgid "Fonts"
+msgstr "Шрыфты"
+
+#: UISettingsGUI#66
+msgid "Show joins"
+msgstr "Паказваць, калі хто далучаецца"
+
+#: UISettingsGUI#67
+msgid "Show icon in system tray"
+msgstr "Паказваць значак у сыстэмным латку"
+
+#: UISettingsGUI#68
+msgid "Show hidden users"
+msgstr "Паказваць схаваных карыстальнікаў"
+
+#: UISettingsGUI#69
+msgid "Ignore private messages from Hub"
+msgstr "Не зважаць на асабістыя паведамленьні ад асяродку"
+
+#: UISettingsGUI#70
+msgid "Ignore private messages from Bot"
+msgstr "Не зважаць на асабістыя паведамленьні ад бота"
+
+#: UISettingsGUI#71
+msgid "Redirect messages from Bot to the main chat"
+msgstr "Накіроўваць паведамленьні ад бота ў галоўную гаману"
+
+#: UISettingsGUI#72
+msgid "Maximum paragraphs"
+msgstr "Найбольшая колькасьць абзацаў"
+
+#: UISettingsGUI#73
+msgid "Enable emoticons"
+msgstr "Задзейнічаць пачуцьцезнакі"
+
+#: UISettingsGUI#74
+msgid "Force emoticon parsing"
+msgstr "Прымусіць разьбіраць пачуцьцезнакі"
+
+#: UISettingsLog#1
+msgctxt "UISettingsLog#1"
+msgid "Form"
+msgstr ""
+
+#: UISettingsLog#2
+msgid "All logs generated by EiskaltDC++ will be put in this subdirectory."
+msgstr ""
+"Усе справаздачы, якія створыць EiskaltDC++, будуць ляжаць у гэтым каталёґу."
+
+#: UISettingsLog#3
+msgid "Private messages"
+msgstr "Асабістыя паведамленьні"
+
+#: UISettingsLog#4
+msgid "Main chat"
+msgstr "Галоўная гамана"
+
+#: UISettingsLog#5
+msgctxt "UISettingsLog#5"
+msgid "Downloads"
+msgstr "Сьцягванае"
+
+#: UISettingsLog#6
+msgid "Uploads"
+msgstr "Зацягванае"
+
+#: UISettingsLog#7
+msgid "Auto search alternates"
+msgstr "Самарушны пошук крыніцаў"
+
+#: UISettingsLog#8
+msgctxt "UISettingsLog#8"
+msgid "Finished Downloads"
+msgstr "Сьцягнутае"
+
+#: UISettingsLog#9
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><a "
+"href=\"http://dcplusplus.sourceforge.net/webhelp/settings_logs.html\"><span "
+"style=\" text-decoration: underline; "
+"color:#296fbe;\">Help</span></a></p></body></html>"
+msgstr ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-"
+"html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
+"weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><a "
+"href=\"http://dcplusplus.sourceforge.net/webhelp/settings_logs.html\"><span "
+"style=\" text-decoration: underline; "
+"color:#296fbe;\">Даведка</span></a></p></body></html>"
+
+#: UISettingsLog#10
+msgid "Log directory"
+msgstr "Каталёґ справаздачаў"
+
+#: UISettingsLog#11
+msgctxt "UISettingsLog#11"
+msgid "File"
+msgstr "Файл"
+
+#: UISettingsLog#12
+msgctxt "UISettingsLog#12"
+msgid "Text"
+msgstr "Тэкст"
+
+#: UISettingsLog#13
+msgid "Own filelist uploads"
+msgstr "Зацягваньні ўласнага сьпісу файлаў"
+
+#: UISettingsLog#14
+msgid "System messages"
+msgstr "Паведамленьні сыстэмы"
+
+#: UISettingsLog#15
+msgid "Status messages"
+msgstr "Паведамленьні стану"
+
+#: UISettingsNotification#1
+msgctxt "UISettingsNotification#1"
+msgid "Form"
+msgstr ""
+
+#: UISettingsNotification#2
+msgctxt "UISettingsNotification#2"
+msgid "Text"
+msgstr "Тэкст"
+
+#: UISettingsNotification#3
+msgid "Ask confirm before exit"
+msgstr "Запытацца на пацьверджаньне, калі выходзім"
+
+#: UISettingsNotification#4
+msgid "Enable notifications"
+msgstr "Дазволіць апавяшчэньні"
+
+#: UISettingsNotification#5
+msgid "Your nick is mentioned in main chat"
+msgstr "Вашую мянушку згадалі ў агульнае гамане"
+
+#: UISettingsNotification#6
+msgctxt "UISettingsNotification#6"
+msgid "Private message"
+msgstr "Асабістае паведамленьне"
+
+#: UISettingsNotification#7
+msgid "Transfer done"
+msgstr "Скончылі перадаваць"
+
+#: UISettingsNotification#8
+msgid "Favorite user join/part"
+msgstr "Улюбёнец далучыўся або адлучыўся"
+
+#: UISettingsNotification#9
+msgid "Allow other types of notifications"
+msgstr "Дазволіць іншыя віды апавяшчэньняў"
+
+#: UISettingsNotification#10
+msgid "Enable notifications with not active main window"
+msgstr "Дазволяць апавяшчаць, калі галоўнае вакно — нядзейнае"
+
+#: UISettingsNotification#11
+msgid "Enable notifications with active main window"
+msgstr "Дазволяць апавяшчаць, калі галоўнае вакно — дзейнае"
+
+#: UISettingsNotification#12
+msgid "Notification module"
+msgstr "Убудова апавяшчэньняў"
+
+#: UISettingsNotification#13
+msgid "Default (Qt)"
+msgstr "Звычайная (Qt)"
+
+#: UISettingsNotification#14
+msgid "D-Bus"
+msgstr ""
+
+#: UISettingsNotification#15
+msgid "Play sound on active PM window"
+msgstr "Гучэць, калі вакно паведамленьняў — дзейнае"
+
+#: UISettingsNotification#16
+msgid "Favorite user event"
+msgstr "Улюбёнец далучыўся або адлучыўся"
+
+#: UISettingsNotification#17
+msgid ""
+"If your sound files' format is unsupported by Qt, you can define\n"
+"custom media player here to play them.\n"
+"For example: /usr/bin/mplayer"
+msgstr ""
+"Калі Qt не падтрымвае фармат вашых гукавых файлаў,\n"
+"вы можаце вызначыць прайгравальнік, які грацьме іх.\n"
+"Прыклад: /usr/bin/mplayer"
+
+#: UISettingsNotification#18
+msgid "Change icon when main window is visible"
+msgstr "Зьмяняць значак, калі бачна галоўнае вакно"
+
+#: UISettingsNotification#19
+msgid "Sound"
+msgstr "Гук"
+
+#: UISettingsNotification#20
+msgid "Enable sounds"
+msgstr "Дазволіць гучэць"
+
+#: UISettingsNotification#21
+msgid "Test"
+msgstr "Паспрабаваць"
+
+#: UISettingsNotification#22
+msgid "Use external command"
+msgstr "Выкарыстоўваць вонкавы загад"
+
+#: UISettingsPersonal#1
+msgctxt "UISettingsPersonal#1"
+msgid "Form"
+msgstr ""
+
+#: UISettingsPersonal#2
+msgid "This field is for sharing your email address, if you wish it."
+msgstr ""
+"Калі вы жадаеце падзяліцца зь іншымі карыстальнікамі\n"
+"адрасам сваёй паштовае скрыні, упішыце яе ў гэтае поле."
+
+#: UISettingsPersonal#3
+msgctxt "UISettingsPersonal#3"
+msgid "Nick"
+msgstr "Мянушка"
+
+#: UISettingsPersonal#4
+msgid ""
+"This description will show in the user list.\n"
+"It can be overridden on a per-hub basis in the Favorite Hub Properties."
+msgstr ""
+"Гэтае апісаньне будзе паказвацца ў сьпісе карыстальнікаў.\n"
+"Яно можа замяняцца на апісаньне, што можа вызначацца асобна\n"
+"для кожнага асяродку: ва ўласьцівасьцях асяродку ў ваконцы\n"
+"«Улюбёныя асяродкі»."
+
+#: UISettingsPersonal#5
+msgid ""
+"If you are in away mode, this message will be sent to everybody\n"
+"who sends private message to you."
+msgstr ""
+"Калі вы ў стане «адышоў», гэтае паведамленьне будзе дасылацца\n"
+"кожнаму, хто дашле вам асабістае паведамленьне."
+
+#: UISettingsPersonal#6
+msgid ""
+"This nickname, or handle, will identify you when you join a hub.\n"
+"It can be overridden on a per-hub basis in the Favorite Hub Properties."
+msgstr ""
+"Гэтая мянушка будзе атаясьняць вас, калі вы далучаецеся да асяродку.\n"
+"Яна можа замяніцца на мянушку, што можа вызначацца асобна\n"
+"для кожнага асяродку: ва ўласьцівасьцях асяродку ў ваконцы\n"
+"«Улюбёныя асяродкі»."
+
+#: UISettingsPersonal#7
+msgid "E-Mail"
+msgstr "Электронная пошта"
+
+#: UISettingsPersonal#8
+msgctxt "UISettingsPersonal#8"
+msgid "Description"
+msgstr "Апісаньне"
+
+#: UISettingsPersonal#9
+msgctxt "UISettingsPersonal#9"
+msgid "Away message"
+msgstr "Тлумачэньне адсутнасьці"
+
+#: UISettingsPersonal#10
+msgid "Auto away interval (min)"
+msgstr "Стан «адышоў», калі бязьдзейнічаем (хв.)"
+
+#: UISettingsPersonal#11
+msgid "Line speed (upload)"
+msgstr "Хуткасьць лініі (зацягваць)"
+
+#: UISettingsPersonal#12
+msgid ""
+"This drop-down contains a number of common upload speeds (in MiB/s),\n"
+"please choose the one closest to your own.\n"
+"Do not put in your download speed; this setting is a measure\n"
+"of how fast a source you are likely to be for other users."
+msgstr ""
+"Гэты выпадальны сьпіс зьмяшчае шэраг агульнапрынятых хуткасьцяў зацягваць\n"
+"(у МіБ/с). Калі ласка, абярыце адну, што болей адпавядае вашае хуткасьці.\n"
+"Ня трэба выкарыстоўваць тут значэньне хуткасьці сьцягваць: гэтыя налады\n"
+"паказваюць іншым карыстальнікам, наколькі хуткаю крыніцаю вы можаце быць."
+
+#: UISettingsPersonal#13
+msgid "Default hub encoding"
+msgstr "Звычайны знаказбор асяродку"
+
+#: UISettingsPersonal#14
+msgid "MiB/s"
+msgstr "МіБ/с"
+
+#: UISettingsSharing#1
+msgctxt "UISettingsSharing#1"
+msgid "Form"
+msgstr ""
+
+#: UISettingsSharing#2
+msgctxt "UISettingsSharing#2"
+msgid "Basic"
+msgstr "Галоўныя"
+
+#: UISettingsSharing#3
+msgid "Here you can specify templates for files you don't want to share. "
+msgstr ""
+"Тут вы можаце вызначыць шаблёны да назваў файлаў,\n"
+"якія вы не жадаеце абагуляць."
+
+#: UISettingsSharing#4
+msgctxt "UISettingsSharing#4"
+msgid "Advanced"
+msgstr "Адмысловыя"
+
+#: UISettingsSharing#5
+msgid ""
+"Share files with the Hidden attribute set and files inside directory with\n"
+"the Hidden attribute set.\n"
+"With this option off, files starting with a . (full stop) will not be "
+"shared.\n"
+"Note: this option requires a refresh of the file list,\n"
+"and may cause the client to appear to freeze."
+msgstr ""
+"Абагуляць файлы, што маюць азнаку «схаваны» ды файлы ў каталёґах,\n"
+"якія маюць азнаку «схаваны».\n"
+"Калі гэтую можнасьць не задзейнічаць, файлы, якія пачынаюцца з кропкі\n"
+"(«.»), абагуляцца ня будуць.\n"
+"Уважце: гэтая можнасьць патрабуе дапоўніць сьпіс файлаў, і пакуль ён\n"
+"дапаўняецца, вам можа падацца, што кліент «завіс»."
+
+#: UISettingsSharing#6
+msgid "FastHash options (restart needed)"
+msgstr "Можнасьці хутка ствараць скароты (трэба запусьціць нанова)"
+
+#: UISettingsSharing#7
+msgid "2"
+msgstr ""
+
+#: UISettingsSharing#8
+msgid "4"
+msgstr ""
+
+#: UISettingsSharing#9
+msgid "Automatically open extra slot if speed is below (KiB/s, 0 = infinite)"
+msgstr "Дадаць шчыліну, калі хуткасьць (у КіБ/с) меней за"
+
+#: UISettingsSharing#10
+msgid "Auto refresh time (minutes, 0 = off)"
+msgstr "Дапаўняць абагуленае кожныя (у хвілінах; 0 = не дапаўняць самарушна)"
+
+#: UISettingsSharing#11
+msgid "Max hash speed (MB/s) (0 = infinite)"
+msgstr "Найвялікшая хуткасьць ствараць скароты (МБ/с, 0 = не абмяжоўваць)"
+
+#: UISettingsSharing#12
+msgid ""
+"You can limit maximum hash speed here\n"
+"if your system becomes slow while hasing files."
+msgstr ""
+"Калі вашая сыстэма запавольваецца, калі ствараюцца скароты,\n"
+"дык вы можаце тут абмежаваць хуткасьць, зь якою яны ствараюцца."
+
+#: UISettingsSharing#13
+msgid ""
+"Configure the number of slots that other users can occupy\n"
+"to download files from you. A remote user can use only\n"
+"one slot for each hub that they're on with you.\n"
+"EiskaltDC++ supports uploading file lists and files below 64 KiB\n"
+"to other DC++ users without requiring a slot.\n"
+"There's a max of 3 connections in addition to normal slots,\n"
+"these are called mini slots.\n"
+"Note: If a user leaves the hub, EiskaltDC++ will close his slots;\n"
+"if the user is back within 10 minutes, EiskaltDC++ will grant him a slot."
+msgstr ""
+"Вызначце колькасьць шчылінаў, якія могуць заняць іншыя карыстальнікі,\n"
+"каб сьцягваць з вас файлы. Адлеглы карыстальнік можа ўжываць толькі\n"
+"адну шчыліну на кожным асяродку, дзе ён вас бачыць.\n"
+"EiskaltDC++ падтрымвае зацягваць сьпісы файлаў і файлы, меншыя за 64 КіБ,\n"
+"іншым карыстальнікам DC++ без таго, каб патрабаваць шчыліну.\n"
+"Найбольшая колькасьць дадатковых да звычайных шчылінаў злучэньняў — 3.\n"
+"Такія злучэньні называюцца мінішчылінамі.\n"
+"Уважце: калі карыстальнік сыходзіць з асяродку, EiskaltDC++ зачыняе ягоныя "
+"шчыліны,\n"
+"а калі карыстальнік вяртаецца цягам 10 хвілінаў, EiskaltDC++ дадае яму "
+"шчыліну."
+
+#: UISettingsSharing#14
+msgid "Use fast hash"
+msgstr "Хуткі спосаб ствараць скароты"
+
+#: UISettingsSharing#15
+msgid "Share hidden files"
+msgstr "Абагуляць схаваныя файлы"
+
+#: UISettingsSharing#16
+msgid "View share in simple mode"
+msgstr "Праглядаць абагуленае простым спосабам"
+
+#: UISettingsSharing#17
+msgctxt "UISettingsSharing#17"
+msgid "Path"
+msgstr "Шлях"
+
+#: UISettingsSharing#18
+msgctxt "UISettingsSharing#18"
+msgid "Name"
+msgstr "Назва"
+
+#: UISettingsSharing#19
+msgctxt "UISettingsSharing#19"
+msgid "Size"
+msgstr "Памер"
+
+#: UISettingsSharing#20
+msgid "Exceptions"
+msgstr "Выняткі"
+
+#: UISettingsSharing#21
+msgid "Don't share files and folders containing:"
+msgstr "Не абагуляць файлы ды каталёґі, якія зьмяшчаюць:"
+
+#: UISettingsSharing#22
+msgctxt "UISettingsSharing#22"
+msgid "Add new"
+msgstr "Дадаць"
+
+#: UISettingsSharing#23
+msgid "Select and add the directory"
+msgstr "Абраць і дадаць каталёґ"
+
+#: UISettingsSharing#24
+msgctxt "UISettingsSharing#24"
+msgid "Edit"
+msgstr "Зьмяніць"
+
+#: UISettingsSharing#25
+msgctxt "UISettingsSharing#25"
+msgid "Delete"
+msgstr "Выкрасьліць"
+
+#: UISettingsSharing#26
+msgid "Follow symlinks"
+msgstr "Хадзіць па спасылках"
+
+#: UISettingsSharing#27
+msgid "Share temporary files"
+msgstr "Абагуляць часовыя файлы"
+
+#: UISettingsSharing#28
+msgid "Auto remove non-existing directories"
+msgstr "Самарушна выкрасьляць каталёґі, што не існуюць"
+
+#: UISettingsSharing#29
+msgid "Private page mapping"
+msgstr "Закрыта адлюстроўваць бачыны"
+
+#: UISettingsSharing#30
+msgid "Proactive read from disk"
+msgstr "Загадзя чытаць з дыску"
+
+#: UISettingsSharing#31
+msgid "Buffer size (MiB)"
+msgstr "Памер буфэра (МіБ)"
+
+#: UISettingsSharing#32
+msgid "1"
+msgstr ""
+
+#: UISettingsSharing#33
+msgid "8"
+msgstr ""
+
+#: UISettingsSharing#34
+msgid "16"
+msgstr ""
+
+#: UISettingsSharing#35
+msgid "32"
+msgstr ""
+
+#: UISettingsSharing#36
+msgid "64"
+msgstr ""
+
+#: UISettingsSharing#37
+msgid "No reserve"
+msgstr "Не запасаць"
+
+#: UISettingsSharing#38
+msgid ""
+"If the average upload speed drops below the given number,\n"
+"an additional upload slot will be granted.\n"
+"These slots are granted once every 30 seconds at maximum.\n"
+"If the speed of the original uploads increases,\n"
+"the granted slot will not be closed."
+msgstr ""
+"Калі сярэдняя хуткасьць зацягваць робіцца меншаю за гэтае значэньне,\n"
+"будзе давацца адна дадатковая шчыліна зацягваць файлы.\n"
+"Гэтыя шчыліны выдаюцца не часьцей, як адзін раз на 30 сэкундаў.\n"
+"Калі хуткасьць зацягваць павялічыцца, дададзеная шчыліна\n"
+"не зачыніцца."
+
+#: UISettingsSharing#39
+msgid "Hashing delay on startup (seconds, -1 = infinity)"
+msgstr ""
+"Ствараць скароты па запуску з затрымкаю (у сэкундах, -1 = бязьмежнасьць)"
+
+#: UISettingsSharing#40
+msgid "Here you can set time interval of auto refreshing your share."
+msgstr ""
+"Тут вы можаце вызначыць прамежак між спробамі самарушна\n"
+"дапоўніць абагуленае."
+
+#: UISettingsSharing#41
+msgid "Upload slots"
+msgstr "Шчылінаў зацягваць файлы"
+
+#: UISettingsSharing#42
+msgctxt "UISettingsSharing#42"
+msgid "Total shared: %1"
+msgstr "Разам абагулілі: %1"
+
+#: UISettingsShortcuts#1
+msgctxt "UISettingsShortcuts#1"
+msgid "Form"
+msgstr ""
+
+#: UISettingsUC#1
+msgctxt "UISettingsUC#1"
+msgid "Form"
+msgstr ""
+
+#: UISettingsUC#2
+msgctxt "UISettingsUC#2"
+msgid "Add"
+msgstr "Дадаць"
+
+#: UISettingsUC#3
+msgctxt "UISettingsUC#3"
+msgid "Change"
+msgstr "Зьмяніць"
+
+#: UISettingsUC#4
+msgctxt "UISettingsUC#4"
+msgid "Remove"
+msgstr "Выкрасьліць"
+
+#: UISettingsUC#5
+msgctxt "UISettingsUC#5"
+msgid "Up"
+msgstr "Угору"
+
+#: UISettingsUC#6
+msgctxt "UISettingsUC#6"
+msgid "Down"
+msgstr "Да-долу"
+
+#: UIShareBrowser#1
+msgctxt "UIShareBrowser#1"
+msgid "Form"
+msgstr ""
+
+#: UIShareBrowserSearch#1
+msgctxt "UIShareBrowserSearch#1"
+msgid "Search"
+msgstr "Шукаць"
+
+#: UIShareBrowserSearch#2
+msgctxt "UIShareBrowserSearch#2"
+msgid "Filename"
+msgstr "Назва файла"
+
+#: UIShareBrowserSearch#3
+msgctxt "UIShareBrowserSearch#3"
+msgid "Directory"
+msgstr "Каталёґ"
+
+#: UISpy#1
+msgctxt "UISpy#1"
+msgid "Form"
+msgstr ""
+
+#: UISpy#2
+msgid "Ignore TTH search"
+msgstr "Не зважаць на пошук па скаротах"
+
+#: UISpy#3
+msgid "Autoscrolling"
+msgstr "Гартаць"
+
+#: UISpy#4
+msgctxt "UISpy#4"
+msgid "Start"
+msgstr "Пачаць"
+
+#: UISpy#5
+msgctxt "UISpy#5"
+msgid "Clear"
+msgstr "Ачысьціць"
+
+#: UITransferView#1
+msgctxt "UITransferView#1"
+msgid "Form"
+msgstr ""
+
+#: UIUserCommands#1
+msgid "New command"
+msgstr "Новы загад"
+
+#: UIUserCommands#2
+msgctxt "UIUserCommands#2"
+msgid "Type"
+msgstr "Від"
+
+#: UIUserCommands#3
+msgctxt "UIUserCommands#3"
+msgid "Separator"
+msgstr "Аддзяляльнік"
+
+#: UIUserCommands#4
+msgctxt "UIUserCommands#4"
+msgid "Chat"
+msgstr "Гамана"
+
+#: UIUserCommands#5
+msgid "Raw"
+msgstr "Наўпроставы"
+
+#: UIUserCommands#6
+msgid "PM"
+msgstr "Паведамленьне"
+
+#: UIUserCommands#7
+msgid "Context"
+msgstr "Дзе ўжываецца"
+
+#: UIUserCommands#8
+msgctxt "UIUserCommands#8"
+msgid "Hub"
+msgstr "Мэню асяродку"
+
+#: UIUserCommands#9
+msgctxt "UIUserCommands#9"
+msgid "Search"
+msgstr "Вынікі пошуку"
+
+#: UIUserCommands#10
+msgctxt "UIUserCommands#10"
+msgid "User"
+msgstr "Мэню карыстальніка"
+
+#: UIUserCommands#11
+msgctxt "UIUserCommands#11"
+msgid "Filebrowser"
+msgstr "Аглядальнік файлаў"
+
+#: UIUserCommands#12
+msgid "Parameters"
+msgstr "Азначэньне"
+
+#: UIUserCommands#13
+msgctxt "UIUserCommands#13"
+msgid "Name"
+msgstr "Назва"
+
+#: UIUserCommands#14
+msgctxt "UIUserCommands#14"
+msgid "Command"
+msgstr "Загад"
+
+#: UIUserCommands#15
+msgid "Hub address"
+msgstr "Адрас асяродку"
+
+#: UIUserCommands#16
+msgid "To"
+msgstr "Каму"
+
+#: UIUserCommands#17
+msgid "Send once per nick"
+msgstr "Адсылаць адзін раз на кожную мянушку"
+
+#: UIUserCommands#18
+msgid "Result"
+msgstr "Вынік"
+
+#: UserListModel#1
+msgid "<b>Hub role</b>: Operator"
+msgstr "<b>Роля на асяродку</b>: апэратар"
+
+#: UserListModel#2
+msgid "<b>Hub role</b>: User"
+msgstr "<b>Роля на асяродку</b>: карыстальнік"
+
+#: UserListModel#3
+msgid "<br/><b>Favorite user</b>"
+msgstr "<br/><b>Улюбёнец</b>"
+
+#: UserListModel#4
+msgctxt "UserListModel#4"
+msgid "Nick"
+msgstr "Мянушка"
+
+#: UserListModel#5
+msgid "Comment"
+msgstr "Заўвага"
+
+#: UserListModel#6
+msgctxt "UserListModel#6"
+msgid "Tag"
+msgstr "Бірка"
+
+#: UserListModel#7
+msgctxt "UserListModel#7"
+msgid "Connection"
+msgstr "Злучэньне"
+
+#: UserListModel#8
+msgid "E-mail"
+msgstr "Эл. пошта"
+
+#: UserListModel#9
+msgctxt "UserListModel#9"
+msgid "Share"
+msgstr "Абагуленае"
+
+#: UserListModel#10
+msgctxt "UserListModel#10"
+msgid "IP"
+msgstr "Адрас IP"
+
+#: WulforUtil#1
+msgctxt "WulforUtil#1"
+msgid "System default"
+msgstr "Прадвызначаны"
+
+#: WulforUtil#2
+msgid "Command parameters"
+msgstr "Парамэтры загаду"
+
+#: WulforUtil#3
+msgid "Ok"
+msgstr "Добра"
+
+#: WulforUtil#4
+msgctxt "WulforUtil#4"
+msgid "Cancel"
+msgstr "Скасаваць"
+
+#: WulforUtil#5
+msgid "%1 B"
+msgstr "%1 Б"
+
+#: WulforUtil#6
+msgid "%1 KiB"
+msgstr "%1 КіБ"
+
+#: WulforUtil#7
+msgid "%1 MiB"
+msgstr "%1 МіБ"
+
+#: WulforUtil#8
+msgid "%1 GiB"
+msgstr "%1 ГіБ"
+
+#: WulforUtil#9
+msgid "%1 TiB"
+msgstr "%1 ТіБ"
+
+#: WulforUtil#10
+msgid "%1 PiB"
+msgstr "%1 ПіБ"
+
+#: WulforUtil#11
+msgid "%1 KB"
+msgstr "%1 КБ"
+
+#: WulforUtil#12
+msgid "%1 MB"
+msgstr "%1 КБ"
+
+#: WulforUtil#13
+msgid "%1 GB"
+msgstr "%1 ГБ"
+
+#: WulforUtil#14
+msgid "%1 TB"
+msgstr "%1 ТБ"
+
+#: WulforUtil#15
+msgid "%1 PB"
+msgstr "%1 ПБ"
+
+#: WulforUtil#16
+msgid "Offline"
+msgstr "Адлучаны"
+
+#: WulforUtil#17
+msgid "User commands"
+msgstr "Загады"

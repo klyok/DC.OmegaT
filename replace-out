@@ -1,0 +1,21 @@
+#!/bin/sed -f
+s/<resources\([^>]*\)>/<Language\1>\r\n\t<Strings>\r/
+s/<\/resources>/\t<\/Strings>\r\n<\/Language>/
+/^[\t]$/d
+
+#/.*>flyfromsky<.*/d
+
+s/<string\ name=/<String\ Name=/
+s/\/string>/\/String>\r/
+
+s/Language\ Name="[^"]*"/Language\ Name="Беларуская мова"/
+s/Author="[^"]*"/Author="Клёк\ (i.kliok@gmail.com;\ JID:\ kliok@jabber.org.by;\ ICQ:\ 428769707)"/
+
+s/[\ ][\\][n]/\r\n/g
+s/[\\][n]/\r\n/g
+
+s/\([^\x0D]\)$/\1\x0D/g
+
+
+#/Revision/ r date.txt
+#s/^[[:digit:]]*.[[:digit:]]*$>/Revision="">/

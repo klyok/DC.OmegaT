@@ -1,0 +1,1 @@
+../../../FlylinkDC++/trunk/setup/custom_messages-EN-US.isl

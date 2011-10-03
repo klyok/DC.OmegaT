@@ -1,0 +1,16 @@
+#!/bin/sed -f
+s/Language>/resources>/
+s/<Language/<resources/
+
+s/<String\ Name=/<string\ name=/
+s/\/String>/\/string>/
+s/<Strings>//
+
+#s/<\/Strings>/\t<String\ Name="ClearSearchHistory">Clear search history<\/String>/
+s/<\/Strings>//
+
+s/^\([^[:lower:][:space:]\t<']\)/\\n\1/
+s/^\(\ [[:digit:]]\)/\\n\1/
+s/^$/\\n/
+s/^\x0D$/\\n/
+s/^\ \%/\\n\ \%/
